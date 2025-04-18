@@ -40,8 +40,8 @@ def get_auc(human_preds, llm_preds):
 
 for dataset_name in ["pub"] :
     for model_name in ["claude3"]:
-        path = "dataset/" + dataset_name  + "/" + dataset_name + "_" + model_name + ".json"
-        output_path = "output/" + dataset_name  + "/" + dataset_name + "_" + model_name + ".json"
+        path = "dataset/processed_data/test_data/" + dataset_name  + "/" + dataset_name + "_" + model_name + ".json"
+        # output_path = "output/" + dataset_name  + "/" + dataset_name + "_" + model_name + ".json"
         human_text, llm_text = load_human_llm_pairs(path)
 
         print("start calculating probabilities for human-written texts")
@@ -59,11 +59,11 @@ for dataset_name in ["pub"] :
 
         print("Detection AUROC: ", get_auc(human_preds,llm_preds))
 
-        # store outputs
-        output = {
-            "human_probs": human_preds,
-            "llm_probs": llm_preds
-        }
-        with open(output_path, "w", encoding="utf-8") as f:
-            json.dump(output, f, indent=2)
+        # # store outputs
+        # output = {
+        #     "human_probs": human_preds,
+        #     "llm_probs": llm_preds
+        # }
+        # with open(output_path, "w", encoding="utf-8") as f:
+        #     json.dump(output, f, indent=2)
 
