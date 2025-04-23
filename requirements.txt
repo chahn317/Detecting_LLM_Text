@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 accelerate
+=======
+>>>>>>> f541922 (add replication of fast-detect-gpt baseline, remove extra files)
 aiohttp
 aiosignal
 annotated-types
@@ -74,6 +77,10 @@ pyzmq
 regex
 requests 
 responses
+<<<<<<< HEAD
+=======
+scikit-learn
+>>>>>>> f541922 (add replication of fast-detect-gpt baseline, remove extra files)
 six 
 sniffio
 tokenizers
