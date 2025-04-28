@@ -1,0 +1,462 @@
+layer_num = 0
+the device being used is cuda
+there are 160 train data and 20 validation data.
+Epoch [1/10], Loss: 0.7306, Validation Accuracy: 0.5000
+Epoch [2/10], Loss: 0.7101, Validation Accuracy: 0.5000
+Epoch [3/10], Loss: 0.7105, Validation Accuracy: 0.5000
+Epoch [4/10], Loss: 0.6948, Validation Accuracy: 0.5000
+Epoch [5/10], Loss: 0.6934, Validation Accuracy: 0.5000
+Epoch [6/10], Loss: 0.6686, Validation Accuracy: 0.5000
+Epoch [7/10], Loss: 0.6764, Validation Accuracy: 0.5000
+Epoch [8/10], Loss: 0.7554, Validation Accuracy: 0.5000
+Epoch [9/10], Loss: 0.7095, Validation Accuracy: 0.5000
+Epoch [10/10], Loss: 0.7157, Validation Accuracy: 0.5000
+0
+layer_num = 1
+the device being used is cuda
+there are 160 train data and 20 validation data.
+Epoch [1/10], Loss: 0.4888, Validation Accuracy: 0.8500
+Epoch [2/10], Loss: 0.3861, Validation Accuracy: 0.9500
+Epoch [3/10], Loss: 0.2804, Validation Accuracy: 0.9500
+Epoch [4/10], Loss: 0.0626, Validation Accuracy: 0.9500
+Epoch [5/10], Loss: 0.0924, Validation Accuracy: 1.0000
+Epoch [6/10], Loss: 0.1065, Validation Accuracy: 1.0000
+Epoch [7/10], Loss: 0.1152, Validation Accuracy: 1.0000
+Epoch [8/10], Loss: 0.2235, Validation Accuracy: 1.0000
+Epoch [9/10], Loss: 0.1504, Validation Accuracy: 1.0000
+Epoch [10/10], Loss: 0.1414, Validation Accuracy: 1.0000
+1
+layer_num = 2
+the device being used is cuda
+there are 160 train data and 20 validation data.
+Epoch [1/10], Loss: 0.4824, Validation Accuracy: 0.9500
+Epoch [2/10], Loss: 0.2453, Validation Accuracy: 0.9500
+Epoch [3/10], Loss: 0.2862, Validation Accuracy: 0.9500
+Epoch [4/10], Loss: 0.2395, Validation Accuracy: 1.0000
+Epoch [5/10], Loss: 0.1535, Validation Accuracy: 1.0000
+Epoch [6/10], Loss: 0.0662, Validation Accuracy: 1.0000
+Epoch [7/10], Loss: 0.0312, Validation Accuracy: 1.0000
+Epoch [8/10], Loss: 0.0122, Validation Accuracy: 1.0000
+Epoch [9/10], Loss: 0.0114, Validation Accuracy: 1.0000
+Epoch [10/10], Loss: 0.0103, Validation Accuracy: 1.0000
+2
+layer_num = 3
+the device being used is cuda
+there are 160 train data and 20 validation data.
+Epoch [1/10], Loss: 0.8487, Validation Accuracy: 0.5000
+Epoch [2/10], Loss: 0.4978, Validation Accuracy: 0.8000
+Epoch [3/10], Loss: 0.3776, Validation Accuracy: 0.9500
+Epoch [4/10], Loss: 0.2370, Validation Accuracy: 0.9500
+Epoch [5/10], Loss: 0.1130, Validation Accuracy: 0.9500
+Epoch [6/10], Loss: 0.1631, Validation Accuracy: 0.9500
+Epoch [7/10], Loss: 0.1446, Validation Accuracy: 0.9500
+Epoch [8/10], Loss: 0.1995, Validation Accuracy: 0.9500
+Epoch [9/10], Loss: 0.1097, Validation Accuracy: 0.9500
+Epoch [10/10], Loss: 0.1151, Validation Accuracy: 0.9500
+3
+layer_num = 4
+the device being used is cuda
+there are 160 train data and 20 validation data.
+Epoch [1/10], Loss: 0.7018, Validation Accuracy: 0.9500
+Epoch [2/10], Loss: 0.2718, Validation Accuracy: 0.9500
+Epoch [3/10], Loss: 0.1969, Validation Accuracy: 0.9500
+Epoch [4/10], Loss: 0.1350, Validation Accuracy: 0.9500
+Epoch [5/10], Loss: 0.0795, Validation Accuracy: 1.0000
+Epoch [6/10], Loss: 0.1087, Validation Accuracy: 1.0000
+Epoch [7/10], Loss: 0.1658, Validation Accuracy: 0.9500
+Epoch [8/10], Loss: 0.2166, Validation Accuracy: 0.9500
+Epoch [9/10], Loss: 0.1406, Validation Accuracy: 0.9500
+Epoch [10/10], Loss: 0.1772, Validation Accuracy: 1.0000
+4
+layer_num = 5
+the device being used is cuda
+there are 160 train data and 20 validation data.
+Epoch [1/10], Loss: 0.7357, Validation Accuracy: 0.5000
+Epoch [2/10], Loss: 0.5079, Validation Accuracy: 0.9500
+Epoch [3/10], Loss: 0.2808, Validation Accuracy: 0.9500
+Epoch [4/10], Loss: 0.1479, Validation Accuracy: 0.9500
+Epoch [5/10], Loss: 0.0807, Validation Accuracy: 1.0000
+Epoch [6/10], Loss: 0.0804, Validation Accuracy: 1.0000
+Epoch [7/10], Loss: 0.1521, Validation Accuracy: 1.0000
+Epoch [8/10], Loss: 0.1254, Validation Accuracy: 1.0000
+Epoch [9/10], Loss: 0.0812, Validation Accuracy: 1.0000
+Epoch [10/10], Loss: 0.0437, Validation Accuracy: 1.0000
+5
+layer_num = 6
+the device being used is cuda
+there are 160 train data and 20 validation data.
+Epoch [1/10], Loss: 0.7905, Validation Accuracy: 0.5000
+Epoch [2/10], Loss: 0.3664, Validation Accuracy: 0.9000
+Epoch [3/10], Loss: 0.2525, Validation Accuracy: 0.9500
+Epoch [4/10], Loss: 0.1714, Validation Accuracy: 0.9500
+Epoch [5/10], Loss: 0.2106, Validation Accuracy: 1.0000
+Epoch [6/10], Loss: 0.1096, Validation Accuracy: 0.9500
+Epoch [7/10], Loss: 0.0505, Validation Accuracy: 0.9500
+Epoch [8/10], Loss: 0.0288, Validation Accuracy: 0.9500
+Epoch [9/10], Loss: 0.0159, Validation Accuracy: 0.9500
+Epoch [10/10], Loss: 0.1471, Validation Accuracy: 1.0000
+6
+layer_num = 7
+the device being used is cuda
+there are 160 train data and 20 validation data.
+Epoch [1/10], Loss: 0.1107, Validation Accuracy: 1.0000
+Epoch [2/10], Loss: 0.0938, Validation Accuracy: 1.0000
+Epoch [3/10], Loss: 0.0175, Validation Accuracy: 1.0000
+Epoch [4/10], Loss: 0.0296, Validation Accuracy: 1.0000
+Epoch [5/10], Loss: 0.1302, Validation Accuracy: 1.0000
+Epoch [6/10], Loss: 0.0744, Validation Accuracy: 1.0000
+Epoch [7/10], Loss: 0.0014, Validation Accuracy: 1.0000
+Epoch [8/10], Loss: 0.0100, Validation Accuracy: 1.0000
+Epoch [9/10], Loss: 0.0005, Validation Accuracy: 1.0000
+Epoch [10/10], Loss: 0.0021, Validation Accuracy: 1.0000
+7
+layer_num = 8
+the device being used is cuda
+there are 160 train data and 20 validation data.
+Epoch [1/10], Loss: 0.3223, Validation Accuracy: 0.9500
+Epoch [2/10], Loss: 0.1382, Validation Accuracy: 1.0000
+Epoch [3/10], Loss: 0.0690, Validation Accuracy: 1.0000
+Epoch [4/10], Loss: 0.1353, Validation Accuracy: 1.0000
+Epoch [5/10], Loss: 0.0368, Validation Accuracy: 1.0000
+Epoch [6/10], Loss: 0.0293, Validation Accuracy: 1.0000
+Epoch [7/10], Loss: 0.0091, Validation Accuracy: 1.0000
+Epoch [8/10], Loss: 0.0057, Validation Accuracy: 1.0000
+Epoch [9/10], Loss: 0.0067, Validation Accuracy: 1.0000
+Epoch [10/10], Loss: 0.0023, Validation Accuracy: 1.0000
+8
+layer_num = 9
+the device being used is cuda
+there are 160 train data and 20 validation data.
+Epoch [1/10], Loss: 0.9237, Validation Accuracy: 0.5000
+Epoch [2/10], Loss: 0.7697, Validation Accuracy: 0.5000
+Epoch [3/10], Loss: 0.6703, Validation Accuracy: 0.9500
+Epoch [4/10], Loss: 0.6159, Validation Accuracy: 0.9500
+Epoch [5/10], Loss: 0.4117, Validation Accuracy: 0.9500
+Epoch [6/10], Loss: 0.2611, Validation Accuracy: 1.0000
+Epoch [7/10], Loss: 0.1617, Validation Accuracy: 1.0000
+Epoch [8/10], Loss: 0.1040, Validation Accuracy: 0.9500
+Epoch [9/10], Loss: 0.0593, Validation Accuracy: 1.0000
+Epoch [10/10], Loss: 0.3950, Validation Accuracy: 1.0000
+9
+layer_num = 10
+the device being used is cuda
+there are 160 train data and 20 validation data.
+Epoch [1/10], Loss: 0.6911, Validation Accuracy: 0.5000
+Epoch [2/10], Loss: 0.6249, Validation Accuracy: 0.9500
+Epoch [3/10], Loss: 0.4170, Validation Accuracy: 0.9500
+Epoch [4/10], Loss: 0.1606, Validation Accuracy: 0.9500
+Epoch [5/10], Loss: 0.2453, Validation Accuracy: 1.0000
+Epoch [6/10], Loss: 0.1555, Validation Accuracy: 0.9500
+Epoch [7/10], Loss: 0.2408, Validation Accuracy: 1.0000
+Epoch [8/10], Loss: 0.0489, Validation Accuracy: 1.0000
+Epoch [9/10], Loss: 0.1344, Validation Accuracy: 1.0000
+Epoch [10/10], Loss: 0.1491, Validation Accuracy: 1.0000
+10
+layer_num = 11
+the device being used is cuda
+there are 160 train data and 20 validation data.
+Epoch [1/10], Loss: 0.7306, Validation Accuracy: 0.5000
+Epoch [2/10], Loss: 0.6299, Validation Accuracy: 0.7500
+Epoch [3/10], Loss: 0.3478, Validation Accuracy: 0.8000
+Epoch [4/10], Loss: 0.2568, Validation Accuracy: 0.9500
+Epoch [5/10], Loss: 0.0770, Validation Accuracy: 0.9500
+Epoch [6/10], Loss: 0.1705, Validation Accuracy: 0.9500
+Epoch [7/10], Loss: 0.0292, Validation Accuracy: 1.0000
+Epoch [8/10], Loss: 0.3165, Validation Accuracy: 0.9000
+Epoch [9/10], Loss: 0.1842, Validation Accuracy: 1.0000
+Epoch [10/10], Loss: 0.0301, Validation Accuracy: 1.0000
+11
+layer_num = 12
+the device being used is cuda
+there are 160 train data and 20 validation data.
+Epoch [1/10], Loss: 0.6615, Validation Accuracy: 0.5000
+Epoch [2/10], Loss: 0.6381, Validation Accuracy: 0.7500
+Epoch [3/10], Loss: 0.4481, Validation Accuracy: 0.9000
+Epoch [4/10], Loss: 0.2583, Validation Accuracy: 0.9500
+Epoch [5/10], Loss: 0.2611, Validation Accuracy: 0.9500
+Epoch [6/10], Loss: 0.2761, Validation Accuracy: 0.9500
+Epoch [7/10], Loss: 0.1368, Validation Accuracy: 1.0000
+Epoch [8/10], Loss: 0.2605, Validation Accuracy: 0.9500
+Epoch [9/10], Loss: 0.0568, Validation Accuracy: 1.0000
+Epoch [10/10], Loss: 0.0382, Validation Accuracy: 1.0000
+12
+layer_num = 13
+the device being used is cuda
+there are 160 train data and 20 validation data.
+Epoch [1/10], Loss: 0.8147, Validation Accuracy: 0.5000
+Epoch [2/10], Loss: 0.6896, Validation Accuracy: 0.5000
+Epoch [3/10], Loss: 0.6485, Validation Accuracy: 0.5000
+Epoch [4/10], Loss: 0.4978, Validation Accuracy: 0.9500
+Epoch [5/10], Loss: 0.1988, Validation Accuracy: 0.9000
+Epoch [6/10], Loss: 0.1616, Validation Accuracy: 0.9500
+Epoch [7/10], Loss: 0.4070, Validation Accuracy: 0.9500
+Epoch [8/10], Loss: 0.1047, Validation Accuracy: 1.0000
+Epoch [9/10], Loss: 0.0802, Validation Accuracy: 1.0000
+Epoch [10/10], Loss: 0.1404, Validation Accuracy: 1.0000
+13
+layer_num = 14
+the device being used is cuda
+there are 160 train data and 20 validation data.
+Epoch [1/10], Loss: 0.8101, Validation Accuracy: 0.5000
+Epoch [2/10], Loss: 0.7566, Validation Accuracy: 0.5000
+Epoch [3/10], Loss: 0.6722, Validation Accuracy: 0.7500
+Epoch [4/10], Loss: 0.6209, Validation Accuracy: 0.9500
+Epoch [5/10], Loss: 0.2855, Validation Accuracy: 0.9500
+Epoch [6/10], Loss: 0.1972, Validation Accuracy: 1.0000
+Epoch [7/10], Loss: 0.2473, Validation Accuracy: 1.0000
+Epoch [8/10], Loss: 0.0993, Validation Accuracy: 0.9500
+Epoch [9/10], Loss: 0.1904, Validation Accuracy: 1.0000
+Epoch [10/10], Loss: 0.1645, Validation Accuracy: 1.0000
+14
+layer_num = 15
+the device being used is cuda
+there are 160 train data and 20 validation data.
+Epoch [1/10], Loss: 0.6482, Validation Accuracy: 0.5000
+Epoch [2/10], Loss: 0.8274, Validation Accuracy: 0.5000
+Epoch [3/10], Loss: 0.6763, Validation Accuracy: 0.8000
+Epoch [4/10], Loss: 0.4748, Validation Accuracy: 0.9500
+Epoch [5/10], Loss: 0.3158, Validation Accuracy: 0.9500
+Epoch [6/10], Loss: 0.3044, Validation Accuracy: 0.9000
+Epoch [7/10], Loss: 0.3962, Validation Accuracy: 1.0000
+Epoch [8/10], Loss: 0.0847, Validation Accuracy: 0.9500
+Epoch [9/10], Loss: 0.1056, Validation Accuracy: 1.0000
+Epoch [10/10], Loss: 0.0532, Validation Accuracy: 0.9500
+15
+layer_num = 16
+the device being used is cuda
+there are 160 train data and 20 validation data.
+Epoch [1/10], Loss: 0.7947, Validation Accuracy: 0.8500
+Epoch [2/10], Loss: 0.6531, Validation Accuracy: 0.6000
+Epoch [3/10], Loss: 0.4847, Validation Accuracy: 0.8500
+Epoch [4/10], Loss: 0.3237, Validation Accuracy: 0.9500
+Epoch [5/10], Loss: 0.3137, Validation Accuracy: 0.9500
+Epoch [6/10], Loss: 0.2761, Validation Accuracy: 0.9500
+Epoch [7/10], Loss: 0.4431, Validation Accuracy: 0.9500
+Epoch [8/10], Loss: 0.2618, Validation Accuracy: 1.0000
+Epoch [9/10], Loss: 0.1971, Validation Accuracy: 0.9500
+Epoch [10/10], Loss: 0.4681, Validation Accuracy: 0.9500
+16
+layer_num = 17
+the device being used is cuda
+there are 160 train data and 20 validation data.
+Epoch [1/10], Loss: 0.8279, Validation Accuracy: 0.5000
+Epoch [2/10], Loss: 0.6908, Validation Accuracy: 0.5000
+Epoch [3/10], Loss: 0.6643, Validation Accuracy: 0.7000
+Epoch [4/10], Loss: 0.4521, Validation Accuracy: 0.9000
+Epoch [5/10], Loss: 0.3742, Validation Accuracy: 0.9500
+Epoch [6/10], Loss: 0.1124, Validation Accuracy: 0.9500
+Epoch [7/10], Loss: 0.2402, Validation Accuracy: 0.9500
+Epoch [8/10], Loss: 0.1971, Validation Accuracy: 0.9500
+Epoch [9/10], Loss: 0.2977, Validation Accuracy: 1.0000
+Epoch [10/10], Loss: 0.1179, Validation Accuracy: 0.9500
+17
+layer_num = 18
+the device being used is cuda
+there are 160 train data and 20 validation data.
+Epoch [1/10], Loss: 0.7182, Validation Accuracy: 0.5000
+Epoch [2/10], Loss: 0.6655, Validation Accuracy: 0.5000
+Epoch [3/10], Loss: 0.5577, Validation Accuracy: 0.9500
+Epoch [4/10], Loss: 0.3314, Validation Accuracy: 0.9500
+Epoch [5/10], Loss: 0.1810, Validation Accuracy: 0.9500
+Epoch [6/10], Loss: 0.1207, Validation Accuracy: 0.9500
+Epoch [7/10], Loss: 0.0671, Validation Accuracy: 1.0000
+Epoch [8/10], Loss: 0.3258, Validation Accuracy: 1.0000
+Epoch [9/10], Loss: 0.2160, Validation Accuracy: 1.0000
+Epoch [10/10], Loss: 0.2848, Validation Accuracy: 1.0000
+18
+layer_num = 19
+the device being used is cuda
+there are 160 train data and 20 validation data.
+Epoch [1/10], Loss: 0.6991, Validation Accuracy: 0.5000
+Epoch [2/10], Loss: 0.6949, Validation Accuracy: 0.5000
+Epoch [3/10], Loss: 0.6775, Validation Accuracy: 0.5000
+Epoch [4/10], Loss: 0.6144, Validation Accuracy: 0.6000
+Epoch [5/10], Loss: 0.4872, Validation Accuracy: 0.7500
+Epoch [6/10], Loss: 0.2442, Validation Accuracy: 0.6500
+Epoch [7/10], Loss: 0.3140, Validation Accuracy: 1.0000
+Epoch [8/10], Loss: 0.1111, Validation Accuracy: 1.0000
+Epoch [9/10], Loss: 0.1165, Validation Accuracy: 1.0000
+Epoch [10/10], Loss: 0.0551, Validation Accuracy: 1.0000
+19
+layer_num = 20
+the device being used is cuda
+there are 160 train data and 20 validation data.
+Epoch [1/10], Loss: 0.9279, Validation Accuracy: 0.5000
+Epoch [2/10], Loss: 0.7686, Validation Accuracy: 0.5000
+Epoch [3/10], Loss: 0.7228, Validation Accuracy: 0.5000
+Epoch [4/10], Loss: 0.5462, Validation Accuracy: 1.0000
+Epoch [5/10], Loss: 0.2481, Validation Accuracy: 1.0000
+Epoch [6/10], Loss: 0.0807, Validation Accuracy: 1.0000
+Epoch [7/10], Loss: 0.0930, Validation Accuracy: 1.0000
+Epoch [8/10], Loss: 0.1255, Validation Accuracy: 1.0000
+Epoch [9/10], Loss: 0.0594, Validation Accuracy: 1.0000
+Epoch [10/10], Loss: 0.2966, Validation Accuracy: 1.0000
+20
+layer_num = 21
+the device being used is cuda
+there are 160 train data and 20 validation data.
+Epoch [1/10], Loss: 0.7244, Validation Accuracy: 0.5000
+Epoch [2/10], Loss: 0.5812, Validation Accuracy: 0.5000
+Epoch [3/10], Loss: 0.2458, Validation Accuracy: 1.0000
+Epoch [4/10], Loss: 0.0758, Validation Accuracy: 1.0000
+Epoch [5/10], Loss: 0.0673, Validation Accuracy: 1.0000
+Epoch [6/10], Loss: 0.1232, Validation Accuracy: 1.0000
+Epoch [7/10], Loss: 0.0713, Validation Accuracy: 1.0000
+Epoch [8/10], Loss: 0.0136, Validation Accuracy: 1.0000
+Epoch [9/10], Loss: 0.0121, Validation Accuracy: 1.0000
+Epoch [10/10], Loss: 0.0699, Validation Accuracy: 1.0000
+21
+layer_num = 22
+the device being used is cuda
+there are 160 train data and 20 validation data.
+Epoch [1/10], Loss: 0.6310, Validation Accuracy: 0.5000
+Epoch [2/10], Loss: 0.3401, Validation Accuracy: 1.0000
+Epoch [3/10], Loss: 0.0786, Validation Accuracy: 1.0000
+Epoch [4/10], Loss: 0.2918, Validation Accuracy: 1.0000
+Epoch [5/10], Loss: 0.2338, Validation Accuracy: 1.0000
+Epoch [6/10], Loss: 0.2169, Validation Accuracy: 1.0000
+Epoch [7/10], Loss: 0.1373, Validation Accuracy: 1.0000
+Epoch [8/10], Loss: 0.2283, Validation Accuracy: 1.0000
+Epoch [9/10], Loss: 0.0517, Validation Accuracy: 1.0000
+Epoch [10/10], Loss: 0.0212, Validation Accuracy: 1.0000
+22
+layer_num = 23
+the device being used is cuda
+there are 160 train data and 20 validation data.
+Epoch [1/10], Loss: 0.8386, Validation Accuracy: 0.5000
+Epoch [2/10], Loss: 0.6697, Validation Accuracy: 0.5000
+Epoch [3/10], Loss: 0.5956, Validation Accuracy: 1.0000
+Epoch [4/10], Loss: 0.2193, Validation Accuracy: 1.0000
+Epoch [5/10], Loss: 0.1413, Validation Accuracy: 1.0000
+Epoch [6/10], Loss: 0.0558, Validation Accuracy: 1.0000
+Epoch [7/10], Loss: 0.0217, Validation Accuracy: 1.0000
+Epoch [8/10], Loss: 0.0820, Validation Accuracy: 1.0000
+Epoch [9/10], Loss: 0.0435, Validation Accuracy: 1.0000
+Epoch [10/10], Loss: 0.0409, Validation Accuracy: 1.0000
+23
+layer_num = 24
+the device being used is cuda
+there are 160 train data and 20 validation data.
+Epoch [1/10], Loss: 0.6642, Validation Accuracy: 0.6500
+Epoch [2/10], Loss: 0.1317, Validation Accuracy: 1.0000
+Epoch [3/10], Loss: 0.0390, Validation Accuracy: 1.0000
+Epoch [4/10], Loss: 0.0086, Validation Accuracy: 1.0000
+Epoch [5/10], Loss: 0.0082, Validation Accuracy: 1.0000
+Epoch [6/10], Loss: 0.0213, Validation Accuracy: 1.0000
+Epoch [7/10], Loss: 0.0810, Validation Accuracy: 1.0000
+Epoch [8/10], Loss: 0.0221, Validation Accuracy: 1.0000
+Epoch [9/10], Loss: 0.0221, Validation Accuracy: 1.0000
+Epoch [10/10], Loss: 0.0176, Validation Accuracy: 1.0000
+24
+layer_num = 25
+the device being used is cuda
+there are 160 train data and 20 validation data.
+Epoch [1/10], Loss: 0.6142, Validation Accuracy: 0.5000
+Epoch [2/10], Loss: 0.3357, Validation Accuracy: 1.0000
+Epoch [3/10], Loss: 0.1054, Validation Accuracy: 1.0000
+Epoch [4/10], Loss: 0.1617, Validation Accuracy: 1.0000
+Epoch [5/10], Loss: 0.0526, Validation Accuracy: 1.0000
+Epoch [6/10], Loss: 0.0228, Validation Accuracy: 0.9000
+Epoch [7/10], Loss: 0.0117, Validation Accuracy: 1.0000
+Epoch [8/10], Loss: 0.0121, Validation Accuracy: 1.0000
+Epoch [9/10], Loss: 0.0074, Validation Accuracy: 1.0000
+Epoch [10/10], Loss: 0.0128, Validation Accuracy: 1.0000
+25
+layer_num = 26
+the device being used is cuda
+there are 160 train data and 20 validation data.
+Epoch [1/10], Loss: 0.7374, Validation Accuracy: 0.5000
+Epoch [2/10], Loss: 0.6096, Validation Accuracy: 1.0000
+Epoch [3/10], Loss: 0.2378, Validation Accuracy: 1.0000
+Epoch [4/10], Loss: 0.0586, Validation Accuracy: 1.0000
+Epoch [5/10], Loss: 0.0204, Validation Accuracy: 1.0000
+Epoch [6/10], Loss: 0.0288, Validation Accuracy: 1.0000
+Epoch [7/10], Loss: 0.0167, Validation Accuracy: 1.0000
+Epoch [8/10], Loss: 0.0122, Validation Accuracy: 1.0000
+Epoch [9/10], Loss: 0.0081, Validation Accuracy: 1.0000
+Epoch [10/10], Loss: 0.0083, Validation Accuracy: 1.0000
+26
+layer_num = 27
+the device being used is cuda
+there are 160 train data and 20 validation data.
+Epoch [1/10], Loss: 0.9599, Validation Accuracy: 0.5000
+Epoch [2/10], Loss: 0.2886, Validation Accuracy: 1.0000
+Epoch [3/10], Loss: 0.0401, Validation Accuracy: 1.0000
+Epoch [4/10], Loss: 0.0198, Validation Accuracy: 1.0000
+Epoch [5/10], Loss: 0.0165, Validation Accuracy: 0.9500
+Epoch [6/10], Loss: 0.0096, Validation Accuracy: 1.0000
+Epoch [7/10], Loss: 0.0128, Validation Accuracy: 1.0000
+Epoch [8/10], Loss: 0.0049, Validation Accuracy: 1.0000
+Epoch [9/10], Loss: 0.0042, Validation Accuracy: 1.0000
+Epoch [10/10], Loss: 0.0030, Validation Accuracy: 1.0000
+27
+layer_num = 28
+the device being used is cuda
+there are 160 train data and 20 validation data.
+Epoch [1/10], Loss: 1.6252, Validation Accuracy: 0.5000
+Epoch [2/10], Loss: 0.6960, Validation Accuracy: 0.5000
+Epoch [3/10], Loss: 0.6910, Validation Accuracy: 0.5000
+Epoch [4/10], Loss: 0.5298, Validation Accuracy: 1.0000
+Epoch [5/10], Loss: 0.2835, Validation Accuracy: 1.0000
+Epoch [6/10], Loss: 0.1470, Validation Accuracy: 1.0000
+Epoch [7/10], Loss: 0.0575, Validation Accuracy: 1.0000
+Epoch [8/10], Loss: 0.1128, Validation Accuracy: 1.0000
+Epoch [9/10], Loss: 0.1867, Validation Accuracy: 0.9500
+Epoch [10/10], Loss: 0.0478, Validation Accuracy: 0.9500
+28
+layer_num = 29
+the device being used is cuda
+there are 160 train data and 20 validation data.
+Epoch [1/10], Loss: 0.6004, Validation Accuracy: 0.5000
+Epoch [2/10], Loss: 0.1393, Validation Accuracy: 0.9000
+Epoch [3/10], Loss: 0.0176, Validation Accuracy: 1.0000
+Epoch [4/10], Loss: 0.0058, Validation Accuracy: 1.0000
+Epoch [5/10], Loss: 0.0026, Validation Accuracy: 1.0000
+Epoch [6/10], Loss: 0.0015, Validation Accuracy: 1.0000
+Epoch [7/10], Loss: 0.0072, Validation Accuracy: 1.0000
+Epoch [8/10], Loss: 0.0019, Validation Accuracy: 1.0000
+Epoch [9/10], Loss: 0.0009, Validation Accuracy: 1.0000
+Epoch [10/10], Loss: 0.0266, Validation Accuracy: 0.9500
+29
+layer_num = 30
+the device being used is cuda
+there are 160 train data and 20 validation data.
+Epoch [1/10], Loss: 0.0819, Validation Accuracy: 0.9500
+Epoch [2/10], Loss: 0.0241, Validation Accuracy: 1.0000
+Epoch [3/10], Loss: 0.0065, Validation Accuracy: 1.0000
+Epoch [4/10], Loss: 0.0036, Validation Accuracy: 0.9500
+Epoch [5/10], Loss: 0.0214, Validation Accuracy: 1.0000
+Epoch [6/10], Loss: 0.0029, Validation Accuracy: 1.0000
+Epoch [7/10], Loss: 0.0009, Validation Accuracy: 0.9500
+Epoch [8/10], Loss: 0.0028, Validation Accuracy: 1.0000
+Epoch [9/10], Loss: 0.0116, Validation Accuracy: 0.9500
+Epoch [10/10], Loss: 0.0013, Validation Accuracy: 1.0000
+30
+layer_num = 31
+the device being used is cuda
+there are 160 train data and 20 validation data.
+Epoch [1/10], Loss: 0.1995, Validation Accuracy: 1.0000
+Epoch [2/10], Loss: 0.0136, Validation Accuracy: 1.0000
+Epoch [3/10], Loss: 0.0050, Validation Accuracy: 1.0000
+Epoch [4/10], Loss: 0.0019, Validation Accuracy: 1.0000
+Epoch [5/10], Loss: 0.0054, Validation Accuracy: 1.0000
+Epoch [6/10], Loss: 0.0030, Validation Accuracy: 1.0000
+Epoch [7/10], Loss: 0.0008, Validation Accuracy: 1.0000
+Epoch [8/10], Loss: 0.0365, Validation Accuracy: 0.9000
+Epoch [9/10], Loss: 0.0013, Validation Accuracy: 0.9500
+Epoch [10/10], Loss: 0.0317, Validation Accuracy: 1.0000
+31
+layer_num = 32
+the device being used is cuda
+there are 160 train data and 20 validation data.
+Epoch [1/10], Loss: 0.0177, Validation Accuracy: 1.0000
+Epoch [2/10], Loss: 0.0830, Validation Accuracy: 1.0000
+Epoch [3/10], Loss: 0.0032, Validation Accuracy: 1.0000
+Epoch [4/10], Loss: 0.0009, Validation Accuracy: 1.0000
+Epoch [5/10], Loss: 0.0001, Validation Accuracy: 1.0000
+Epoch [6/10], Loss: 0.0009, Validation Accuracy: 1.0000
+Epoch [7/10], Loss: 0.0022, Validation Accuracy: 1.0000
+Epoch [8/10], Loss: 0.0001, Validation Accuracy: 1.0000
+Epoch [9/10], Loss: 0.0000, Validation Accuracy: 1.0000
+Epoch [10/10], Loss: 0.0002, Validation Accuracy: 1.0000
+32
