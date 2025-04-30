@@ -15,11 +15,6 @@ data = pd.read_csv(csv_file)
 # Process test split first
 test_split = data[data['split'] == 'test']
 
-# Get the human written text samples
-human_text = test_split[test_split['multi_label'] == 'human'].apply(
-    lambda row: {"text": row['text'], "label": row['label']}, axis=1
-).tolist()
-
 # Group by language
 grouped_by_language = test_split.groupby('language')
 
@@ -34,6 +29,11 @@ for language, language_group in grouped_by_language:
 
         # Output json object of {"text": text, "label": label}
         json_objects = label_group.apply(
+            lambda row: {"text": row['text'], "label": row['label']}, axis=1
+        ).tolist()
+
+        # Get the human written text samples
+        human_text = language_group[language_group['multi_label'] == 'human'].apply(
             lambda row: {"text": row['text'], "label": row['label']}, axis=1
         ).tolist()
         
