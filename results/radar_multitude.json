@@ -1,0 +1,26 @@
+[
+    {
+        "dataset_path": "dataset/processed_multitude/test_data/en/multitude_alpaca-lora-30b.json",
+        "auroc": 0.9616
+    },
+    {
+        "dataset_path": "dataset/processed_multitude/test_data/en/multitude_gpt-3.5-turbo.json",
+        "auroc": 0.9532
+    },
+    {
+        "dataset_path": "dataset/processed_multitude/test_data/en/multitude_gpt-4.json",
+        "auroc": 0.932
+    },
+    {
+        "dataset_path": "dataset/processed_multitude/test_data/es/multitude_alpaca-lora-30b.json",
+        "auroc": 0.738
+    },
+    {
+        "dataset_path": "dataset/processed_multitude/test_data/es/multitude_gpt-3.5-turbo.json",
+        "auroc": 0.6596
+    },
+    {
+        "dataset_path": "dataset/processed_multitude/test_data/es/multitude_gpt-4.json",
+        "auroc": 0.5691
+    }
+]

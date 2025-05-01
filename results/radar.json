@@ -1,0 +1,38 @@
+[
+    {
+        "dataset_path": "dataset/processed_data/test_data/pub_claude3.json",
+        "auroc": 0.522
+    },
+    {
+        "dataset_path": "dataset/processed_data/test_data/pub_gpt3.5.json",
+        "auroc": 0.7373
+    },
+    {
+        "dataset_path": "dataset/processed_data/test_data/pub_gpt4.json",
+        "auroc": 0.803
+    },
+    {
+        "dataset_path": "dataset/processed_data/test_data/writing_claude3.json",
+        "auroc": 0.9439
+    },
+    {
+        "dataset_path": "dataset/processed_data/test_data/writing_gpt3.5.json",
+        "auroc": 0.9594
+    },
+    {
+        "dataset_path": "dataset/processed_data/test_data/writing_gpt4.json",
+        "auroc": 0.8593
+    },
+    {
+        "dataset_path": "dataset/processed_data/test_data/xsum_claude3.json",
+        "auroc": 0.9953
+    },
+    {
+        "dataset_path": "dataset/processed_data/test_data/xsum_gpt3.5.json",
+        "auroc": 0.9973
+    },
+    {
+        "dataset_path": "dataset/processed_data/test_data/xsum_gpt4.json",
+        "auroc": 0.9931
+    }
+]
