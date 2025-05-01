@@ -1,0 +1,56 @@
+[
+    {
+        "sampling_model_name": "gpt-neo-2.7B",
+        "scoring_model_name": "gpt-neo-2.7B",
+        "dataset_path": "dataset/processed_data/test_data/pub_claude3.json",
+        "auroc": 0.8869
+    },
+    {
+        "sampling_model_name": "gpt-neo-2.7B",
+        "scoring_model_name": "gpt-neo-2.7B",
+        "dataset_path": "dataset/processed_data/test_data/pub_gpt3.5.json",
+        "auroc": 0.7611
+    },
+    {
+        "sampling_model_name": "gpt-neo-2.7B",
+        "scoring_model_name": "gpt-neo-2.7B",
+        "dataset_path": "dataset/processed_data/test_data/pub_gpt4.json",
+        "auroc": 0.6566
+    },
+    {
+        "sampling_model_name": "gpt-neo-2.7B",
+        "scoring_model_name": "gpt-neo-2.7B",
+        "dataset_path": "dataset/processed_data/test_data/writing_claude3.json",
+        "auroc": 0.9758
+    },
+    {
+        "sampling_model_name": "gpt-neo-2.7B",
+        "scoring_model_name": "gpt-neo-2.7B",
+        "dataset_path": "dataset/processed_data/test_data/writing_gpt3.5.json",
+        "auroc": 0.9918
+    },
+    {
+        "sampling_model_name": "gpt-neo-2.7B",
+        "scoring_model_name": "gpt-neo-2.7B",
+        "dataset_path": "dataset/processed_data/test_data/writing_gpt4.json",
+        "auroc": 0.9491
+    },
+    {
+        "sampling_model_name": "gpt-neo-2.7B",
+        "scoring_model_name": "gpt-neo-2.7B",
+        "dataset_path": "dataset/processed_data/test_data/xsum_claude3.json",
+        "auroc": 0.9941
+    },
+    {
+        "sampling_model_name": "gpt-neo-2.7B",
+        "scoring_model_name": "gpt-neo-2.7B",
+        "dataset_path": "dataset/processed_data/test_data/xsum_gpt3.5.json",
+        "auroc": 0.9908
+    },
+    {
+        "sampling_model_name": "gpt-neo-2.7B",
+        "scoring_model_name": "gpt-neo-2.7B",
+        "dataset_path": "dataset/processed_data/test_data/xsum_gpt4.json",
+        "auroc": 0.8762
+    }
+]

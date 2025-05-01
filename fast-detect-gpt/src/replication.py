@@ -88,29 +88,46 @@ def get_auc(human_preds, llm_preds):
 
 def run(args):
     detector = FastDetectGPT(args)
-    for dataset_name in ["pub", "writing", "xsum"] :
-        for model_name in ["claude3", "gpt3.5", "gpt4"]:
-            path = "../dataset/processed_data/test_data/" + dataset_name  + "/" + dataset_name + "_" + model_name + ".json"
-            # output_path = "output/" + dataset_name  + "/" + dataset_name + "_" + model_name + ".json"
-            human_text, llm_text = load_human_llm_pairs(path)
-            # print("start calculating probabilities for human-written texts")
-            human_preds = []
-            with torch.no_grad():
-                for ht in human_text:
-                    prob, crit, ntokens = detector.compute_prob(ht)
-                    human_preds.append(prob)
-            # print("start calculating probabilities for LLM-generated texts")
-            llm_preds = []
-            with torch.no_grad():
-                for lt in llm_text:
-                    prob, crit, ntokens = detector.compute_prob(lt)
-                    llm_preds.append(prob)
-            print("Detection AUROC: ", get_auc(human_preds,llm_preds))
+    human_text, llm_text = load_human_llm_pairs(args.dataset_path)
+    human_preds = []
+    with torch.no_grad():
+        for ht in human_text:
+            prob, crit, ntokens = detector.compute_prob(ht)
+            human_preds.append(prob)
+    llm_preds = []
+    with torch.no_grad():
+        for lt in llm_text:
+            prob, crit, ntokens = detector.compute_prob(lt)
+            llm_preds.append(prob)
+
+    auroc = get_auc(human_preds,llm_preds)
+    print("Detection AUROC: ", auroc)
+
+    # Append result as a json object to the results file
+    results = {
+        "sampling_model_name": args.sampling_model_name,
+        "scoring_model_name": args.scoring_model_name,
+        "dataset_path": args.dataset_path,
+        "auroc": auroc
+    }
+
+    try:
+        with open(args.results_path, 'r', encoding='utf-8') as f:
+            existing_results = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        existing_results = []
+
+    existing_results.append(results)
+
+    with open(args.results_path, 'w', encoding='utf-8') as f:
+        json.dump(existing_results, f, indent=4)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--sampling_model_name', type=str, default="gpt-neo-2.7B")
-    parser.add_argument('--scoring_model_name', type=str, default="gpt-neo-2.7B")
+    parser.add_argument('--sampling-model-name', type=str, default="gpt-neo-2.7B")
+    parser.add_argument('--scoring-model-name', type=str, default="gpt-neo-2.7B")
+    parser.add_argument('--dataset-path', type=str, default="dataset/processed_data/test_data/pub_claude3.json")
+    parser.add_argument('--results-path', type=str, default="results/baselines.json")
     parser.add_argument('--device', type=str, default="cuda")
     parser.add_argument('--cache_dir', type=str, default="/scratch/text-fluoroscopy/.cache")
     args = parser.parse_args()

@@ -1,0 +1,38 @@
+[
+    {
+        "sampling_model_name": "gpt-neo-2.7B",
+        "scoring_model_name": "gpt-neo-2.7B",
+        "dataset_path": "dataset/processed_multitude/test_data/en/multitude_alpaca-lora-30b.json",
+        "auroc": 0.976
+    },
+    {
+        "sampling_model_name": "gpt-neo-2.7B",
+        "scoring_model_name": "gpt-neo-2.7B",
+        "dataset_path": "dataset/processed_multitude/test_data/en/multitude_gpt-3.5-turbo.json",
+        "auroc": 0.9954
+    },
+    {
+        "sampling_model_name": "gpt-neo-2.7B",
+        "scoring_model_name": "gpt-neo-2.7B",
+        "dataset_path": "dataset/processed_multitude/test_data/en/multitude_gpt-4.json",
+        "auroc": 0.99
+    },
+    {
+        "sampling_model_name": "gpt-neo-2.7B",
+        "scoring_model_name": "gpt-neo-2.7B",
+        "dataset_path": "dataset/processed_multitude/test_data/es/multitude_alpaca-lora-30b.json",
+        "auroc": 0.9087
+    },
+    {
+        "sampling_model_name": "gpt-neo-2.7B",
+        "scoring_model_name": "gpt-neo-2.7B",
+        "dataset_path": "dataset/processed_multitude/test_data/es/multitude_gpt-3.5-turbo.json",
+        "auroc": 0.9641
+    },
+    {
+        "sampling_model_name": "gpt-neo-2.7B",
+        "scoring_model_name": "gpt-neo-2.7B",
+        "dataset_path": "dataset/processed_multitude/test_data/es/multitude_gpt-4.json",
+        "auroc": 0.9599
+    }
+]
