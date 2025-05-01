@@ -29,12 +29,12 @@ for language, language_group in grouped_by_language:
 
         # Output json object of {"text": text, "label": label}
         json_objects = label_group.apply(
-            lambda row: {"text": row['text'], "label": row['label']}, axis=1
+            lambda row: {"text": row['text'], "result": row['label']}, axis=1
         ).tolist()
 
         # Get the human written text samples
         human_text = language_group[language_group['multi_label'] == 'human'].apply(
-            lambda row: {"text": row['text'], "label": row['label']}, axis=1
+            lambda row: {"text": row['text'], "result": row['label']}, axis=1
         ).tolist()
         
         # Dump into file f"multitude__{label}.json"
@@ -56,7 +56,7 @@ grouped_by_language = train_split.groupby('language')
 for language, language_group in grouped_by_language:
     # Output json object of {"text": text, "label": label}
     json_objects = language_group.apply(
-        lambda row: {"text": row['text'], "label": row['label']}, axis=1
+        lambda row: {"text": row['text'], "result": row['label']}, axis=1
     ).tolist()
     
     output_filename = f"multitude_{language}_train.json"
