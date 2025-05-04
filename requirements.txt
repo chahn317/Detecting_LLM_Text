@@ -76,6 +76,7 @@ requests
 responses
 six 
 sniffio
+scikit-learn
 tokenizers
 torch
 torchaudio
