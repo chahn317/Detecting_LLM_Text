@@ -11,7 +11,7 @@ from sklearn.model_selection import train_test_split
 
 TRAIN_SIZE = 150
 VALID_SIZE = 150
-TEST_SIZE = 20
+TEST_SIZE = 200
 
 # Open MULTITuDE csv
 output_dir = 'dataset/processed_multitude'
