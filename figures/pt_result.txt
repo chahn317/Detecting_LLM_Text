@@ -1,0 +1,1056 @@
+layer_num = 0
+trying to get pt_train
+dataset/processed_multitude/train_valid_data/pt_train.json
+trying to get pt_val
+dataset/processed_multitude/train_valid_data/pt_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.6933, Validation Accuracy: 0.6000
+Epoch [2/20], Loss: 0.6909, Validation Accuracy: 0.6000
+Epoch [3/20], Loss: 0.6944, Validation Accuracy: 0.6000
+Epoch [4/20], Loss: 0.6882, Validation Accuracy: 0.4000
+Epoch [5/20], Loss: 0.6992, Validation Accuracy: 0.6000
+Epoch [6/20], Loss: 0.6930, Validation Accuracy: 0.6000
+Epoch [7/20], Loss: 0.6922, Validation Accuracy: 0.6000
+Epoch [8/20], Loss: 0.6991, Validation Accuracy: 0.6000
+Epoch [9/20], Loss: 0.6949, Validation Accuracy: 0.4000
+Epoch [10/20], Loss: 0.6953, Validation Accuracy: 0.4000
+Epoch [11/20], Loss: 0.6944, Validation Accuracy: 0.4000
+Epoch [12/20], Loss: 0.6980, Validation Accuracy: 0.6000
+Epoch [13/20], Loss: 0.6935, Validation Accuracy: 0.4000
+Epoch [14/20], Loss: 0.6950, Validation Accuracy: 0.4000
+Epoch [15/20], Loss: 0.6914, Validation Accuracy: 0.4000
+Epoch [16/20], Loss: 0.6959, Validation Accuracy: 0.4000
+Epoch [17/20], Loss: 0.6982, Validation Accuracy: 0.4000
+Epoch [18/20], Loss: 0.6991, Validation Accuracy: 0.4000
+Epoch [19/20], Loss: 0.6957, Validation Accuracy: 0.4000
+Epoch [20/20], Loss: 0.6957, Validation Accuracy: 0.4000
+trying to get pt_gpt-3.5-turbo
+dataset/processed_multitude/test_data/pt_gpt-3.5-turbo.json
+trying to get pt_gpt-4
+dataset/processed_multitude/test_data/pt_gpt-4.json
+{'pt-gpt-3.5-turbo': 0.5, 'pt-gpt-4': 0.5}
+layer_num = 1
+trying to get pt_train
+dataset/processed_multitude/train_valid_data/pt_train.json
+trying to get pt_val
+dataset/processed_multitude/train_valid_data/pt_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.7020, Validation Accuracy: 0.6000
+Epoch [2/20], Loss: 0.7026, Validation Accuracy: 0.3500
+Epoch [3/20], Loss: 0.6873, Validation Accuracy: 0.3500
+Epoch [4/20], Loss: 0.6663, Validation Accuracy: 0.6500
+Epoch [5/20], Loss: 0.6965, Validation Accuracy: 0.6000
+Epoch [6/20], Loss: 0.6815, Validation Accuracy: 0.5000
+Epoch [7/20], Loss: 0.6855, Validation Accuracy: 0.3500
+Epoch [8/20], Loss: 0.6452, Validation Accuracy: 0.4500
+Epoch [9/20], Loss: 0.6481, Validation Accuracy: 0.4500
+Epoch [10/20], Loss: 0.6402, Validation Accuracy: 0.4500
+Epoch [11/20], Loss: 0.5767, Validation Accuracy: 0.5000
+Epoch [12/20], Loss: 0.5618, Validation Accuracy: 0.6000
+Epoch [13/20], Loss: 0.4967, Validation Accuracy: 0.5000
+Epoch [14/20], Loss: 0.5204, Validation Accuracy: 0.6500
+Epoch [15/20], Loss: 0.4814, Validation Accuracy: 0.7000
+Epoch [16/20], Loss: 0.4497, Validation Accuracy: 0.7500
+Epoch [17/20], Loss: 0.4547, Validation Accuracy: 0.7000
+Epoch [18/20], Loss: 0.3449, Validation Accuracy: 0.7500
+Epoch [19/20], Loss: 0.3203, Validation Accuracy: 0.7500
+Epoch [20/20], Loss: 0.3377, Validation Accuracy: 0.7500
+trying to get pt_gpt-3.5-turbo
+dataset/processed_multitude/test_data/pt_gpt-3.5-turbo.json
+trying to get pt_gpt-4
+dataset/processed_multitude/test_data/pt_gpt-4.json
+{'pt-gpt-3.5-turbo': 0.7859751643535428, 'pt-gpt-4': 0.7706355003652301}
+layer_num = 2
+trying to get pt_train
+dataset/processed_multitude/train_valid_data/pt_train.json
+trying to get pt_val
+dataset/processed_multitude/train_valid_data/pt_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.6937, Validation Accuracy: 0.6000
+Epoch [2/20], Loss: 0.6599, Validation Accuracy: 0.4500
+Epoch [3/20], Loss: 0.6868, Validation Accuracy: 0.6500
+Epoch [4/20], Loss: 0.6382, Validation Accuracy: 0.6500
+Epoch [5/20], Loss: 0.6386, Validation Accuracy: 0.8000
+Epoch [6/20], Loss: 0.6290, Validation Accuracy: 0.7000
+Epoch [7/20], Loss: 0.5908, Validation Accuracy: 0.7500
+Epoch [8/20], Loss: 0.5544, Validation Accuracy: 0.8000
+Epoch [9/20], Loss: 0.5374, Validation Accuracy: 0.7000
+Epoch [10/20], Loss: 0.4849, Validation Accuracy: 0.7500
+Epoch [11/20], Loss: 0.4290, Validation Accuracy: 0.8000
+Epoch [12/20], Loss: 0.3237, Validation Accuracy: 0.8000
+Epoch [13/20], Loss: 0.2974, Validation Accuracy: 0.7000
+Epoch [14/20], Loss: 0.3811, Validation Accuracy: 0.7000
+Epoch [15/20], Loss: 0.3165, Validation Accuracy: 0.6500
+Epoch [16/20], Loss: 0.2496, Validation Accuracy: 0.7000
+Epoch [17/20], Loss: 0.3053, Validation Accuracy: 0.7000
+Epoch [18/20], Loss: 0.1823, Validation Accuracy: 0.7500
+Epoch [19/20], Loss: 0.2052, Validation Accuracy: 0.7000
+Epoch [20/20], Loss: 0.2917, Validation Accuracy: 0.7000
+trying to get pt_gpt-3.5-turbo
+dataset/processed_multitude/test_data/pt_gpt-3.5-turbo.json
+trying to get pt_gpt-4
+dataset/processed_multitude/test_data/pt_gpt-4.json
+{'pt-gpt-3.5-turbo': 0.9211102994886778, 'pt-gpt-4': 0.8232286340394448}
+layer_num = 3
+trying to get pt_train
+dataset/processed_multitude/train_valid_data/pt_train.json
+trying to get pt_val
+dataset/processed_multitude/train_valid_data/pt_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.7153, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.6668, Validation Accuracy: 0.5000
+Epoch [3/20], Loss: 0.6672, Validation Accuracy: 0.6000
+Epoch [4/20], Loss: 0.6379, Validation Accuracy: 0.4500
+Epoch [5/20], Loss: 0.6234, Validation Accuracy: 0.6000
+Epoch [6/20], Loss: 0.5827, Validation Accuracy: 0.5000
+Epoch [7/20], Loss: 0.5471, Validation Accuracy: 0.7000
+Epoch [8/20], Loss: 0.5317, Validation Accuracy: 0.5500
+Epoch [9/20], Loss: 0.4638, Validation Accuracy: 0.6500
+Epoch [10/20], Loss: 0.3653, Validation Accuracy: 0.7000
+Epoch [11/20], Loss: 0.4275, Validation Accuracy: 0.6500
+Epoch [12/20], Loss: 0.3945, Validation Accuracy: 0.5500
+Epoch [13/20], Loss: 0.2972, Validation Accuracy: 0.7000
+Epoch [14/20], Loss: 0.2391, Validation Accuracy: 0.6500
+Epoch [15/20], Loss: 0.3192, Validation Accuracy: 0.7500
+Epoch [16/20], Loss: 0.2984, Validation Accuracy: 0.7000
+Epoch [17/20], Loss: 0.2669, Validation Accuracy: 0.7000
+Epoch [18/20], Loss: 0.2506, Validation Accuracy: 0.7000
+Epoch [19/20], Loss: 0.1513, Validation Accuracy: 0.6500
+Epoch [20/20], Loss: 0.1353, Validation Accuracy: 0.6500
+trying to get pt_gpt-3.5-turbo
+dataset/processed_multitude/test_data/pt_gpt-3.5-turbo.json
+trying to get pt_gpt-4
+dataset/processed_multitude/test_data/pt_gpt-4.json
+{'pt-gpt-3.5-turbo': 0.9408327246165085, 'pt-gpt-4': 0.8977355734112491}
+layer_num = 4
+trying to get pt_train
+dataset/processed_multitude/train_valid_data/pt_train.json
+trying to get pt_val
+dataset/processed_multitude/train_valid_data/pt_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.6801, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.6629, Validation Accuracy: 0.4500
+Epoch [3/20], Loss: 0.6001, Validation Accuracy: 0.6500
+Epoch [4/20], Loss: 0.5676, Validation Accuracy: 0.5500
+Epoch [5/20], Loss: 0.4523, Validation Accuracy: 0.5500
+Epoch [6/20], Loss: 0.5297, Validation Accuracy: 0.6500
+Epoch [7/20], Loss: 0.7341, Validation Accuracy: 0.6500
+Epoch [8/20], Loss: 0.5255, Validation Accuracy: 0.7000
+Epoch [9/20], Loss: 0.4744, Validation Accuracy: 0.7500
+Epoch [10/20], Loss: 0.4443, Validation Accuracy: 0.8000
+Epoch [11/20], Loss: 0.3670, Validation Accuracy: 0.8000
+Epoch [12/20], Loss: 0.4246, Validation Accuracy: 0.8000
+Epoch [13/20], Loss: 0.3303, Validation Accuracy: 0.6500
+Epoch [14/20], Loss: 0.3175, Validation Accuracy: 0.6500
+Epoch [15/20], Loss: 0.3099, Validation Accuracy: 0.8500
+Epoch [16/20], Loss: 0.2178, Validation Accuracy: 0.9000
+Epoch [17/20], Loss: 0.2756, Validation Accuracy: 0.7000
+Epoch [18/20], Loss: 0.1824, Validation Accuracy: 0.7000
+Epoch [19/20], Loss: 0.1391, Validation Accuracy: 0.8000
+Epoch [20/20], Loss: 0.1277, Validation Accuracy: 0.8000
+trying to get pt_gpt-3.5-turbo
+dataset/processed_multitude/test_data/pt_gpt-3.5-turbo.json
+trying to get pt_gpt-4
+dataset/processed_multitude/test_data/pt_gpt-4.json
+{'pt-gpt-3.5-turbo': 0.9539810080350621, 'pt-gpt-4': 0.8940832724616509}
+layer_num = 5
+trying to get pt_train
+dataset/processed_multitude/train_valid_data/pt_train.json
+trying to get pt_val
+dataset/processed_multitude/train_valid_data/pt_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.6864, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.6441, Validation Accuracy: 0.7000
+Epoch [3/20], Loss: 0.6679, Validation Accuracy: 0.6000
+Epoch [4/20], Loss: 0.6249, Validation Accuracy: 0.5500
+Epoch [5/20], Loss: 0.5641, Validation Accuracy: 0.7000
+Epoch [6/20], Loss: 0.4945, Validation Accuracy: 0.6500
+Epoch [7/20], Loss: 0.5478, Validation Accuracy: 0.8000
+Epoch [8/20], Loss: 0.4410, Validation Accuracy: 0.6500
+Epoch [9/20], Loss: 0.3733, Validation Accuracy: 0.7500
+Epoch [10/20], Loss: 0.5002, Validation Accuracy: 0.7500
+Epoch [11/20], Loss: 0.2337, Validation Accuracy: 0.7000
+Epoch [12/20], Loss: 0.2566, Validation Accuracy: 0.7000
+Epoch [13/20], Loss: 0.1946, Validation Accuracy: 0.7500
+Epoch [14/20], Loss: 0.2548, Validation Accuracy: 0.7500
+Epoch [15/20], Loss: 0.1675, Validation Accuracy: 0.7500
+Epoch [16/20], Loss: 0.1276, Validation Accuracy: 0.7500
+Epoch [17/20], Loss: 0.1766, Validation Accuracy: 0.7500
+Epoch [18/20], Loss: 0.0574, Validation Accuracy: 0.7000
+Epoch [19/20], Loss: 0.0609, Validation Accuracy: 0.7500
+Epoch [20/20], Loss: 0.0955, Validation Accuracy: 0.7500
+trying to get pt_gpt-3.5-turbo
+dataset/processed_multitude/test_data/pt_gpt-3.5-turbo.json
+trying to get pt_gpt-4
+dataset/processed_multitude/test_data/pt_gpt-4.json
+{'pt-gpt-3.5-turbo': 0.9620160701241782, 'pt-gpt-4': 0.9503287070854638}
+layer_num = 6
+trying to get pt_train
+dataset/processed_multitude/train_valid_data/pt_train.json
+trying to get pt_val
+dataset/processed_multitude/train_valid_data/pt_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.6871, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.6611, Validation Accuracy: 0.6500
+Epoch [3/20], Loss: 0.6410, Validation Accuracy: 0.4500
+Epoch [4/20], Loss: 0.5750, Validation Accuracy: 0.6000
+Epoch [5/20], Loss: 0.4409, Validation Accuracy: 0.8000
+Epoch [6/20], Loss: 0.4174, Validation Accuracy: 0.7500
+Epoch [7/20], Loss: 0.5030, Validation Accuracy: 0.6000
+Epoch [8/20], Loss: 0.4304, Validation Accuracy: 0.6500
+Epoch [9/20], Loss: 0.3404, Validation Accuracy: 0.7500
+Epoch [10/20], Loss: 0.2869, Validation Accuracy: 0.7500
+Epoch [11/20], Loss: 0.2528, Validation Accuracy: 0.7500
+Epoch [12/20], Loss: 0.1604, Validation Accuracy: 0.7500
+Epoch [13/20], Loss: 0.2400, Validation Accuracy: 0.7500
+Epoch [14/20], Loss: 0.2837, Validation Accuracy: 0.7500
+Epoch [15/20], Loss: 0.1062, Validation Accuracy: 0.7500
+Epoch [16/20], Loss: 0.1311, Validation Accuracy: 0.7000
+Epoch [17/20], Loss: 0.0709, Validation Accuracy: 0.7000
+Epoch [18/20], Loss: 0.0561, Validation Accuracy: 0.7500
+Epoch [19/20], Loss: 0.2030, Validation Accuracy: 0.9000
+Epoch [20/20], Loss: 0.0704, Validation Accuracy: 0.8500
+trying to get pt_gpt-3.5-turbo
+dataset/processed_multitude/test_data/pt_gpt-3.5-turbo.json
+trying to get pt_gpt-4
+dataset/processed_multitude/test_data/pt_gpt-4.json
+{'pt-gpt-3.5-turbo': 0.9663988312636962, 'pt-gpt-4': 0.9598246895544192}
+layer_num = 7
+trying to get pt_train
+dataset/processed_multitude/train_valid_data/pt_train.json
+trying to get pt_val
+dataset/processed_multitude/train_valid_data/pt_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.6599, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.6544, Validation Accuracy: 0.8000
+Epoch [3/20], Loss: 0.5761, Validation Accuracy: 0.5500
+Epoch [4/20], Loss: 0.4714, Validation Accuracy: 0.7500
+Epoch [5/20], Loss: 0.4372, Validation Accuracy: 0.7500
+Epoch [6/20], Loss: 0.4251, Validation Accuracy: 0.7500
+Epoch [7/20], Loss: 0.4316, Validation Accuracy: 0.7000
+Epoch [8/20], Loss: 0.2771, Validation Accuracy: 0.7500
+Epoch [9/20], Loss: 0.3431, Validation Accuracy: 0.7500
+Epoch [10/20], Loss: 0.2489, Validation Accuracy: 0.7000
+Epoch [11/20], Loss: 0.1500, Validation Accuracy: 0.8000
+Epoch [12/20], Loss: 0.1578, Validation Accuracy: 0.7500
+Epoch [13/20], Loss: 0.0892, Validation Accuracy: 0.7500
+Epoch [14/20], Loss: 0.0572, Validation Accuracy: 0.7500
+Epoch [15/20], Loss: 0.0523, Validation Accuracy: 0.8500
+Epoch [16/20], Loss: 0.2811, Validation Accuracy: 0.8500
+Epoch [17/20], Loss: 0.0322, Validation Accuracy: 0.8000
+Epoch [18/20], Loss: 0.0689, Validation Accuracy: 0.7500
+Epoch [19/20], Loss: 0.1079, Validation Accuracy: 0.7500
+Epoch [20/20], Loss: 0.0282, Validation Accuracy: 0.7500
+trying to get pt_gpt-3.5-turbo
+dataset/processed_multitude/test_data/pt_gpt-3.5-turbo.json
+trying to get pt_gpt-4
+dataset/processed_multitude/test_data/pt_gpt-4.json
+{'pt-gpt-3.5-turbo': 0.9642074506939371, 'pt-gpt-4': 0.9510591672753834}
+layer_num = 8
+trying to get pt_train
+dataset/processed_multitude/train_valid_data/pt_train.json
+trying to get pt_val
+dataset/processed_multitude/train_valid_data/pt_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.7061, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.8068, Validation Accuracy: 0.7000
+Epoch [3/20], Loss: 0.5991, Validation Accuracy: 0.5000
+Epoch [4/20], Loss: 0.5427, Validation Accuracy: 0.7500
+Epoch [5/20], Loss: 0.5584, Validation Accuracy: 0.6500
+Epoch [6/20], Loss: 0.4186, Validation Accuracy: 0.7000
+Epoch [7/20], Loss: 0.4124, Validation Accuracy: 0.7500
+Epoch [8/20], Loss: 0.4080, Validation Accuracy: 0.8000
+Epoch [9/20], Loss: 0.3106, Validation Accuracy: 0.7000
+Epoch [10/20], Loss: 0.2785, Validation Accuracy: 0.7000
+Epoch [11/20], Loss: 0.2766, Validation Accuracy: 0.6500
+Epoch [12/20], Loss: 0.1712, Validation Accuracy: 0.7000
+Epoch [13/20], Loss: 0.1270, Validation Accuracy: 0.7000
+Epoch [14/20], Loss: 0.1132, Validation Accuracy: 0.7500
+Epoch [15/20], Loss: 0.1716, Validation Accuracy: 0.7500
+Epoch [16/20], Loss: 0.1203, Validation Accuracy: 0.7500
+Epoch [17/20], Loss: 0.1256, Validation Accuracy: 0.7500
+Epoch [18/20], Loss: 0.1151, Validation Accuracy: 0.7500
+Epoch [19/20], Loss: 0.0445, Validation Accuracy: 0.7000
+Epoch [20/20], Loss: 0.0712, Validation Accuracy: 0.8000
+trying to get pt_gpt-3.5-turbo
+dataset/processed_multitude/test_data/pt_gpt-3.5-turbo.json
+trying to get pt_gpt-4
+dataset/processed_multitude/test_data/pt_gpt-4.json
+{'pt-gpt-3.5-turbo': 0.960555149744339, 'pt-gpt-4': 0.9554419284149014}
+layer_num = 9
+trying to get pt_train
+dataset/processed_multitude/train_valid_data/pt_train.json
+trying to get pt_val
+dataset/processed_multitude/train_valid_data/pt_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.6119, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.7102, Validation Accuracy: 0.6000
+Epoch [3/20], Loss: 0.6035, Validation Accuracy: 0.5500
+Epoch [4/20], Loss: 0.6948, Validation Accuracy: 0.6000
+Epoch [5/20], Loss: 0.6861, Validation Accuracy: 0.4000
+Epoch [6/20], Loss: 0.7862, Validation Accuracy: 0.4000
+Epoch [7/20], Loss: 0.6860, Validation Accuracy: 0.7500
+Epoch [8/20], Loss: 0.8490, Validation Accuracy: 0.4000
+Epoch [9/20], Loss: 0.7110, Validation Accuracy: 0.6000
+Epoch [10/20], Loss: 0.6103, Validation Accuracy: 0.4000
+Epoch [11/20], Loss: 0.5693, Validation Accuracy: 0.6500
+Epoch [12/20], Loss: 0.6028, Validation Accuracy: 0.8000
+Epoch [13/20], Loss: 0.6294, Validation Accuracy: 0.7500
+Epoch [14/20], Loss: 0.5668, Validation Accuracy: 0.4000
+Epoch [15/20], Loss: 0.6544, Validation Accuracy: 0.7000
+Epoch [16/20], Loss: 0.7399, Validation Accuracy: 0.4000
+Epoch [17/20], Loss: 0.3864, Validation Accuracy: 0.7000
+Epoch [18/20], Loss: 0.5180, Validation Accuracy: 0.4000
+Epoch [19/20], Loss: 0.7627, Validation Accuracy: 0.7500
+Epoch [20/20], Loss: 0.8197, Validation Accuracy: 0.7000
+trying to get pt_gpt-3.5-turbo
+dataset/processed_multitude/test_data/pt_gpt-3.5-turbo.json
+trying to get pt_gpt-4
+dataset/processed_multitude/test_data/pt_gpt-4.json
+{'pt-gpt-3.5-turbo': 0.9583637691745801, 'pt-gpt-4': 0.9539810080350621}
+layer_num = 10
+trying to get pt_train
+dataset/processed_multitude/train_valid_data/pt_train.json
+trying to get pt_val
+dataset/processed_multitude/train_valid_data/pt_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.5872, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.6807, Validation Accuracy: 0.6000
+Epoch [3/20], Loss: 0.7365, Validation Accuracy: 0.4000
+Epoch [4/20], Loss: 0.7052, Validation Accuracy: 0.6000
+Epoch [5/20], Loss: 0.7223, Validation Accuracy: 0.4000
+Epoch [6/20], Loss: 0.7053, Validation Accuracy: 0.4000
+Epoch [7/20], Loss: 0.7026, Validation Accuracy: 0.7500
+Epoch [8/20], Loss: 0.6525, Validation Accuracy: 0.7500
+Epoch [9/20], Loss: 0.5979, Validation Accuracy: 0.7500
+Epoch [10/20], Loss: 0.6698, Validation Accuracy: 0.4000
+Epoch [11/20], Loss: 0.7368, Validation Accuracy: 0.4000
+Epoch [12/20], Loss: 0.6123, Validation Accuracy: 0.7000
+Epoch [13/20], Loss: 0.5661, Validation Accuracy: 0.7000
+Epoch [14/20], Loss: 0.5389, Validation Accuracy: 0.7000
+Epoch [15/20], Loss: 0.5474, Validation Accuracy: 0.6500
+Epoch [16/20], Loss: 0.5968, Validation Accuracy: 0.7000
+Epoch [17/20], Loss: 0.5090, Validation Accuracy: 0.7500
+Epoch [18/20], Loss: 0.3459, Validation Accuracy: 0.7000
+Epoch [19/20], Loss: 0.4801, Validation Accuracy: 0.7000
+Epoch [20/20], Loss: 0.3985, Validation Accuracy: 0.8000
+trying to get pt_gpt-3.5-turbo
+dataset/processed_multitude/test_data/pt_gpt-3.5-turbo.json
+trying to get pt_gpt-4
+dataset/processed_multitude/test_data/pt_gpt-4.json
+{'pt-gpt-3.5-turbo': 0.9846603360116873, 'pt-gpt-4': 0.975164353542732}
+layer_num = 11
+trying to get pt_train
+dataset/processed_multitude/train_valid_data/pt_train.json
+trying to get pt_val
+dataset/processed_multitude/train_valid_data/pt_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.7088, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.7551, Validation Accuracy: 0.6000
+Epoch [3/20], Loss: 0.6943, Validation Accuracy: 0.4000
+Epoch [4/20], Loss: 0.6452, Validation Accuracy: 0.6000
+Epoch [5/20], Loss: 0.6576, Validation Accuracy: 0.4000
+Epoch [6/20], Loss: 0.5626, Validation Accuracy: 0.6000
+Epoch [7/20], Loss: 0.7121, Validation Accuracy: 0.4000
+Epoch [8/20], Loss: 0.6460, Validation Accuracy: 0.4000
+Epoch [9/20], Loss: 0.5878, Validation Accuracy: 0.7500
+Epoch [10/20], Loss: 0.5028, Validation Accuracy: 0.4000
+Epoch [11/20], Loss: 0.6172, Validation Accuracy: 0.5500
+Epoch [12/20], Loss: 0.7072, Validation Accuracy: 0.6500
+Epoch [13/20], Loss: 0.6029, Validation Accuracy: 0.7000
+Epoch [14/20], Loss: 0.5961, Validation Accuracy: 0.4000
+Epoch [15/20], Loss: 0.6059, Validation Accuracy: 0.7500
+Epoch [16/20], Loss: 0.5032, Validation Accuracy: 0.7500
+Epoch [17/20], Loss: 0.5652, Validation Accuracy: 0.7000
+Epoch [18/20], Loss: 0.6040, Validation Accuracy: 0.8000
+Epoch [19/20], Loss: 0.5053, Validation Accuracy: 0.6500
+Epoch [20/20], Loss: 0.4105, Validation Accuracy: 0.7500
+trying to get pt_gpt-3.5-turbo
+dataset/processed_multitude/test_data/pt_gpt-3.5-turbo.json
+trying to get pt_gpt-4
+dataset/processed_multitude/test_data/pt_gpt-4.json
+{'pt-gpt-3.5-turbo': 0.9810080350620891, 'pt-gpt-4': 0.9715120525931337}
+layer_num = 12
+trying to get pt_train
+dataset/processed_multitude/train_valid_data/pt_train.json
+trying to get pt_val
+dataset/processed_multitude/train_valid_data/pt_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.7110, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.7142, Validation Accuracy: 0.4000
+Epoch [3/20], Loss: 0.7175, Validation Accuracy: 0.4000
+Epoch [4/20], Loss: 0.6308, Validation Accuracy: 0.4000
+Epoch [5/20], Loss: 0.6971, Validation Accuracy: 0.4000
+Epoch [6/20], Loss: 0.6101, Validation Accuracy: 0.8000
+Epoch [7/20], Loss: 0.6183, Validation Accuracy: 0.7500
+Epoch [8/20], Loss: 0.6425, Validation Accuracy: 0.6000
+Epoch [9/20], Loss: 0.6334, Validation Accuracy: 0.7500
+Epoch [10/20], Loss: 0.5169, Validation Accuracy: 0.5000
+Epoch [11/20], Loss: 0.7105, Validation Accuracy: 0.4500
+Epoch [12/20], Loss: 0.7297, Validation Accuracy: 0.4000
+Epoch [13/20], Loss: 0.4387, Validation Accuracy: 0.7500
+Epoch [14/20], Loss: 0.4355, Validation Accuracy: 0.7000
+Epoch [15/20], Loss: 0.4190, Validation Accuracy: 0.7000
+Epoch [16/20], Loss: 0.5618, Validation Accuracy: 0.7000
+Epoch [17/20], Loss: 0.4165, Validation Accuracy: 0.7000
+Epoch [18/20], Loss: 0.4600, Validation Accuracy: 0.7000
+Epoch [19/20], Loss: 0.4800, Validation Accuracy: 0.7500
+Epoch [20/20], Loss: 0.4766, Validation Accuracy: 0.7500
+trying to get pt_gpt-3.5-turbo
+dataset/processed_multitude/test_data/pt_gpt-3.5-turbo.json
+trying to get pt_gpt-4
+dataset/processed_multitude/test_data/pt_gpt-4.json
+{'pt-gpt-3.5-turbo': 0.9766252739225714, 'pt-gpt-4': 0.972972972972973}
+layer_num = 13
+trying to get pt_train
+dataset/processed_multitude/train_valid_data/pt_train.json
+trying to get pt_val
+dataset/processed_multitude/train_valid_data/pt_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.8158, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.6287, Validation Accuracy: 0.7500
+Epoch [3/20], Loss: 0.6636, Validation Accuracy: 0.4000
+Epoch [4/20], Loss: 0.7166, Validation Accuracy: 0.5500
+Epoch [5/20], Loss: 0.6642, Validation Accuracy: 0.4000
+Epoch [6/20], Loss: 0.6555, Validation Accuracy: 0.6000
+Epoch [7/20], Loss: 0.6664, Validation Accuracy: 0.4000
+Epoch [8/20], Loss: 0.7158, Validation Accuracy: 0.6000
+Epoch [9/20], Loss: 0.4421, Validation Accuracy: 0.4000
+Epoch [10/20], Loss: 0.5327, Validation Accuracy: 0.6000
+Epoch [11/20], Loss: 0.4433, Validation Accuracy: 0.7500
+Epoch [12/20], Loss: 0.5990, Validation Accuracy: 0.7000
+Epoch [13/20], Loss: 0.6459, Validation Accuracy: 0.7000
+Epoch [14/20], Loss: 0.4813, Validation Accuracy: 0.7500
+Epoch [15/20], Loss: 0.5675, Validation Accuracy: 0.7500
+Epoch [16/20], Loss: 0.5651, Validation Accuracy: 0.5500
+Epoch [17/20], Loss: 0.5574, Validation Accuracy: 0.7500
+Epoch [18/20], Loss: 0.4894, Validation Accuracy: 0.6500
+Epoch [19/20], Loss: 0.2514, Validation Accuracy: 0.7500
+Epoch [20/20], Loss: 0.5899, Validation Accuracy: 0.7500
+trying to get pt_gpt-3.5-turbo
+dataset/processed_multitude/test_data/pt_gpt-3.5-turbo.json
+trying to get pt_gpt-4
+dataset/processed_multitude/test_data/pt_gpt-4.json
+{'pt-gpt-3.5-turbo': 0.972972972972973, 'pt-gpt-4': 0.960555149744339}
+layer_num = 14
+trying to get pt_train
+dataset/processed_multitude/train_valid_data/pt_train.json
+trying to get pt_val
+dataset/processed_multitude/train_valid_data/pt_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.7754, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.8292, Validation Accuracy: 0.6000
+Epoch [3/20], Loss: 0.6468, Validation Accuracy: 0.4000
+Epoch [4/20], Loss: 0.7818, Validation Accuracy: 0.4000
+Epoch [5/20], Loss: 0.6702, Validation Accuracy: 0.4000
+Epoch [6/20], Loss: 0.7132, Validation Accuracy: 0.6000
+Epoch [7/20], Loss: 0.8906, Validation Accuracy: 0.4000
+Epoch [8/20], Loss: 0.5080, Validation Accuracy: 0.7500
+Epoch [9/20], Loss: 0.7184, Validation Accuracy: 0.4000
+Epoch [10/20], Loss: 0.6335, Validation Accuracy: 0.7500
+Epoch [11/20], Loss: 0.5979, Validation Accuracy: 0.4000
+Epoch [12/20], Loss: 0.4959, Validation Accuracy: 0.6500
+Epoch [13/20], Loss: 0.4915, Validation Accuracy: 0.6500
+Epoch [14/20], Loss: 0.5874, Validation Accuracy: 0.7500
+Epoch [15/20], Loss: 0.4748, Validation Accuracy: 0.7500
+Epoch [16/20], Loss: 0.4061, Validation Accuracy: 0.5500
+Epoch [17/20], Loss: 0.4727, Validation Accuracy: 0.7500
+Epoch [18/20], Loss: 0.5663, Validation Accuracy: 0.7500
+Epoch [19/20], Loss: 0.5402, Validation Accuracy: 0.4000
+Epoch [20/20], Loss: 0.3557, Validation Accuracy: 0.7500
+trying to get pt_gpt-3.5-turbo
+dataset/processed_multitude/test_data/pt_gpt-3.5-turbo.json
+trying to get pt_gpt-4
+dataset/processed_multitude/test_data/pt_gpt-4.json
+{'pt-gpt-3.5-turbo': 0.9744338933528123, 'pt-gpt-4': 0.9685902118334551}
+layer_num = 15
+trying to get pt_train
+dataset/processed_multitude/train_valid_data/pt_train.json
+trying to get pt_val
+dataset/processed_multitude/train_valid_data/pt_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.7825, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.8178, Validation Accuracy: 0.6000
+Epoch [3/20], Loss: 0.7241, Validation Accuracy: 0.4000
+Epoch [4/20], Loss: 0.7707, Validation Accuracy: 0.4000
+Epoch [5/20], Loss: 0.7414, Validation Accuracy: 0.4000
+Epoch [6/20], Loss: 0.6188, Validation Accuracy: 0.4000
+Epoch [7/20], Loss: 0.6348, Validation Accuracy: 0.4000
+Epoch [8/20], Loss: 0.8045, Validation Accuracy: 0.6000
+Epoch [9/20], Loss: 0.5639, Validation Accuracy: 0.7500
+Epoch [10/20], Loss: 0.6874, Validation Accuracy: 0.7500
+Epoch [11/20], Loss: 0.5445, Validation Accuracy: 0.4000
+Epoch [12/20], Loss: 0.7066, Validation Accuracy: 0.4000
+Epoch [13/20], Loss: 0.4564, Validation Accuracy: 0.7500
+Epoch [14/20], Loss: 0.4780, Validation Accuracy: 0.6500
+Epoch [15/20], Loss: 0.6077, Validation Accuracy: 0.6500
+Epoch [16/20], Loss: 0.5358, Validation Accuracy: 0.7000
+Epoch [17/20], Loss: 0.4083, Validation Accuracy: 0.4000
+Epoch [18/20], Loss: 0.7011, Validation Accuracy: 0.4000
+Epoch [19/20], Loss: 0.4802, Validation Accuracy: 0.6500
+Epoch [20/20], Loss: 0.4461, Validation Accuracy: 0.7500
+trying to get pt_gpt-3.5-turbo
+dataset/processed_multitude/test_data/pt_gpt-3.5-turbo.json
+trying to get pt_gpt-4
+dataset/processed_multitude/test_data/pt_gpt-4.json
+{'pt-gpt-3.5-turbo': 0.9707815924032139, 'pt-gpt-4': 0.9590942293644996}
+layer_num = 16
+trying to get pt_train
+dataset/processed_multitude/train_valid_data/pt_train.json
+trying to get pt_val
+dataset/processed_multitude/train_valid_data/pt_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.8292, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.6894, Validation Accuracy: 0.4000
+Epoch [3/20], Loss: 0.8741, Validation Accuracy: 0.4000
+Epoch [4/20], Loss: 0.6566, Validation Accuracy: 0.4000
+Epoch [5/20], Loss: 0.5928, Validation Accuracy: 0.4000
+Epoch [6/20], Loss: 0.5014, Validation Accuracy: 0.4000
+Epoch [7/20], Loss: 0.6189, Validation Accuracy: 0.4000
+Epoch [8/20], Loss: 0.6246, Validation Accuracy: 0.4000
+Epoch [9/20], Loss: 0.5988, Validation Accuracy: 0.7500
+Epoch [10/20], Loss: 0.5523, Validation Accuracy: 0.6000
+Epoch [11/20], Loss: 0.6616, Validation Accuracy: 0.7000
+Epoch [12/20], Loss: 0.6261, Validation Accuracy: 0.6500
+Epoch [13/20], Loss: 0.6846, Validation Accuracy: 0.7500
+Epoch [14/20], Loss: 0.6352, Validation Accuracy: 0.7500
+Epoch [15/20], Loss: 0.6412, Validation Accuracy: 0.7500
+Epoch [16/20], Loss: 0.4588, Validation Accuracy: 0.7500
+Epoch [17/20], Loss: 0.5344, Validation Accuracy: 0.5000
+Epoch [18/20], Loss: 0.6870, Validation Accuracy: 0.7500
+Epoch [19/20], Loss: 0.4129, Validation Accuracy: 0.4000
+Epoch [20/20], Loss: 0.4502, Validation Accuracy: 0.7500
+trying to get pt_gpt-3.5-turbo
+dataset/processed_multitude/test_data/pt_gpt-3.5-turbo.json
+trying to get pt_gpt-4
+dataset/processed_multitude/test_data/pt_gpt-4.json
+{'pt-gpt-3.5-turbo': 0.9649379108838569, 'pt-gpt-4': 0.9569028487947407}
+layer_num = 17
+trying to get pt_train
+dataset/processed_multitude/train_valid_data/pt_train.json
+trying to get pt_val
+dataset/processed_multitude/train_valid_data/pt_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.6630, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.6466, Validation Accuracy: 0.4000
+Epoch [3/20], Loss: 0.7901, Validation Accuracy: 0.4000
+Epoch [4/20], Loss: 0.6932, Validation Accuracy: 0.6000
+Epoch [5/20], Loss: 0.6751, Validation Accuracy: 0.7000
+Epoch [6/20], Loss: 0.7251, Validation Accuracy: 0.4000
+Epoch [7/20], Loss: 0.5774, Validation Accuracy: 0.4000
+Epoch [8/20], Loss: 0.7092, Validation Accuracy: 0.4000
+Epoch [9/20], Loss: 0.7782, Validation Accuracy: 0.4000
+Epoch [10/20], Loss: 0.6514, Validation Accuracy: 0.4000
+Epoch [11/20], Loss: 0.5060, Validation Accuracy: 0.6000
+Epoch [12/20], Loss: 0.5933, Validation Accuracy: 0.4000
+Epoch [13/20], Loss: 0.6303, Validation Accuracy: 0.6500
+Epoch [14/20], Loss: 0.7380, Validation Accuracy: 0.6000
+Epoch [15/20], Loss: 0.5976, Validation Accuracy: 0.4000
+Epoch [16/20], Loss: 0.6146, Validation Accuracy: 0.6500
+Epoch [17/20], Loss: 0.5966, Validation Accuracy: 0.5500
+Epoch [18/20], Loss: 0.5945, Validation Accuracy: 0.5000
+Epoch [19/20], Loss: 0.5868, Validation Accuracy: 0.7500
+Epoch [20/20], Loss: 0.5288, Validation Accuracy: 0.6000
+trying to get pt_gpt-3.5-turbo
+dataset/processed_multitude/test_data/pt_gpt-3.5-turbo.json
+trying to get pt_gpt-4
+dataset/processed_multitude/test_data/pt_gpt-4.json
+{'pt-gpt-3.5-turbo': 0.9722425127830534, 'pt-gpt-4': 0.9620160701241782}
+layer_num = 18
+trying to get pt_train
+dataset/processed_multitude/train_valid_data/pt_train.json
+trying to get pt_val
+dataset/processed_multitude/train_valid_data/pt_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.6866, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.8088, Validation Accuracy: 0.6000
+Epoch [3/20], Loss: 0.6333, Validation Accuracy: 0.4000
+Epoch [4/20], Loss: 0.7180, Validation Accuracy: 0.4000
+Epoch [5/20], Loss: 0.6500, Validation Accuracy: 0.4000
+Epoch [6/20], Loss: 0.6637, Validation Accuracy: 0.8500
+Epoch [7/20], Loss: 0.6616, Validation Accuracy: 0.8000
+Epoch [8/20], Loss: 0.6473, Validation Accuracy: 0.4000
+Epoch [9/20], Loss: 0.5972, Validation Accuracy: 0.4000
+Epoch [10/20], Loss: 0.4837, Validation Accuracy: 0.4000
+Epoch [11/20], Loss: 0.6858, Validation Accuracy: 0.4000
+Epoch [12/20], Loss: 0.6625, Validation Accuracy: 0.4000
+Epoch [13/20], Loss: 0.5419, Validation Accuracy: 0.8000
+Epoch [14/20], Loss: 0.7213, Validation Accuracy: 0.4000
+Epoch [15/20], Loss: 0.5058, Validation Accuracy: 0.4000
+Epoch [16/20], Loss: 0.5644, Validation Accuracy: 0.7500
+Epoch [17/20], Loss: 0.5714, Validation Accuracy: 0.4000
+Epoch [18/20], Loss: 0.5335, Validation Accuracy: 0.4500
+Epoch [19/20], Loss: 0.5170, Validation Accuracy: 0.8000
+Epoch [20/20], Loss: 0.5126, Validation Accuracy: 0.5500
+trying to get pt_gpt-3.5-turbo
+dataset/processed_multitude/test_data/pt_gpt-3.5-turbo.json
+trying to get pt_gpt-4
+dataset/processed_multitude/test_data/pt_gpt-4.json
+{'pt-gpt-3.5-turbo': 0.972972972972973, 'pt-gpt-4': 0.9751643535427319}
+layer_num = 19
+trying to get pt_train
+dataset/processed_multitude/train_valid_data/pt_train.json
+trying to get pt_val
+dataset/processed_multitude/train_valid_data/pt_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 1.2626, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.5486, Validation Accuracy: 0.7500
+Epoch [3/20], Loss: 0.5897, Validation Accuracy: 0.4000
+Epoch [4/20], Loss: 0.6600, Validation Accuracy: 0.4000
+Epoch [5/20], Loss: 0.6364, Validation Accuracy: 0.4000
+Epoch [6/20], Loss: 0.7307, Validation Accuracy: 0.4000
+Epoch [7/20], Loss: 0.6794, Validation Accuracy: 0.4000
+Epoch [8/20], Loss: 0.6965, Validation Accuracy: 0.4000
+Epoch [9/20], Loss: 0.6215, Validation Accuracy: 0.8000
+Epoch [10/20], Loss: 0.5839, Validation Accuracy: 0.4000
+Epoch [11/20], Loss: 0.6055, Validation Accuracy: 0.4000
+Epoch [12/20], Loss: 0.5296, Validation Accuracy: 0.4000
+Epoch [13/20], Loss: 0.5689, Validation Accuracy: 0.4000
+Epoch [14/20], Loss: 0.6491, Validation Accuracy: 0.5000
+Epoch [15/20], Loss: 0.7004, Validation Accuracy: 0.4000
+Epoch [16/20], Loss: 0.6170, Validation Accuracy: 0.4500
+Epoch [17/20], Loss: 0.5685, Validation Accuracy: 0.5000
+Epoch [18/20], Loss: 0.5332, Validation Accuracy: 0.5000
+Epoch [19/20], Loss: 0.3987, Validation Accuracy: 0.5000
+Epoch [20/20], Loss: 0.5267, Validation Accuracy: 0.5500
+trying to get pt_gpt-3.5-turbo
+dataset/processed_multitude/test_data/pt_gpt-3.5-turbo.json
+trying to get pt_gpt-4
+dataset/processed_multitude/test_data/pt_gpt-4.json
+{'pt-gpt-3.5-turbo': 0.9678597516435354, 'pt-gpt-4': 0.9707815924032142}
+layer_num = 20
+trying to get pt_train
+dataset/processed_multitude/train_valid_data/pt_train.json
+trying to get pt_val
+dataset/processed_multitude/train_valid_data/pt_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.5967, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.6785, Validation Accuracy: 0.4500
+Epoch [3/20], Loss: 0.6219, Validation Accuracy: 0.4000
+Epoch [4/20], Loss: 0.6974, Validation Accuracy: 0.5000
+Epoch [5/20], Loss: 0.7018, Validation Accuracy: 0.5500
+Epoch [6/20], Loss: 0.6373, Validation Accuracy: 0.4500
+Epoch [7/20], Loss: 0.6453, Validation Accuracy: 0.5500
+Epoch [8/20], Loss: 0.6153, Validation Accuracy: 0.5000
+Epoch [9/20], Loss: 0.7935, Validation Accuracy: 0.5000
+Epoch [10/20], Loss: 0.6294, Validation Accuracy: 0.5000
+Epoch [11/20], Loss: 0.5652, Validation Accuracy: 0.5500
+Epoch [12/20], Loss: 0.5568, Validation Accuracy: 0.6000
+Epoch [13/20], Loss: 0.4716, Validation Accuracy: 0.6000
+Epoch [14/20], Loss: 0.5463, Validation Accuracy: 0.6000
+Epoch [15/20], Loss: 0.5516, Validation Accuracy: 0.6000
+Epoch [16/20], Loss: 0.4840, Validation Accuracy: 0.6000
+Epoch [17/20], Loss: 0.4188, Validation Accuracy: 0.5000
+Epoch [18/20], Loss: 0.5381, Validation Accuracy: 0.6500
+Epoch [19/20], Loss: 0.4389, Validation Accuracy: 0.7000
+Epoch [20/20], Loss: 0.4350, Validation Accuracy: 0.6000
+trying to get pt_gpt-3.5-turbo
+dataset/processed_multitude/test_data/pt_gpt-3.5-turbo.json
+trying to get pt_gpt-4
+dataset/processed_multitude/test_data/pt_gpt-4.json
+{'pt-gpt-3.5-turbo': 0.9663988312636962, 'pt-gpt-4': 0.983199415631848}
+layer_num = 21
+trying to get pt_train
+dataset/processed_multitude/train_valid_data/pt_train.json
+trying to get pt_val
+dataset/processed_multitude/train_valid_data/pt_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.8780, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.5854, Validation Accuracy: 0.4000
+Epoch [3/20], Loss: 0.5777, Validation Accuracy: 0.4000
+Epoch [4/20], Loss: 0.5124, Validation Accuracy: 0.7500
+Epoch [5/20], Loss: 0.6045, Validation Accuracy: 0.4500
+Epoch [6/20], Loss: 0.7796, Validation Accuracy: 0.5500
+Epoch [7/20], Loss: 0.6648, Validation Accuracy: 0.4000
+Epoch [8/20], Loss: 0.5866, Validation Accuracy: 0.8000
+Epoch [9/20], Loss: 0.6169, Validation Accuracy: 0.4000
+Epoch [10/20], Loss: 0.7222, Validation Accuracy: 0.5000
+Epoch [11/20], Loss: 0.6132, Validation Accuracy: 0.7000
+Epoch [12/20], Loss: 0.6319, Validation Accuracy: 0.4000
+Epoch [13/20], Loss: 0.5370, Validation Accuracy: 0.7000
+Epoch [14/20], Loss: 0.4273, Validation Accuracy: 0.7500
+Epoch [15/20], Loss: 0.5832, Validation Accuracy: 0.5000
+Epoch [16/20], Loss: 0.3723, Validation Accuracy: 0.6500
+Epoch [17/20], Loss: 0.5178, Validation Accuracy: 0.6500
+Epoch [18/20], Loss: 0.4954, Validation Accuracy: 0.6500
+Epoch [19/20], Loss: 0.3473, Validation Accuracy: 0.6500
+Epoch [20/20], Loss: 0.5278, Validation Accuracy: 0.6500
+trying to get pt_gpt-3.5-turbo
+dataset/processed_multitude/test_data/pt_gpt-3.5-turbo.json
+trying to get pt_gpt-4
+dataset/processed_multitude/test_data/pt_gpt-4.json
+{'pt-gpt-3.5-turbo': 0.9634769905040176, 'pt-gpt-4': 0.9788166544923301}
+layer_num = 22
+trying to get pt_train
+dataset/processed_multitude/train_valid_data/pt_train.json
+trying to get pt_val
+dataset/processed_multitude/train_valid_data/pt_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.7943, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.8181, Validation Accuracy: 0.4500
+Epoch [3/20], Loss: 0.9375, Validation Accuracy: 0.8000
+Epoch [4/20], Loss: 0.6598, Validation Accuracy: 0.9000
+Epoch [5/20], Loss: 0.6623, Validation Accuracy: 0.8000
+Epoch [6/20], Loss: 0.4682, Validation Accuracy: 0.5000
+Epoch [7/20], Loss: 0.5747, Validation Accuracy: 0.6500
+Epoch [8/20], Loss: 0.7441, Validation Accuracy: 0.6500
+Epoch [9/20], Loss: 0.5713, Validation Accuracy: 0.6500
+Epoch [10/20], Loss: 0.5675, Validation Accuracy: 0.8500
+Epoch [11/20], Loss: 0.6560, Validation Accuracy: 0.6000
+Epoch [12/20], Loss: 0.5921, Validation Accuracy: 0.6500
+Epoch [13/20], Loss: 0.4938, Validation Accuracy: 0.8000
+Epoch [14/20], Loss: 0.3382, Validation Accuracy: 0.7500
+Epoch [15/20], Loss: 0.4015, Validation Accuracy: 0.7000
+Epoch [16/20], Loss: 0.4631, Validation Accuracy: 0.7000
+Epoch [17/20], Loss: 0.2313, Validation Accuracy: 0.8000
+Epoch [18/20], Loss: 0.1840, Validation Accuracy: 0.8500
+Epoch [19/20], Loss: 0.4125, Validation Accuracy: 0.8500
+Epoch [20/20], Loss: 0.1473, Validation Accuracy: 0.8500
+trying to get pt_gpt-3.5-turbo
+dataset/processed_multitude/test_data/pt_gpt-3.5-turbo.json
+trying to get pt_gpt-4
+dataset/processed_multitude/test_data/pt_gpt-4.json
+{'pt-gpt-3.5-turbo': 0.95836376917458, 'pt-gpt-4': 0.9656683710737766}
+layer_num = 23
+trying to get pt_train
+dataset/processed_multitude/train_valid_data/pt_train.json
+trying to get pt_val
+dataset/processed_multitude/train_valid_data/pt_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.7952, Validation Accuracy: 0.4500
+Epoch [2/20], Loss: 0.8988, Validation Accuracy: 0.6000
+Epoch [3/20], Loss: 0.6231, Validation Accuracy: 0.4000
+Epoch [4/20], Loss: 0.7690, Validation Accuracy: 0.5000
+Epoch [5/20], Loss: 0.5952, Validation Accuracy: 0.8500
+Epoch [6/20], Loss: 0.6864, Validation Accuracy: 0.7500
+Epoch [7/20], Loss: 0.5204, Validation Accuracy: 0.8500
+Epoch [8/20], Loss: 0.6226, Validation Accuracy: 0.4500
+Epoch [9/20], Loss: 0.4467, Validation Accuracy: 0.7500
+Epoch [10/20], Loss: 0.5071, Validation Accuracy: 0.5500
+Epoch [11/20], Loss: 0.3451, Validation Accuracy: 0.7500
+Epoch [12/20], Loss: 0.4913, Validation Accuracy: 0.7000
+Epoch [13/20], Loss: 0.5242, Validation Accuracy: 0.7500
+Epoch [14/20], Loss: 0.3407, Validation Accuracy: 0.5000
+Epoch [15/20], Loss: 0.2694, Validation Accuracy: 0.7500
+Epoch [16/20], Loss: 0.4128, Validation Accuracy: 0.8000
+Epoch [17/20], Loss: 0.3002, Validation Accuracy: 0.7000
+Epoch [18/20], Loss: 0.2676, Validation Accuracy: 0.8000
+Epoch [19/20], Loss: 0.1238, Validation Accuracy: 0.7500
+Epoch [20/20], Loss: 0.2447, Validation Accuracy: 0.8000
+trying to get pt_gpt-3.5-turbo
+dataset/processed_multitude/test_data/pt_gpt-3.5-turbo.json
+trying to get pt_gpt-4
+dataset/processed_multitude/test_data/pt_gpt-4.json
+{'pt-gpt-3.5-turbo': 0.9634769905040176, 'pt-gpt-4': 0.9671292914536158}
+layer_num = 24
+trying to get pt_train
+dataset/processed_multitude/train_valid_data/pt_train.json
+trying to get pt_val
+dataset/processed_multitude/train_valid_data/pt_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.6166, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.7858, Validation Accuracy: 0.5500
+Epoch [3/20], Loss: 0.6133, Validation Accuracy: 0.4000
+Epoch [4/20], Loss: 0.7563, Validation Accuracy: 0.7000
+Epoch [5/20], Loss: 0.5666, Validation Accuracy: 0.7000
+Epoch [6/20], Loss: 0.5927, Validation Accuracy: 0.7000
+Epoch [7/20], Loss: 0.5076, Validation Accuracy: 0.6500
+Epoch [8/20], Loss: 0.4887, Validation Accuracy: 0.7000
+Epoch [9/20], Loss: 0.3986, Validation Accuracy: 0.6500
+Epoch [10/20], Loss: 0.7078, Validation Accuracy: 0.7500
+Epoch [11/20], Loss: 0.5951, Validation Accuracy: 0.7500
+Epoch [12/20], Loss: 0.3922, Validation Accuracy: 0.7000
+Epoch [13/20], Loss: 0.3185, Validation Accuracy: 0.7500
+Epoch [14/20], Loss: 0.3005, Validation Accuracy: 0.8000
+Epoch [15/20], Loss: 0.1644, Validation Accuracy: 0.7500
+Epoch [16/20], Loss: 0.1947, Validation Accuracy: 0.8000
+Epoch [17/20], Loss: 0.1677, Validation Accuracy: 0.8000
+Epoch [18/20], Loss: 0.1400, Validation Accuracy: 0.7500
+Epoch [19/20], Loss: 0.2699, Validation Accuracy: 0.7500
+Epoch [20/20], Loss: 0.0883, Validation Accuracy: 0.7500
+trying to get pt_gpt-3.5-turbo
+dataset/processed_multitude/test_data/pt_gpt-3.5-turbo.json
+trying to get pt_gpt-4
+dataset/processed_multitude/test_data/pt_gpt-4.json
+{'pt-gpt-3.5-turbo': 0.9685902118334551, 'pt-gpt-4': 0.9620160701241782}
+layer_num = 25
+trying to get pt_train
+dataset/processed_multitude/train_valid_data/pt_train.json
+trying to get pt_val
+dataset/processed_multitude/train_valid_data/pt_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.6127, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.7276, Validation Accuracy: 0.6000
+Epoch [3/20], Loss: 0.6818, Validation Accuracy: 0.4000
+Epoch [4/20], Loss: 0.6183, Validation Accuracy: 0.8000
+Epoch [5/20], Loss: 0.5592, Validation Accuracy: 0.7000
+Epoch [6/20], Loss: 0.5215, Validation Accuracy: 0.8000
+Epoch [7/20], Loss: 0.5277, Validation Accuracy: 0.6500
+Epoch [8/20], Loss: 0.5252, Validation Accuracy: 0.7000
+Epoch [9/20], Loss: 0.4795, Validation Accuracy: 0.7000
+Epoch [10/20], Loss: 0.3645, Validation Accuracy: 0.7000
+Epoch [11/20], Loss: 0.3564, Validation Accuracy: 0.7500
+Epoch [12/20], Loss: 0.4596, Validation Accuracy: 0.8000
+Epoch [13/20], Loss: 0.2595, Validation Accuracy: 0.7000
+Epoch [14/20], Loss: 0.2843, Validation Accuracy: 0.8000
+Epoch [15/20], Loss: 0.1382, Validation Accuracy: 0.8000
+Epoch [16/20], Loss: 0.1985, Validation Accuracy: 0.8000
+Epoch [17/20], Loss: 0.2302, Validation Accuracy: 0.6000
+Epoch [18/20], Loss: 0.2181, Validation Accuracy: 0.7000
+Epoch [19/20], Loss: 0.1124, Validation Accuracy: 0.7000
+Epoch [20/20], Loss: 0.0794, Validation Accuracy: 0.7500
+trying to get pt_gpt-3.5-turbo
+dataset/processed_multitude/test_data/pt_gpt-3.5-turbo.json
+trying to get pt_gpt-4
+dataset/processed_multitude/test_data/pt_gpt-4.json
+{'pt-gpt-3.5-turbo': 0.9554419284149014, 'pt-gpt-4': 0.9642074506939373}
+layer_num = 26
+trying to get pt_train
+dataset/processed_multitude/train_valid_data/pt_train.json
+trying to get pt_val
+dataset/processed_multitude/train_valid_data/pt_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.7966, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.6325, Validation Accuracy: 0.7000
+Epoch [3/20], Loss: 0.6279, Validation Accuracy: 0.8000
+Epoch [4/20], Loss: 0.5674, Validation Accuracy: 0.4500
+Epoch [5/20], Loss: 0.6262, Validation Accuracy: 0.7000
+Epoch [6/20], Loss: 0.5119, Validation Accuracy: 0.6500
+Epoch [7/20], Loss: 0.6133, Validation Accuracy: 0.8000
+Epoch [8/20], Loss: 0.6813, Validation Accuracy: 0.6500
+Epoch [9/20], Loss: 0.4390, Validation Accuracy: 0.7000
+Epoch [10/20], Loss: 0.2740, Validation Accuracy: 0.6000
+Epoch [11/20], Loss: 0.3639, Validation Accuracy: 0.6000
+Epoch [12/20], Loss: 0.3552, Validation Accuracy: 0.7000
+Epoch [13/20], Loss: 0.3181, Validation Accuracy: 0.7500
+Epoch [14/20], Loss: 0.1076, Validation Accuracy: 0.7500
+Epoch [15/20], Loss: 0.1159, Validation Accuracy: 0.6500
+Epoch [16/20], Loss: 0.1314, Validation Accuracy: 0.8000
+Epoch [17/20], Loss: 0.0987, Validation Accuracy: 0.8000
+Epoch [18/20], Loss: 0.0934, Validation Accuracy: 0.6500
+Epoch [19/20], Loss: 0.0709, Validation Accuracy: 0.7000
+Epoch [20/20], Loss: 0.0360, Validation Accuracy: 0.8000
+trying to get pt_gpt-3.5-turbo
+dataset/processed_multitude/test_data/pt_gpt-3.5-turbo.json
+trying to get pt_gpt-4
+dataset/processed_multitude/test_data/pt_gpt-4.json
+{'pt-gpt-3.5-turbo': 0.9510591672753835, 'pt-gpt-4': 0.9466764061358657}
+layer_num = 27
+trying to get pt_train
+dataset/processed_multitude/train_valid_data/pt_train.json
+trying to get pt_val
+dataset/processed_multitude/train_valid_data/pt_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.5828, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.8474, Validation Accuracy: 0.8000
+Epoch [3/20], Loss: 0.7058, Validation Accuracy: 0.6000
+Epoch [4/20], Loss: 0.5621, Validation Accuracy: 0.6500
+Epoch [5/20], Loss: 0.4767, Validation Accuracy: 0.7500
+Epoch [6/20], Loss: 0.5865, Validation Accuracy: 0.5500
+Epoch [7/20], Loss: 0.5604, Validation Accuracy: 0.6500
+Epoch [8/20], Loss: 0.3322, Validation Accuracy: 0.5000
+Epoch [9/20], Loss: 0.3389, Validation Accuracy: 0.6500
+Epoch [10/20], Loss: 0.3270, Validation Accuracy: 0.7000
+Epoch [11/20], Loss: 0.2602, Validation Accuracy: 0.6500
+Epoch [12/20], Loss: 0.1894, Validation Accuracy: 0.8000
+Epoch [13/20], Loss: 0.2230, Validation Accuracy: 0.7000
+Epoch [14/20], Loss: 0.1096, Validation Accuracy: 0.6500
+Epoch [15/20], Loss: 0.1237, Validation Accuracy: 0.6500
+Epoch [16/20], Loss: 0.0863, Validation Accuracy: 0.8000
+Epoch [17/20], Loss: 0.0403, Validation Accuracy: 0.6500
+Epoch [18/20], Loss: 0.0627, Validation Accuracy: 0.7500
+Epoch [19/20], Loss: 0.0462, Validation Accuracy: 0.6000
+Epoch [20/20], Loss: 0.0876, Validation Accuracy: 0.6000
+trying to get pt_gpt-3.5-turbo
+dataset/processed_multitude/test_data/pt_gpt-3.5-turbo.json
+trying to get pt_gpt-4
+dataset/processed_multitude/test_data/pt_gpt-4.json
+{'pt-gpt-3.5-turbo': 0.9474068663257852, 'pt-gpt-4': 0.9590942293644996}
+layer_num = 28
+trying to get pt_train
+dataset/processed_multitude/train_valid_data/pt_train.json
+trying to get pt_val
+dataset/processed_multitude/train_valid_data/pt_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.6325, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.5886, Validation Accuracy: 0.6000
+Epoch [3/20], Loss: 0.8160, Validation Accuracy: 0.5500
+Epoch [4/20], Loss: 0.4730, Validation Accuracy: 0.4000
+Epoch [5/20], Loss: 0.5883, Validation Accuracy: 0.5000
+Epoch [6/20], Loss: 0.7478, Validation Accuracy: 0.6000
+Epoch [7/20], Loss: 0.4567, Validation Accuracy: 0.6500
+Epoch [8/20], Loss: 0.4494, Validation Accuracy: 0.7000
+Epoch [9/20], Loss: 0.2388, Validation Accuracy: 0.8000
+Epoch [10/20], Loss: 0.3091, Validation Accuracy: 0.7500
+Epoch [11/20], Loss: 0.2716, Validation Accuracy: 0.7000
+Epoch [12/20], Loss: 0.1176, Validation Accuracy: 0.8000
+Epoch [13/20], Loss: 0.1172, Validation Accuracy: 0.8000
+Epoch [14/20], Loss: 0.1233, Validation Accuracy: 0.7500
+Epoch [15/20], Loss: 0.1312, Validation Accuracy: 0.7500
+Epoch [16/20], Loss: 0.0695, Validation Accuracy: 0.7500
+Epoch [17/20], Loss: 0.0683, Validation Accuracy: 0.7500
+Epoch [18/20], Loss: 0.1125, Validation Accuracy: 0.5500
+Epoch [19/20], Loss: 0.0397, Validation Accuracy: 0.7000
+Epoch [20/20], Loss: 0.0140, Validation Accuracy: 0.8000
+trying to get pt_gpt-3.5-turbo
+dataset/processed_multitude/test_data/pt_gpt-3.5-turbo.json
+trying to get pt_gpt-4
+dataset/processed_multitude/test_data/pt_gpt-4.json
+{'pt-gpt-3.5-turbo': 0.9430241051862673, 'pt-gpt-4': 0.9452154857560263}
+layer_num = 29
+trying to get pt_train
+dataset/processed_multitude/train_valid_data/pt_train.json
+trying to get pt_val
+dataset/processed_multitude/train_valid_data/pt_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.7076, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.5921, Validation Accuracy: 0.7500
+Epoch [3/20], Loss: 0.6357, Validation Accuracy: 0.6500
+Epoch [4/20], Loss: 0.5992, Validation Accuracy: 0.5500
+Epoch [5/20], Loss: 0.4103, Validation Accuracy: 0.6000
+Epoch [6/20], Loss: 0.4346, Validation Accuracy: 0.6500
+Epoch [7/20], Loss: 0.2286, Validation Accuracy: 0.7000
+Epoch [8/20], Loss: 0.2387, Validation Accuracy: 0.7500
+Epoch [9/20], Loss: 0.1758, Validation Accuracy: 0.7500
+Epoch [10/20], Loss: 0.1334, Validation Accuracy: 0.7500
+Epoch [11/20], Loss: 0.0663, Validation Accuracy: 0.7500
+Epoch [12/20], Loss: 0.0389, Validation Accuracy: 0.7000
+Epoch [13/20], Loss: 0.0540, Validation Accuracy: 0.7500
+Epoch [14/20], Loss: 0.0459, Validation Accuracy: 0.7500
+Epoch [15/20], Loss: 0.0559, Validation Accuracy: 0.6500
+Epoch [16/20], Loss: 0.0148, Validation Accuracy: 0.7500
+Epoch [17/20], Loss: 0.0236, Validation Accuracy: 0.6500
+Epoch [18/20], Loss: 0.0109, Validation Accuracy: 0.6000
+Epoch [19/20], Loss: 0.0347, Validation Accuracy: 0.6000
+Epoch [20/20], Loss: 0.0120, Validation Accuracy: 0.7500
+trying to get pt_gpt-3.5-turbo
+dataset/processed_multitude/test_data/pt_gpt-3.5-turbo.json
+trying to get pt_gpt-4
+dataset/processed_multitude/test_data/pt_gpt-4.json
+{'pt-gpt-3.5-turbo': 0.9634769905040175, 'pt-gpt-4': 0.9678597516435354}
+layer_num = 30
+trying to get pt_train
+dataset/processed_multitude/train_valid_data/pt_train.json
+trying to get pt_val
+dataset/processed_multitude/train_valid_data/pt_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.7195, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.6155, Validation Accuracy: 0.7000
+Epoch [3/20], Loss: 0.6204, Validation Accuracy: 0.7500
+Epoch [4/20], Loss: 0.4464, Validation Accuracy: 0.5500
+Epoch [5/20], Loss: 0.3713, Validation Accuracy: 0.7000
+Epoch [6/20], Loss: 0.3218, Validation Accuracy: 0.5500
+Epoch [7/20], Loss: 0.1839, Validation Accuracy: 0.7000
+Epoch [8/20], Loss: 0.2539, Validation Accuracy: 0.7000
+Epoch [9/20], Loss: 0.1068, Validation Accuracy: 0.5000
+Epoch [10/20], Loss: 0.0904, Validation Accuracy: 0.7000
+Epoch [11/20], Loss: 0.0477, Validation Accuracy: 0.6500
+Epoch [12/20], Loss: 0.0250, Validation Accuracy: 0.6000
+Epoch [13/20], Loss: 0.0161, Validation Accuracy: 0.6500
+Epoch [14/20], Loss: 0.0264, Validation Accuracy: 0.6000
+Epoch [15/20], Loss: 0.0256, Validation Accuracy: 0.6500
+Epoch [16/20], Loss: 0.0361, Validation Accuracy: 0.7000
+Epoch [17/20], Loss: 0.0059, Validation Accuracy: 0.6500
+Epoch [18/20], Loss: 0.0079, Validation Accuracy: 0.7000
+Epoch [19/20], Loss: 0.0355, Validation Accuracy: 0.6000
+Epoch [20/20], Loss: 0.0114, Validation Accuracy: 0.7000
+trying to get pt_gpt-3.5-turbo
+dataset/processed_multitude/test_data/pt_gpt-3.5-turbo.json
+trying to get pt_gpt-4
+dataset/processed_multitude/test_data/pt_gpt-4.json
+{'pt-gpt-3.5-turbo': 0.9495982468955442, 'pt-gpt-4': 0.9590942293644997}
+layer_num = 31
+trying to get pt_train
+dataset/processed_multitude/train_valid_data/pt_train.json
+trying to get pt_val
+dataset/processed_multitude/train_valid_data/pt_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.7914, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.6534, Validation Accuracy: 0.6000
+Epoch [3/20], Loss: 0.4953, Validation Accuracy: 0.5000
+Epoch [4/20], Loss: 0.5396, Validation Accuracy: 0.6000
+Epoch [5/20], Loss: 0.3258, Validation Accuracy: 0.6500
+Epoch [6/20], Loss: 0.2850, Validation Accuracy: 0.6500
+Epoch [7/20], Loss: 0.2321, Validation Accuracy: 0.7000
+Epoch [8/20], Loss: 0.1220, Validation Accuracy: 0.5000
+Epoch [9/20], Loss: 0.1374, Validation Accuracy: 0.7000
+Epoch [10/20], Loss: 0.0855, Validation Accuracy: 0.6500
+Epoch [11/20], Loss: 0.0621, Validation Accuracy: 0.6500
+Epoch [12/20], Loss: 0.0871, Validation Accuracy: 0.6500
+Epoch [13/20], Loss: 0.0613, Validation Accuracy: 0.7000
+Epoch [14/20], Loss: 0.0298, Validation Accuracy: 0.7000
+Epoch [15/20], Loss: 0.0394, Validation Accuracy: 0.5500
+Epoch [16/20], Loss: 0.0119, Validation Accuracy: 0.7000
+Epoch [17/20], Loss: 0.0111, Validation Accuracy: 0.5500
+Epoch [18/20], Loss: 0.0187, Validation Accuracy: 0.5500
+Epoch [19/20], Loss: 0.0054, Validation Accuracy: 0.7000
+Epoch [20/20], Loss: 0.0071, Validation Accuracy: 0.6000
+trying to get pt_gpt-3.5-turbo
+dataset/processed_multitude/test_data/pt_gpt-3.5-turbo.json
+trying to get pt_gpt-4
+dataset/processed_multitude/test_data/pt_gpt-4.json
+{'pt-gpt-3.5-turbo': 0.9503287070854639, 'pt-gpt-4': 0.9525200876552228}
+layer_num = 32
+trying to get pt_train
+dataset/processed_multitude/train_valid_data/pt_train.json
+trying to get pt_val
+dataset/processed_multitude/train_valid_data/pt_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.7858, Validation Accuracy: 0.5000
+Epoch [2/20], Loss: 0.5851, Validation Accuracy: 0.5500
+Epoch [3/20], Loss: 0.3715, Validation Accuracy: 0.6000
+Epoch [4/20], Loss: 0.2913, Validation Accuracy: 0.6500
+Epoch [5/20], Loss: 0.2035, Validation Accuracy: 0.6500
+Epoch [6/20], Loss: 0.1567, Validation Accuracy: 0.6500
+Epoch [7/20], Loss: 0.0623, Validation Accuracy: 0.6500
+Epoch [8/20], Loss: 0.0826, Validation Accuracy: 0.6500
+Epoch [9/20], Loss: 0.0450, Validation Accuracy: 0.6500
+Epoch [10/20], Loss: 0.0286, Validation Accuracy: 0.6000
+Epoch [11/20], Loss: 0.0496, Validation Accuracy: 0.6500
+Epoch [12/20], Loss: 0.0422, Validation Accuracy: 0.6000
+Epoch [13/20], Loss: 0.0092, Validation Accuracy: 0.6000
+Epoch [14/20], Loss: 0.0164, Validation Accuracy: 0.6000
+Epoch [15/20], Loss: 0.0130, Validation Accuracy: 0.6500
+Epoch [16/20], Loss: 0.0232, Validation Accuracy: 0.6500
+Epoch [17/20], Loss: 0.0208, Validation Accuracy: 0.6000
+Epoch [18/20], Loss: 0.0042, Validation Accuracy: 0.6500
+Epoch [19/20], Loss: 0.0090, Validation Accuracy: 0.6000
+Epoch [20/20], Loss: 0.0188, Validation Accuracy: 0.5500
+trying to get pt_gpt-3.5-turbo
+dataset/processed_multitude/test_data/pt_gpt-3.5-turbo.json
+trying to get pt_gpt-4
+dataset/processed_multitude/test_data/pt_gpt-4.json
+{'pt-gpt-3.5-turbo': 0.9386413440467495, 'pt-gpt-4': 0.9401022644265888}
