@@ -1,0 +1,762 @@
+layer_num = 0
+trying to get ca_train
+dataset/processed_multitude/train_valid_data/ca_train.json
+trying to get ca_val
+dataset/processed_multitude/train_valid_data/ca_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/10], Loss: 0.6961, Validation Accuracy: 0.4000
+Epoch [2/10], Loss: 0.6989, Validation Accuracy: 0.4000
+Epoch [3/10], Loss: 0.6985, Validation Accuracy: 0.4000
+Epoch [4/10], Loss: 0.6923, Validation Accuracy: 0.4000
+Epoch [5/10], Loss: 0.6888, Validation Accuracy: 0.4000
+Epoch [6/10], Loss: 0.6864, Validation Accuracy: 0.4000
+Epoch [7/10], Loss: 0.7010, Validation Accuracy: 0.4000
+Epoch [8/10], Loss: 0.6865, Validation Accuracy: 0.4000
+Epoch [9/10], Loss: 0.7090, Validation Accuracy: 0.4000
+Epoch [10/10], Loss: 0.6768, Validation Accuracy: 0.4000
+trying to get ca_gpt-3.5-turbo
+dataset/processed_multitude/test_data/ca_gpt-3.5-turbo.json
+trying to get ca_gpt-4
+dataset/processed_multitude/test_data/ca_gpt-4.json
+{'ca-gpt-3.5-turbo': 0.5, 'ca-gpt-4': 0.5}
+layer_num = 1
+trying to get ca_train
+dataset/processed_multitude/train_valid_data/ca_train.json
+trying to get ca_val
+dataset/processed_multitude/train_valid_data/ca_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/10], Loss: 0.6989, Validation Accuracy: 0.4000
+Epoch [2/10], Loss: 0.6734, Validation Accuracy: 0.7500
+Epoch [3/10], Loss: 0.6556, Validation Accuracy: 0.4000
+Epoch [4/10], Loss: 0.6511, Validation Accuracy: 0.6000
+Epoch [5/10], Loss: 0.5405, Validation Accuracy: 0.7000
+Epoch [6/10], Loss: 0.4895, Validation Accuracy: 0.5500
+Epoch [7/10], Loss: 0.4415, Validation Accuracy: 0.5500
+Epoch [8/10], Loss: 0.2578, Validation Accuracy: 0.7000
+Epoch [9/10], Loss: 0.2246, Validation Accuracy: 0.8000
+Epoch [10/10], Loss: 0.1369, Validation Accuracy: 0.8500
+trying to get ca_gpt-3.5-turbo
+dataset/processed_multitude/test_data/ca_gpt-3.5-turbo.json
+trying to get ca_gpt-4
+dataset/processed_multitude/test_data/ca_gpt-4.json
+{'ca-gpt-3.5-turbo': 0.9112, 'ca-gpt-4': 0.8999999999999999}
+layer_num = 2
+trying to get ca_train
+dataset/processed_multitude/train_valid_data/ca_train.json
+trying to get ca_val
+dataset/processed_multitude/train_valid_data/ca_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/10], Loss: 0.7147, Validation Accuracy: 0.4000
+Epoch [2/10], Loss: 0.6596, Validation Accuracy: 0.5000
+Epoch [3/10], Loss: 0.6009, Validation Accuracy: 0.8500
+Epoch [4/10], Loss: 0.5392, Validation Accuracy: 0.5500
+Epoch [5/10], Loss: 0.3962, Validation Accuracy: 0.5500
+Epoch [6/10], Loss: 0.4331, Validation Accuracy: 0.6500
+Epoch [7/10], Loss: 0.2651, Validation Accuracy: 0.8000
+Epoch [8/10], Loss: 0.1736, Validation Accuracy: 0.9500
+Epoch [9/10], Loss: 0.1146, Validation Accuracy: 0.9500
+Epoch [10/10], Loss: 0.0457, Validation Accuracy: 0.9500
+trying to get ca_gpt-3.5-turbo
+dataset/processed_multitude/test_data/ca_gpt-3.5-turbo.json
+trying to get ca_gpt-4
+dataset/processed_multitude/test_data/ca_gpt-4.json
+{'ca-gpt-3.5-turbo': 0.9436, 'ca-gpt-4': 0.9179999999999999}
+layer_num = 3
+trying to get ca_train
+dataset/processed_multitude/train_valid_data/ca_train.json
+trying to get ca_val
+dataset/processed_multitude/train_valid_data/ca_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/10], Loss: 0.5922, Validation Accuracy: 0.8000
+Epoch [2/10], Loss: 0.6795, Validation Accuracy: 0.4500
+Epoch [3/10], Loss: 0.5020, Validation Accuracy: 0.4000
+Epoch [4/10], Loss: 0.5421, Validation Accuracy: 0.4000
+Epoch [5/10], Loss: 0.4566, Validation Accuracy: 0.5500
+Epoch [6/10], Loss: 0.3734, Validation Accuracy: 0.5500
+Epoch [7/10], Loss: 0.2709, Validation Accuracy: 0.7000
+Epoch [8/10], Loss: 0.1552, Validation Accuracy: 0.9000
+Epoch [9/10], Loss: 0.1715, Validation Accuracy: 0.9000
+Epoch [10/10], Loss: 0.0803, Validation Accuracy: 0.9000
+trying to get ca_gpt-3.5-turbo
+dataset/processed_multitude/test_data/ca_gpt-3.5-turbo.json
+trying to get ca_gpt-4
+dataset/processed_multitude/test_data/ca_gpt-4.json
+{'ca-gpt-3.5-turbo': 0.9311999999999999, 'ca-gpt-4': 0.8924}
+layer_num = 4
+trying to get ca_train
+dataset/processed_multitude/train_valid_data/ca_train.json
+trying to get ca_val
+dataset/processed_multitude/train_valid_data/ca_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/10], Loss: 0.6790, Validation Accuracy: 0.4000
+Epoch [2/10], Loss: 0.6160, Validation Accuracy: 0.4000
+Epoch [3/10], Loss: 0.6479, Validation Accuracy: 0.4500
+Epoch [4/10], Loss: 0.4700, Validation Accuracy: 0.5500
+Epoch [5/10], Loss: 0.4489, Validation Accuracy: 0.5500
+Epoch [6/10], Loss: 0.3703, Validation Accuracy: 0.7000
+Epoch [7/10], Loss: 0.2823, Validation Accuracy: 0.9000
+Epoch [8/10], Loss: 0.1327, Validation Accuracy: 0.8500
+Epoch [9/10], Loss: 0.2637, Validation Accuracy: 0.9000
+Epoch [10/10], Loss: 0.0868, Validation Accuracy: 0.9000
+trying to get ca_gpt-3.5-turbo
+dataset/processed_multitude/test_data/ca_gpt-3.5-turbo.json
+trying to get ca_gpt-4
+dataset/processed_multitude/test_data/ca_gpt-4.json
+{'ca-gpt-3.5-turbo': 0.9372, 'ca-gpt-4': 0.8992}
+layer_num = 5
+trying to get ca_train
+dataset/processed_multitude/train_valid_data/ca_train.json
+trying to get ca_val
+dataset/processed_multitude/train_valid_data/ca_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/10], Loss: 0.7250, Validation Accuracy: 0.8000
+Epoch [2/10], Loss: 0.6262, Validation Accuracy: 0.4000
+Epoch [3/10], Loss: 0.6209, Validation Accuracy: 0.4500
+Epoch [4/10], Loss: 0.4297, Validation Accuracy: 0.5500
+Epoch [5/10], Loss: 0.3927, Validation Accuracy: 0.5500
+Epoch [6/10], Loss: 0.3375, Validation Accuracy: 0.7500
+Epoch [7/10], Loss: 0.3161, Validation Accuracy: 0.9000
+Epoch [8/10], Loss: 0.1053, Validation Accuracy: 0.8500
+Epoch [9/10], Loss: 0.0673, Validation Accuracy: 0.9000
+Epoch [10/10], Loss: 0.0590, Validation Accuracy: 0.9500
+trying to get ca_gpt-3.5-turbo
+dataset/processed_multitude/test_data/ca_gpt-3.5-turbo.json
+trying to get ca_gpt-4
+dataset/processed_multitude/test_data/ca_gpt-4.json
+{'ca-gpt-3.5-turbo': 0.9696, 'ca-gpt-4': 0.946}
+layer_num = 6
+trying to get ca_train
+dataset/processed_multitude/train_valid_data/ca_train.json
+trying to get ca_val
+dataset/processed_multitude/train_valid_data/ca_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/10], Loss: 0.6269, Validation Accuracy: 0.7500
+Epoch [2/10], Loss: 0.7196, Validation Accuracy: 0.4500
+Epoch [3/10], Loss: 0.6379, Validation Accuracy: 0.4500
+Epoch [4/10], Loss: 0.5627, Validation Accuracy: 0.4500
+Epoch [5/10], Loss: 0.4566, Validation Accuracy: 0.5000
+Epoch [6/10], Loss: 0.4433, Validation Accuracy: 0.5500
+Epoch [7/10], Loss: 0.3652, Validation Accuracy: 0.6000
+Epoch [8/10], Loss: 0.2350, Validation Accuracy: 0.6000
+Epoch [9/10], Loss: 0.1686, Validation Accuracy: 0.7000
+Epoch [10/10], Loss: 0.1864, Validation Accuracy: 0.7000
+trying to get ca_gpt-3.5-turbo
+dataset/processed_multitude/test_data/ca_gpt-3.5-turbo.json
+trying to get ca_gpt-4
+dataset/processed_multitude/test_data/ca_gpt-4.json
+{'ca-gpt-3.5-turbo': 0.9744, 'ca-gpt-4': 0.9348000000000001}
+layer_num = 7
+trying to get ca_train
+dataset/processed_multitude/train_valid_data/ca_train.json
+trying to get ca_val
+dataset/processed_multitude/train_valid_data/ca_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/10], Loss: 0.7153, Validation Accuracy: 0.8500
+Epoch [2/10], Loss: 0.5763, Validation Accuracy: 0.9500
+Epoch [3/10], Loss: 0.4454, Validation Accuracy: 0.9500
+Epoch [4/10], Loss: 0.2983, Validation Accuracy: 0.8000
+Epoch [5/10], Loss: 0.2210, Validation Accuracy: 0.9000
+Epoch [6/10], Loss: 0.0669, Validation Accuracy: 0.9500
+Epoch [7/10], Loss: 0.0551, Validation Accuracy: 0.9000
+Epoch [8/10], Loss: 0.0882, Validation Accuracy: 0.9500
+Epoch [9/10], Loss: 0.0183, Validation Accuracy: 0.9500
+Epoch [10/10], Loss: 0.0184, Validation Accuracy: 0.7500
+trying to get ca_gpt-3.5-turbo
+dataset/processed_multitude/test_data/ca_gpt-3.5-turbo.json
+trying to get ca_gpt-4
+dataset/processed_multitude/test_data/ca_gpt-4.json
+{'ca-gpt-3.5-turbo': 0.9720000000000001, 'ca-gpt-4': 0.938}
+layer_num = 8
+trying to get ca_train
+dataset/processed_multitude/train_valid_data/ca_train.json
+trying to get ca_val
+dataset/processed_multitude/train_valid_data/ca_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/10], Loss: 0.7079, Validation Accuracy: 0.5000
+Epoch [2/10], Loss: 0.5312, Validation Accuracy: 0.7000
+Epoch [3/10], Loss: 0.3912, Validation Accuracy: 0.9000
+Epoch [4/10], Loss: 0.3796, Validation Accuracy: 0.9000
+Epoch [5/10], Loss: 0.1702, Validation Accuracy: 0.9500
+Epoch [6/10], Loss: 0.1675, Validation Accuracy: 0.9000
+Epoch [7/10], Loss: 0.1060, Validation Accuracy: 0.9500
+Epoch [8/10], Loss: 0.0440, Validation Accuracy: 0.9500
+Epoch [9/10], Loss: 0.0558, Validation Accuracy: 0.9500
+Epoch [10/10], Loss: 0.0276, Validation Accuracy: 1.0000
+trying to get ca_gpt-3.5-turbo
+dataset/processed_multitude/test_data/ca_gpt-3.5-turbo.json
+trying to get ca_gpt-4
+dataset/processed_multitude/test_data/ca_gpt-4.json
+{'ca-gpt-3.5-turbo': 0.9752000000000001, 'ca-gpt-4': 0.932}
+layer_num = 9
+trying to get ca_train
+dataset/processed_multitude/train_valid_data/ca_train.json
+trying to get ca_val
+dataset/processed_multitude/train_valid_data/ca_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/10], Loss: 0.6421, Validation Accuracy: 0.4000
+Epoch [2/10], Loss: 1.0358, Validation Accuracy: 0.4000
+Epoch [3/10], Loss: 0.8236, Validation Accuracy: 0.4000
+Epoch [4/10], Loss: 0.8431, Validation Accuracy: 0.6000
+Epoch [5/10], Loss: 0.9788, Validation Accuracy: 0.4000
+Epoch [6/10], Loss: 0.6250, Validation Accuracy: 0.4000
+Epoch [7/10], Loss: 0.6726, Validation Accuracy: 0.5000
+Epoch [8/10], Loss: 0.7931, Validation Accuracy: 0.6000
+Epoch [9/10], Loss: 0.7659, Validation Accuracy: 0.4000
+Epoch [10/10], Loss: 0.6076, Validation Accuracy: 0.9000
+trying to get ca_gpt-3.5-turbo
+dataset/processed_multitude/test_data/ca_gpt-3.5-turbo.json
+trying to get ca_gpt-4
+dataset/processed_multitude/test_data/ca_gpt-4.json
+{'ca-gpt-3.5-turbo': 0.9304, 'ca-gpt-4': 0.8944}
+layer_num = 10
+trying to get ca_train
+dataset/processed_multitude/train_valid_data/ca_train.json
+trying to get ca_val
+dataset/processed_multitude/train_valid_data/ca_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/10], Loss: 0.7206, Validation Accuracy: 0.6000
+Epoch [2/10], Loss: 0.8974, Validation Accuracy: 0.4000
+Epoch [3/10], Loss: 0.7618, Validation Accuracy: 0.4000
+Epoch [4/10], Loss: 0.7175, Validation Accuracy: 0.4000
+Epoch [5/10], Loss: 0.9395, Validation Accuracy: 0.8500
+Epoch [6/10], Loss: 0.4145, Validation Accuracy: 0.4000
+Epoch [7/10], Loss: 0.6211, Validation Accuracy: 0.4000
+Epoch [8/10], Loss: 0.5293, Validation Accuracy: 0.4000
+Epoch [9/10], Loss: 0.5948, Validation Accuracy: 0.8000
+Epoch [10/10], Loss: 0.6151, Validation Accuracy: 0.5500
+trying to get ca_gpt-3.5-turbo
+dataset/processed_multitude/test_data/ca_gpt-3.5-turbo.json
+trying to get ca_gpt-4
+dataset/processed_multitude/test_data/ca_gpt-4.json
+{'ca-gpt-3.5-turbo': 0.9604, 'ca-gpt-4': 0.9292}
+layer_num = 11
+trying to get ca_train
+dataset/processed_multitude/train_valid_data/ca_train.json
+trying to get ca_val
+dataset/processed_multitude/train_valid_data/ca_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/10], Loss: 0.6817, Validation Accuracy: 0.6000
+Epoch [2/10], Loss: 0.9329, Validation Accuracy: 0.4000
+Epoch [3/10], Loss: 0.9882, Validation Accuracy: 0.4000
+Epoch [4/10], Loss: 0.8239, Validation Accuracy: 0.4000
+Epoch [5/10], Loss: 0.7424, Validation Accuracy: 0.8500
+Epoch [6/10], Loss: 0.4607, Validation Accuracy: 0.4000
+Epoch [7/10], Loss: 0.9030, Validation Accuracy: 0.8500
+Epoch [8/10], Loss: 0.5871, Validation Accuracy: 0.6500
+Epoch [9/10], Loss: 0.4862, Validation Accuracy: 0.4000
+Epoch [10/10], Loss: 0.3500, Validation Accuracy: 0.4000
+trying to get ca_gpt-3.5-turbo
+dataset/processed_multitude/test_data/ca_gpt-3.5-turbo.json
+trying to get ca_gpt-4
+dataset/processed_multitude/test_data/ca_gpt-4.json
+{'ca-gpt-3.5-turbo': 0.984, 'ca-gpt-4': 0.9548}
+layer_num = 12
+trying to get ca_train
+dataset/processed_multitude/train_valid_data/ca_train.json
+trying to get ca_val
+dataset/processed_multitude/train_valid_data/ca_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/10], Loss: 0.9793, Validation Accuracy: 0.4000
+Epoch [2/10], Loss: 0.8421, Validation Accuracy: 0.4000
+Epoch [3/10], Loss: 0.9558, Validation Accuracy: 0.4000
+Epoch [4/10], Loss: 0.7091, Validation Accuracy: 0.4000
+Epoch [5/10], Loss: 0.6722, Validation Accuracy: 0.4000
+Epoch [6/10], Loss: 0.6749, Validation Accuracy: 0.4000
+Epoch [7/10], Loss: 0.6195, Validation Accuracy: 0.6500
+Epoch [8/10], Loss: 0.5007, Validation Accuracy: 0.6000
+Epoch [9/10], Loss: 0.5253, Validation Accuracy: 0.6500
+Epoch [10/10], Loss: 0.3112, Validation Accuracy: 0.6500
+trying to get ca_gpt-3.5-turbo
+dataset/processed_multitude/test_data/ca_gpt-3.5-turbo.json
+trying to get ca_gpt-4
+dataset/processed_multitude/test_data/ca_gpt-4.json
+{'ca-gpt-3.5-turbo': 0.9812000000000001, 'ca-gpt-4': 0.9572}
+layer_num = 13
+trying to get ca_train
+dataset/processed_multitude/train_valid_data/ca_train.json
+trying to get ca_val
+dataset/processed_multitude/train_valid_data/ca_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/10], Loss: 0.7319, Validation Accuracy: 0.6000
+Epoch [2/10], Loss: 0.6910, Validation Accuracy: 0.4000
+Epoch [3/10], Loss: 0.8462, Validation Accuracy: 0.4000
+Epoch [4/10], Loss: 0.5964, Validation Accuracy: 0.4000
+Epoch [5/10], Loss: 0.7921, Validation Accuracy: 0.4500
+Epoch [6/10], Loss: 0.5971, Validation Accuracy: 0.9500
+Epoch [7/10], Loss: 0.5932, Validation Accuracy: 0.4000
+Epoch [8/10], Loss: 0.6864, Validation Accuracy: 0.4000
+Epoch [9/10], Loss: 0.4964, Validation Accuracy: 0.4000
+Epoch [10/10], Loss: 0.5467, Validation Accuracy: 0.5000
+trying to get ca_gpt-3.5-turbo
+dataset/processed_multitude/test_data/ca_gpt-3.5-turbo.json
+trying to get ca_gpt-4
+dataset/processed_multitude/test_data/ca_gpt-4.json
+{'ca-gpt-3.5-turbo': 0.982, 'ca-gpt-4': 0.9556}
+layer_num = 14
+trying to get ca_train
+dataset/processed_multitude/train_valid_data/ca_train.json
+trying to get ca_val
+dataset/processed_multitude/train_valid_data/ca_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/10], Loss: 0.8243, Validation Accuracy: 0.4000
+Epoch [2/10], Loss: 0.7796, Validation Accuracy: 0.8000
+Epoch [3/10], Loss: 0.7149, Validation Accuracy: 0.4000
+Epoch [4/10], Loss: 0.6020, Validation Accuracy: 0.4000
+Epoch [5/10], Loss: 0.6588, Validation Accuracy: 0.4000
+Epoch [6/10], Loss: 0.6642, Validation Accuracy: 0.6500
+Epoch [7/10], Loss: 0.9402, Validation Accuracy: 0.4000
+Epoch [8/10], Loss: 0.6781, Validation Accuracy: 0.4000
+Epoch [9/10], Loss: 0.3998, Validation Accuracy: 0.4000
+Epoch [10/10], Loss: 0.6492, Validation Accuracy: 0.6500
+trying to get ca_gpt-3.5-turbo
+dataset/processed_multitude/test_data/ca_gpt-3.5-turbo.json
+trying to get ca_gpt-4
+dataset/processed_multitude/test_data/ca_gpt-4.json
+{'ca-gpt-3.5-turbo': 0.9756, 'ca-gpt-4': 0.944}
+layer_num = 15
+trying to get ca_train
+dataset/processed_multitude/train_valid_data/ca_train.json
+trying to get ca_val
+dataset/processed_multitude/train_valid_data/ca_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/10], Loss: 0.7774, Validation Accuracy: 0.4000
+Epoch [2/10], Loss: 0.7046, Validation Accuracy: 0.4000
+Epoch [3/10], Loss: 0.6824, Validation Accuracy: 0.4000
+Epoch [4/10], Loss: 0.6252, Validation Accuracy: 0.4000
+Epoch [5/10], Loss: 0.7088, Validation Accuracy: 0.4000
+Epoch [6/10], Loss: 0.5843, Validation Accuracy: 0.4500
+Epoch [7/10], Loss: 0.7933, Validation Accuracy: 0.4000
+Epoch [8/10], Loss: 0.6992, Validation Accuracy: 0.4000
+Epoch [9/10], Loss: 0.6642, Validation Accuracy: 0.4000
+Epoch [10/10], Loss: 0.5386, Validation Accuracy: 0.6000
+trying to get ca_gpt-3.5-turbo
+dataset/processed_multitude/test_data/ca_gpt-3.5-turbo.json
+trying to get ca_gpt-4
+dataset/processed_multitude/test_data/ca_gpt-4.json
+{'ca-gpt-3.5-turbo': 0.9752000000000001, 'ca-gpt-4': 0.954}
+layer_num = 16
+trying to get ca_train
+dataset/processed_multitude/train_valid_data/ca_train.json
+trying to get ca_val
+dataset/processed_multitude/train_valid_data/ca_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/10], Loss: 0.5925, Validation Accuracy: 0.6000
+Epoch [2/10], Loss: 0.6379, Validation Accuracy: 0.4000
+Epoch [3/10], Loss: 0.7619, Validation Accuracy: 0.4000
+Epoch [4/10], Loss: 0.7590, Validation Accuracy: 0.4000
+Epoch [5/10], Loss: 0.6420, Validation Accuracy: 0.4000
+Epoch [6/10], Loss: 0.7603, Validation Accuracy: 0.4000
+Epoch [7/10], Loss: 0.5692, Validation Accuracy: 0.4000
+Epoch [8/10], Loss: 0.4589, Validation Accuracy: 0.4000
+Epoch [9/10], Loss: 0.7223, Validation Accuracy: 0.4000
+Epoch [10/10], Loss: 0.5792, Validation Accuracy: 0.8000
+trying to get ca_gpt-3.5-turbo
+dataset/processed_multitude/test_data/ca_gpt-3.5-turbo.json
+trying to get ca_gpt-4
+dataset/processed_multitude/test_data/ca_gpt-4.json
+{'ca-gpt-3.5-turbo': 0.972, 'ca-gpt-4': 0.9531999999999999}
+layer_num = 17
+trying to get ca_train
+dataset/processed_multitude/train_valid_data/ca_train.json
+trying to get ca_val
+dataset/processed_multitude/train_valid_data/ca_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/10], Loss: 0.6862, Validation Accuracy: 0.6000
+Epoch [2/10], Loss: 1.0335, Validation Accuracy: 0.4000
+Epoch [3/10], Loss: 0.7255, Validation Accuracy: 0.4000
+Epoch [4/10], Loss: 0.6670, Validation Accuracy: 0.5000
+Epoch [5/10], Loss: 0.5060, Validation Accuracy: 0.4000
+Epoch [6/10], Loss: 0.6771, Validation Accuracy: 0.4000
+Epoch [7/10], Loss: 0.6280, Validation Accuracy: 0.4000
+Epoch [8/10], Loss: 0.8230, Validation Accuracy: 0.7000
+Epoch [9/10], Loss: 0.5924, Validation Accuracy: 0.4000
+Epoch [10/10], Loss: 0.4852, Validation Accuracy: 0.4000
+trying to get ca_gpt-3.5-turbo
+dataset/processed_multitude/test_data/ca_gpt-3.5-turbo.json
+trying to get ca_gpt-4
+dataset/processed_multitude/test_data/ca_gpt-4.json
+{'ca-gpt-3.5-turbo': 0.9707999999999999, 'ca-gpt-4': 0.948}
+layer_num = 18
+trying to get ca_train
+dataset/processed_multitude/train_valid_data/ca_train.json
+trying to get ca_val
+dataset/processed_multitude/train_valid_data/ca_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/10], Loss: 0.7490, Validation Accuracy: 0.6000
+Epoch [2/10], Loss: 0.7433, Validation Accuracy: 0.4000
+Epoch [3/10], Loss: 0.6974, Validation Accuracy: 0.4000
+Epoch [4/10], Loss: 0.5365, Validation Accuracy: 0.4000
+Epoch [5/10], Loss: 0.6316, Validation Accuracy: 0.6000
+Epoch [6/10], Loss: 0.8977, Validation Accuracy: 0.5000
+Epoch [7/10], Loss: 0.6244, Validation Accuracy: 0.4000
+Epoch [8/10], Loss: 0.5827, Validation Accuracy: 0.4000
+Epoch [9/10], Loss: 0.6705, Validation Accuracy: 0.4000
+Epoch [10/10], Loss: 0.6055, Validation Accuracy: 0.5000
+trying to get ca_gpt-3.5-turbo
+dataset/processed_multitude/test_data/ca_gpt-3.5-turbo.json
+trying to get ca_gpt-4
+dataset/processed_multitude/test_data/ca_gpt-4.json
+{'ca-gpt-3.5-turbo': 0.9816, 'ca-gpt-4': 0.9516}
+layer_num = 19
+trying to get ca_train
+dataset/processed_multitude/train_valid_data/ca_train.json
+trying to get ca_val
+dataset/processed_multitude/train_valid_data/ca_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/10], Loss: 0.5864, Validation Accuracy: 0.6000
+Epoch [2/10], Loss: 0.7555, Validation Accuracy: 0.4000
+Epoch [3/10], Loss: 0.7595, Validation Accuracy: 0.4000
+Epoch [4/10], Loss: 0.7833, Validation Accuracy: 0.4000
+Epoch [5/10], Loss: 0.6949, Validation Accuracy: 0.4000
+Epoch [6/10], Loss: 0.7212, Validation Accuracy: 0.4000
+Epoch [7/10], Loss: 0.5236, Validation Accuracy: 0.4000
+Epoch [8/10], Loss: 0.4857, Validation Accuracy: 0.4000
+Epoch [9/10], Loss: 0.6727, Validation Accuracy: 0.4000
+Epoch [10/10], Loss: 0.7450, Validation Accuracy: 0.4000
+trying to get ca_gpt-3.5-turbo
+dataset/processed_multitude/test_data/ca_gpt-3.5-turbo.json
+trying to get ca_gpt-4
+dataset/processed_multitude/test_data/ca_gpt-4.json
+{'ca-gpt-3.5-turbo': 0.98, 'ca-gpt-4': 0.9476}
+layer_num = 20
+trying to get ca_train
+dataset/processed_multitude/train_valid_data/ca_train.json
+trying to get ca_val
+dataset/processed_multitude/train_valid_data/ca_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/10], Loss: 1.1967, Validation Accuracy: 0.6000
+Epoch [2/10], Loss: 0.7817, Validation Accuracy: 0.4000
+Epoch [3/10], Loss: 0.8900, Validation Accuracy: 0.4000
+Epoch [4/10], Loss: 0.7558, Validation Accuracy: 0.4000
+Epoch [5/10], Loss: 0.4803, Validation Accuracy: 0.4000
+Epoch [6/10], Loss: 0.5862, Validation Accuracy: 0.4000
+Epoch [7/10], Loss: 0.7109, Validation Accuracy: 0.5000
+Epoch [8/10], Loss: 0.5458, Validation Accuracy: 0.4000
+Epoch [9/10], Loss: 0.5339, Validation Accuracy: 0.4000
+Epoch [10/10], Loss: 0.8031, Validation Accuracy: 0.4000
+trying to get ca_gpt-3.5-turbo
+dataset/processed_multitude/test_data/ca_gpt-3.5-turbo.json
+trying to get ca_gpt-4
+dataset/processed_multitude/test_data/ca_gpt-4.json
+{'ca-gpt-3.5-turbo': 0.9907999999999999, 'ca-gpt-4': 0.9647999999999999}
+layer_num = 21
+trying to get ca_train
+dataset/processed_multitude/train_valid_data/ca_train.json
+trying to get ca_val
+dataset/processed_multitude/train_valid_data/ca_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/10], Loss: 0.6193, Validation Accuracy: 0.4500
+Epoch [2/10], Loss: 0.7754, Validation Accuracy: 0.4000
+Epoch [3/10], Loss: 0.6952, Validation Accuracy: 0.4000
+Epoch [4/10], Loss: 0.6282, Validation Accuracy: 0.4000
+Epoch [5/10], Loss: 0.9891, Validation Accuracy: 0.4000
+Epoch [6/10], Loss: 0.5698, Validation Accuracy: 0.4000
+Epoch [7/10], Loss: 0.6585, Validation Accuracy: 0.4000
+Epoch [8/10], Loss: 0.6107, Validation Accuracy: 0.5500
+Epoch [9/10], Loss: 0.6103, Validation Accuracy: 0.7000
+Epoch [10/10], Loss: 0.4945, Validation Accuracy: 0.6000
+trying to get ca_gpt-3.5-turbo
+dataset/processed_multitude/test_data/ca_gpt-3.5-turbo.json
+trying to get ca_gpt-4
+dataset/processed_multitude/test_data/ca_gpt-4.json
+{'ca-gpt-3.5-turbo': 0.9876, 'ca-gpt-4': 0.9572}
+layer_num = 22
+trying to get ca_train
+dataset/processed_multitude/train_valid_data/ca_train.json
+trying to get ca_val
+dataset/processed_multitude/train_valid_data/ca_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/10], Loss: 0.9124, Validation Accuracy: 0.6000
+Epoch [2/10], Loss: 0.8623, Validation Accuracy: 0.8500
+Epoch [3/10], Loss: 0.7229, Validation Accuracy: 0.4000
+Epoch [4/10], Loss: 0.6368, Validation Accuracy: 0.4000
+Epoch [5/10], Loss: 0.6690, Validation Accuracy: 0.4000
+Epoch [6/10], Loss: 0.5784, Validation Accuracy: 0.4000
+Epoch [7/10], Loss: 0.5020, Validation Accuracy: 0.4000
+Epoch [8/10], Loss: 0.6091, Validation Accuracy: 0.4000
+Epoch [9/10], Loss: 0.5053, Validation Accuracy: 0.5500
+Epoch [10/10], Loss: 0.4742, Validation Accuracy: 0.5500
+trying to get ca_gpt-3.5-turbo
+dataset/processed_multitude/test_data/ca_gpt-3.5-turbo.json
+trying to get ca_gpt-4
+dataset/processed_multitude/test_data/ca_gpt-4.json
+{'ca-gpt-3.5-turbo': 0.9736, 'ca-gpt-4': 0.9368}
+layer_num = 23
+trying to get ca_train
+dataset/processed_multitude/train_valid_data/ca_train.json
+trying to get ca_val
+dataset/processed_multitude/train_valid_data/ca_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/10], Loss: 0.6958, Validation Accuracy: 0.6000
+Epoch [2/10], Loss: 0.5950, Validation Accuracy: 0.4000
+Epoch [3/10], Loss: 0.5396, Validation Accuracy: 0.4000
+Epoch [4/10], Loss: 0.7332, Validation Accuracy: 0.4000
+Epoch [5/10], Loss: 0.7210, Validation Accuracy: 0.4000
+Epoch [6/10], Loss: 0.6278, Validation Accuracy: 0.5000
+Epoch [7/10], Loss: 0.5133, Validation Accuracy: 0.5500
+Epoch [8/10], Loss: 0.4417, Validation Accuracy: 0.9000
+Epoch [9/10], Loss: 0.3493, Validation Accuracy: 0.5500
+Epoch [10/10], Loss: 0.3993, Validation Accuracy: 0.6500
+trying to get ca_gpt-3.5-turbo
+dataset/processed_multitude/test_data/ca_gpt-3.5-turbo.json
+trying to get ca_gpt-4
+dataset/processed_multitude/test_data/ca_gpt-4.json
+{'ca-gpt-3.5-turbo': 0.9788, 'ca-gpt-4': 0.9551999999999999}
+layer_num = 24
+trying to get ca_train
+dataset/processed_multitude/train_valid_data/ca_train.json
+trying to get ca_val
+dataset/processed_multitude/train_valid_data/ca_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/10], Loss: 0.9103, Validation Accuracy: 0.4000
+Epoch [2/10], Loss: 0.6195, Validation Accuracy: 0.5000
+Epoch [3/10], Loss: 0.7106, Validation Accuracy: 0.4000
+Epoch [4/10], Loss: 0.3863, Validation Accuracy: 0.4000
+Epoch [5/10], Loss: 0.7906, Validation Accuracy: 0.4000
+Epoch [6/10], Loss: 0.4295, Validation Accuracy: 0.4000
+Epoch [7/10], Loss: 0.3313, Validation Accuracy: 0.5000
+Epoch [8/10], Loss: 0.2291, Validation Accuracy: 0.5500
+Epoch [9/10], Loss: 0.2376, Validation Accuracy: 0.5500
+Epoch [10/10], Loss: 0.2000, Validation Accuracy: 0.7000
+trying to get ca_gpt-3.5-turbo
+dataset/processed_multitude/test_data/ca_gpt-3.5-turbo.json
+trying to get ca_gpt-4
+dataset/processed_multitude/test_data/ca_gpt-4.json
+{'ca-gpt-3.5-turbo': 0.96, 'ca-gpt-4': 0.9364}
+layer_num = 25
+trying to get ca_train
+dataset/processed_multitude/train_valid_data/ca_train.json
+trying to get ca_val
+dataset/processed_multitude/train_valid_data/ca_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/10], Loss: 0.5678, Validation Accuracy: 0.6000
+Epoch [2/10], Loss: 0.6359, Validation Accuracy: 0.8000
+Epoch [3/10], Loss: 0.7085, Validation Accuracy: 0.4000
+Epoch [4/10], Loss: 0.5052, Validation Accuracy: 0.4000
+Epoch [5/10], Loss: 0.4455, Validation Accuracy: 0.4000
+Epoch [6/10], Loss: 0.4840, Validation Accuracy: 0.4000
+Epoch [7/10], Loss: 0.3515, Validation Accuracy: 0.5000
+Epoch [8/10], Loss: 0.2887, Validation Accuracy: 0.5000
+Epoch [9/10], Loss: 0.2571, Validation Accuracy: 0.5500
+Epoch [10/10], Loss: 0.2934, Validation Accuracy: 0.5000
+trying to get ca_gpt-3.5-turbo
+dataset/processed_multitude/test_data/ca_gpt-3.5-turbo.json
+trying to get ca_gpt-4
+dataset/processed_multitude/test_data/ca_gpt-4.json
+{'ca-gpt-3.5-turbo': 0.9564, 'ca-gpt-4': 0.9319999999999999}
+layer_num = 26
+trying to get ca_train
+dataset/processed_multitude/train_valid_data/ca_train.json
+trying to get ca_val
+dataset/processed_multitude/train_valid_data/ca_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/10], Loss: 1.1292, Validation Accuracy: 0.6000
+Epoch [2/10], Loss: 1.0846, Validation Accuracy: 0.5000
+Epoch [3/10], Loss: 1.0044, Validation Accuracy: 0.4000
+Epoch [4/10], Loss: 0.5440, Validation Accuracy: 0.4000
+Epoch [5/10], Loss: 0.3529, Validation Accuracy: 0.5000
+Epoch [6/10], Loss: 0.2536, Validation Accuracy: 0.5000
+Epoch [7/10], Loss: 0.1307, Validation Accuracy: 0.5500
+Epoch [8/10], Loss: 0.1246, Validation Accuracy: 0.6000
+Epoch [9/10], Loss: 0.0938, Validation Accuracy: 0.7000
+Epoch [10/10], Loss: 0.1352, Validation Accuracy: 0.7500
+trying to get ca_gpt-3.5-turbo
+dataset/processed_multitude/test_data/ca_gpt-3.5-turbo.json
+trying to get ca_gpt-4
+dataset/processed_multitude/test_data/ca_gpt-4.json
+{'ca-gpt-3.5-turbo': 0.9531999999999999, 'ca-gpt-4': 0.9252}
+layer_num = 27
+trying to get ca_train
+dataset/processed_multitude/train_valid_data/ca_train.json
+trying to get ca_val
+dataset/processed_multitude/train_valid_data/ca_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/10], Loss: 1.1594, Validation Accuracy: 0.7000
+Epoch [2/10], Loss: 0.6323, Validation Accuracy: 0.4000
+Epoch [3/10], Loss: 0.4538, Validation Accuracy: 0.4000
+Epoch [4/10], Loss: 0.4791, Validation Accuracy: 0.4000
+Epoch [5/10], Loss: 0.3276, Validation Accuracy: 0.5000
+Epoch [6/10], Loss: 0.2658, Validation Accuracy: 0.6000
+Epoch [7/10], Loss: 0.1650, Validation Accuracy: 0.6000
+Epoch [8/10], Loss: 0.0797, Validation Accuracy: 0.7500
+Epoch [9/10], Loss: 0.0502, Validation Accuracy: 0.6000
+Epoch [10/10], Loss: 0.0182, Validation Accuracy: 0.6000
+trying to get ca_gpt-3.5-turbo
+dataset/processed_multitude/test_data/ca_gpt-3.5-turbo.json
+trying to get ca_gpt-4
+dataset/processed_multitude/test_data/ca_gpt-4.json
+{'ca-gpt-3.5-turbo': 0.9339999999999999, 'ca-gpt-4': 0.912}
+layer_num = 28
+trying to get ca_train
+dataset/processed_multitude/train_valid_data/ca_train.json
+trying to get ca_val
+dataset/processed_multitude/train_valid_data/ca_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/10], Loss: 0.6620, Validation Accuracy: 0.8000
+Epoch [2/10], Loss: 0.4221, Validation Accuracy: 0.5000
+Epoch [3/10], Loss: 0.6753, Validation Accuracy: 0.4000
+Epoch [4/10], Loss: 0.3978, Validation Accuracy: 0.4000
+Epoch [5/10], Loss: 0.3963, Validation Accuracy: 0.5500
+Epoch [6/10], Loss: 0.2096, Validation Accuracy: 0.5000
+Epoch [7/10], Loss: 0.2126, Validation Accuracy: 0.5500
+Epoch [8/10], Loss: 0.1128, Validation Accuracy: 0.5500
+Epoch [9/10], Loss: 0.0856, Validation Accuracy: 0.7000
+Epoch [10/10], Loss: 0.1193, Validation Accuracy: 0.9500
+trying to get ca_gpt-3.5-turbo
+dataset/processed_multitude/test_data/ca_gpt-3.5-turbo.json
+trying to get ca_gpt-4
+dataset/processed_multitude/test_data/ca_gpt-4.json
+{'ca-gpt-3.5-turbo': 0.922, 'ca-gpt-4': 0.906}
+layer_num = 29
+trying to get ca_train
+dataset/processed_multitude/train_valid_data/ca_train.json
+trying to get ca_val
+dataset/processed_multitude/train_valid_data/ca_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/10], Loss: 0.5976, Validation Accuracy: 0.4000
+Epoch [2/10], Loss: 0.6594, Validation Accuracy: 0.4000
+Epoch [3/10], Loss: 0.6813, Validation Accuracy: 0.4500
+Epoch [4/10], Loss: 0.3061, Validation Accuracy: 0.5500
+Epoch [5/10], Loss: 0.2337, Validation Accuracy: 0.5000
+Epoch [6/10], Loss: 0.1186, Validation Accuracy: 0.4500
+Epoch [7/10], Loss: 0.1492, Validation Accuracy: 0.5500
+Epoch [8/10], Loss: 0.2023, Validation Accuracy: 0.8000
+Epoch [9/10], Loss: 0.1844, Validation Accuracy: 0.8500
+Epoch [10/10], Loss: 0.0893, Validation Accuracy: 0.9000
+trying to get ca_gpt-3.5-turbo
+dataset/processed_multitude/test_data/ca_gpt-3.5-turbo.json
+trying to get ca_gpt-4
+dataset/processed_multitude/test_data/ca_gpt-4.json
+{'ca-gpt-3.5-turbo': 0.9204, 'ca-gpt-4': 0.8968}
+layer_num = 30
+trying to get ca_train
+dataset/processed_multitude/train_valid_data/ca_train.json
+trying to get ca_val
+dataset/processed_multitude/train_valid_data/ca_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/10], Loss: 0.6848, Validation Accuracy: 0.6000
+Epoch [2/10], Loss: 0.9116, Validation Accuracy: 0.5000
+Epoch [3/10], Loss: 0.2345, Validation Accuracy: 0.6500
+Epoch [4/10], Loss: 0.2095, Validation Accuracy: 0.6500
+Epoch [5/10], Loss: 0.0667, Validation Accuracy: 0.6000
+Epoch [6/10], Loss: 0.0328, Validation Accuracy: 0.6000
+Epoch [7/10], Loss: 0.0362, Validation Accuracy: 0.4500
+Epoch [8/10], Loss: 0.0223, Validation Accuracy: 0.4500
+Epoch [9/10], Loss: 0.1734, Validation Accuracy: 0.8000
+Epoch [10/10], Loss: 0.1784, Validation Accuracy: 0.8000
+trying to get ca_gpt-3.5-turbo
+dataset/processed_multitude/test_data/ca_gpt-3.5-turbo.json
+trying to get ca_gpt-4
+dataset/processed_multitude/test_data/ca_gpt-4.json
+{'ca-gpt-3.5-turbo': 0.9176, 'ca-gpt-4': 0.892}
+layer_num = 31
+trying to get ca_train
+dataset/processed_multitude/train_valid_data/ca_train.json
+trying to get ca_val
+dataset/processed_multitude/train_valid_data/ca_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/10], Loss: 0.5764, Validation Accuracy: 0.6000
+Epoch [2/10], Loss: 0.4779, Validation Accuracy: 0.8000
+Epoch [3/10], Loss: 0.3501, Validation Accuracy: 0.5500
+Epoch [4/10], Loss: 0.1424, Validation Accuracy: 0.5000
+Epoch [5/10], Loss: 0.1767, Validation Accuracy: 0.4500
+Epoch [6/10], Loss: 0.1008, Validation Accuracy: 0.4500
+Epoch [7/10], Loss: 0.0438, Validation Accuracy: 0.7500
+Epoch [8/10], Loss: 0.3383, Validation Accuracy: 0.9000
+Epoch [9/10], Loss: 0.1056, Validation Accuracy: 0.8500
+Epoch [10/10], Loss: 0.0593, Validation Accuracy: 0.8500
+trying to get ca_gpt-3.5-turbo
+dataset/processed_multitude/test_data/ca_gpt-3.5-turbo.json
+trying to get ca_gpt-4
+dataset/processed_multitude/test_data/ca_gpt-4.json
+{'ca-gpt-3.5-turbo': 0.91, 'ca-gpt-4': 0.8899999999999999}
+layer_num = 32
+trying to get ca_train
+dataset/processed_multitude/train_valid_data/ca_train.json
+trying to get ca_val
+dataset/processed_multitude/train_valid_data/ca_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/10], Loss: 0.4248, Validation Accuracy: 0.4500
+Epoch [2/10], Loss: 0.2183, Validation Accuracy: 0.5500
+Epoch [3/10], Loss: 0.1869, Validation Accuracy: 0.6500
+Epoch [4/10], Loss: 0.1683, Validation Accuracy: 0.6000
+Epoch [5/10], Loss: 0.1598, Validation Accuracy: 0.5000
+Epoch [6/10], Loss: 0.0360, Validation Accuracy: 0.5000
+Epoch [7/10], Loss: 0.2082, Validation Accuracy: 0.8000
+Epoch [8/10], Loss: 0.1692, Validation Accuracy: 0.7500
+Epoch [9/10], Loss: 0.0550, Validation Accuracy: 0.8500
+Epoch [10/10], Loss: 0.0223, Validation Accuracy: 0.8500
+trying to get ca_gpt-3.5-turbo
+dataset/processed_multitude/test_data/ca_gpt-3.5-turbo.json
+trying to get ca_gpt-4
+dataset/processed_multitude/test_data/ca_gpt-4.json
+{'ca-gpt-3.5-turbo': 0.9051999999999999, 'ca-gpt-4': 0.858}
+
+
+max_kl: 
+{'ca-gpt-3.5-turbo': 0.8924000000000001, 'ca-gpt-4': 0.8656}
+
+
+
+layer_selection:
+train data
+[30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 29
+ 30 30 29 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30 30 30 29 30 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 29]
+eval data
+[30 30 30 30 29 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30  9 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30]
+gpt 3.5
+[30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30  8 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30  8 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30]
+gpt 4
+[30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30
+ 30 30 30  8 30 30 30 30 30 30 30 30  8 30 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30  8 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30]

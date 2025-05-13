@@ -1,0 +1,1093 @@
+
+
+layer_num = 0
+trying to get de_train
+dataset/processed_multitude/train_valid_data/de_train.json
+trying to get de_val
+dataset/processed_multitude/train_valid_data/de_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.6952, Validation Accuracy: 0.6000
+Epoch [2/20], Loss: 0.6925, Validation Accuracy: 0.6000
+Epoch [3/20], Loss: 0.6957, Validation Accuracy: 0.6000
+Epoch [4/20], Loss: 0.6955, Validation Accuracy: 0.4000
+Epoch [5/20], Loss: 0.6909, Validation Accuracy: 0.4000
+Epoch [6/20], Loss: 0.6908, Validation Accuracy: 0.4000
+Epoch [7/20], Loss: 0.6950, Validation Accuracy: 0.4000
+Epoch [8/20], Loss: 0.6937, Validation Accuracy: 0.4000
+Epoch [9/20], Loss: 0.6968, Validation Accuracy: 0.4000
+Epoch [10/20], Loss: 0.6952, Validation Accuracy: 0.4000
+Epoch [11/20], Loss: 0.6961, Validation Accuracy: 0.4000
+Epoch [12/20], Loss: 0.6898, Validation Accuracy: 0.4000
+Epoch [13/20], Loss: 0.6909, Validation Accuracy: 0.4000
+Epoch [14/20], Loss: 0.6986, Validation Accuracy: 0.4000
+Epoch [15/20], Loss: 0.6920, Validation Accuracy: 0.4000
+Epoch [16/20], Loss: 0.6932, Validation Accuracy: 0.4000
+Epoch [17/20], Loss: 0.6879, Validation Accuracy: 0.4000
+Epoch [18/20], Loss: 0.6852, Validation Accuracy: 0.4000
+Epoch [19/20], Loss: 0.6893, Validation Accuracy: 0.4000
+Epoch [20/20], Loss: 0.7012, Validation Accuracy: 0.4000
+trying to get de_gpt-3.5-turbo
+dataset/processed_multitude/test_data/de_gpt-3.5-turbo.json
+trying to get de_gpt-4
+dataset/processed_multitude/test_data/de_gpt-4.json
+{'de-gpt-3.5-turbo': 0.5, 'de-gpt-4': 0.5}
+layer_num = 1
+trying to get de_train
+dataset/processed_multitude/train_valid_data/de_train.json
+trying to get de_val
+dataset/processed_multitude/train_valid_data/de_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.7097, Validation Accuracy: 0.6000
+Epoch [2/20], Loss: 0.6720, Validation Accuracy: 0.5500
+Epoch [3/20], Loss: 0.6537, Validation Accuracy: 0.6500
+Epoch [4/20], Loss: 0.6433, Validation Accuracy: 0.5500
+Epoch [5/20], Loss: 0.5922, Validation Accuracy: 0.6000
+Epoch [6/20], Loss: 0.5969, Validation Accuracy: 0.5500
+Epoch [7/20], Loss: 0.5746, Validation Accuracy: 0.5500
+Epoch [8/20], Loss: 0.5565, Validation Accuracy: 0.5500
+Epoch [9/20], Loss: 0.5299, Validation Accuracy: 0.6000
+Epoch [10/20], Loss: 0.5058, Validation Accuracy: 0.5500
+Epoch [11/20], Loss: 0.4761, Validation Accuracy: 0.6500
+Epoch [12/20], Loss: 0.4877, Validation Accuracy: 0.5500
+Epoch [13/20], Loss: 0.4304, Validation Accuracy: 0.6000
+Epoch [14/20], Loss: 0.4304, Validation Accuracy: 0.6500
+Epoch [15/20], Loss: 0.4230, Validation Accuracy: 0.5500
+Epoch [16/20], Loss: 0.4228, Validation Accuracy: 0.5500
+Epoch [17/20], Loss: 0.3445, Validation Accuracy: 0.6500
+Epoch [18/20], Loss: 0.3575, Validation Accuracy: 0.5500
+Epoch [19/20], Loss: 0.3638, Validation Accuracy: 0.6500
+Epoch [20/20], Loss: 0.3696, Validation Accuracy: 0.6500
+trying to get de_gpt-3.5-turbo
+dataset/processed_multitude/test_data/de_gpt-3.5-turbo.json
+trying to get de_gpt-4
+dataset/processed_multitude/test_data/de_gpt-4.json
+{'de-gpt-3.5-turbo': 0.6865079365079365, 'de-gpt-4': 0.7358276643990929}
+layer_num = 2
+trying to get de_train
+dataset/processed_multitude/train_valid_data/de_train.json
+trying to get de_val
+dataset/processed_multitude/train_valid_data/de_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.7066, Validation Accuracy: 0.6000
+Epoch [2/20], Loss: 0.6567, Validation Accuracy: 0.4500
+Epoch [3/20], Loss: 0.6139, Validation Accuracy: 0.6000
+Epoch [4/20], Loss: 0.6043, Validation Accuracy: 0.6000
+Epoch [5/20], Loss: 0.5632, Validation Accuracy: 0.6500
+Epoch [6/20], Loss: 0.5285, Validation Accuracy: 0.6500
+Epoch [7/20], Loss: 0.4637, Validation Accuracy: 0.6500
+Epoch [8/20], Loss: 0.4815, Validation Accuracy: 0.7500
+Epoch [9/20], Loss: 0.4079, Validation Accuracy: 0.8000
+Epoch [10/20], Loss: 0.4806, Validation Accuracy: 0.7500
+Epoch [11/20], Loss: 0.4533, Validation Accuracy: 0.7500
+Epoch [12/20], Loss: 0.4270, Validation Accuracy: 0.8000
+Epoch [13/20], Loss: 0.3664, Validation Accuracy: 0.8000
+Epoch [14/20], Loss: 0.3072, Validation Accuracy: 0.7500
+Epoch [15/20], Loss: 0.3921, Validation Accuracy: 0.7500
+Epoch [16/20], Loss: 0.2829, Validation Accuracy: 0.7000
+Epoch [17/20], Loss: 0.2848, Validation Accuracy: 0.7000
+Epoch [18/20], Loss: 0.3446, Validation Accuracy: 0.7000
+Epoch [19/20], Loss: 0.2116, Validation Accuracy: 0.8500
+Epoch [20/20], Loss: 0.2991, Validation Accuracy: 0.7500
+trying to get de_gpt-3.5-turbo
+dataset/processed_multitude/test_data/de_gpt-3.5-turbo.json
+trying to get de_gpt-4
+dataset/processed_multitude/test_data/de_gpt-4.json
+{'de-gpt-3.5-turbo': 0.7607709750566893, 'de-gpt-4': 0.8458049886621315}
+layer_num = 3
+trying to get de_train
+dataset/processed_multitude/train_valid_data/de_train.json
+trying to get de_val
+dataset/processed_multitude/train_valid_data/de_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.6874, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.6274, Validation Accuracy: 0.6500
+Epoch [3/20], Loss: 0.6289, Validation Accuracy: 0.6500
+Epoch [4/20], Loss: 0.5710, Validation Accuracy: 0.6500
+Epoch [5/20], Loss: 0.6143, Validation Accuracy: 0.6500
+Epoch [6/20], Loss: 0.5154, Validation Accuracy: 0.7000
+Epoch [7/20], Loss: 0.5536, Validation Accuracy: 0.7000
+Epoch [8/20], Loss: 0.4777, Validation Accuracy: 0.7500
+Epoch [9/20], Loss: 0.4376, Validation Accuracy: 0.8000
+Epoch [10/20], Loss: 0.4899, Validation Accuracy: 0.8000
+Epoch [11/20], Loss: 0.3703, Validation Accuracy: 0.8500
+Epoch [12/20], Loss: 0.3798, Validation Accuracy: 0.8500
+Epoch [13/20], Loss: 0.3903, Validation Accuracy: 0.8000
+Epoch [14/20], Loss: 0.3364, Validation Accuracy: 0.8000
+Epoch [15/20], Loss: 0.3327, Validation Accuracy: 0.8000
+Epoch [16/20], Loss: 0.2971, Validation Accuracy: 0.8000
+Epoch [17/20], Loss: 0.3363, Validation Accuracy: 0.8000
+Epoch [18/20], Loss: 0.3584, Validation Accuracy: 0.8000
+Epoch [19/20], Loss: 0.3067, Validation Accuracy: 0.7500
+Epoch [20/20], Loss: 0.2842, Validation Accuracy: 0.7500
+trying to get de_gpt-3.5-turbo
+dataset/processed_multitude/test_data/de_gpt-3.5-turbo.json
+trying to get de_gpt-4
+dataset/processed_multitude/test_data/de_gpt-4.json
+{'de-gpt-3.5-turbo': 0.7777777777777778, 'de-gpt-4': 0.8344671201814059}
+layer_num = 4
+trying to get de_train
+dataset/processed_multitude/train_valid_data/de_train.json
+trying to get de_val
+dataset/processed_multitude/train_valid_data/de_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.6837, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.6478, Validation Accuracy: 0.7000
+Epoch [3/20], Loss: 0.6354, Validation Accuracy: 0.6500
+Epoch [4/20], Loss: 0.5854, Validation Accuracy: 0.7000
+Epoch [5/20], Loss: 0.5935, Validation Accuracy: 0.6500
+Epoch [6/20], Loss: 0.5289, Validation Accuracy: 0.7000
+Epoch [7/20], Loss: 0.4671, Validation Accuracy: 0.7000
+Epoch [8/20], Loss: 0.4968, Validation Accuracy: 0.8000
+Epoch [9/20], Loss: 0.4446, Validation Accuracy: 0.8000
+Epoch [10/20], Loss: 0.4163, Validation Accuracy: 0.8500
+Epoch [11/20], Loss: 0.4049, Validation Accuracy: 0.8500
+Epoch [12/20], Loss: 0.3993, Validation Accuracy: 0.8000
+Epoch [13/20], Loss: 0.4266, Validation Accuracy: 0.8500
+Epoch [14/20], Loss: 0.5004, Validation Accuracy: 0.8500
+Epoch [15/20], Loss: 0.3152, Validation Accuracy: 0.8000
+Epoch [16/20], Loss: 0.2802, Validation Accuracy: 0.8000
+Epoch [17/20], Loss: 0.2018, Validation Accuracy: 0.7500
+Epoch [18/20], Loss: 0.3400, Validation Accuracy: 0.8000
+Epoch [19/20], Loss: 0.2845, Validation Accuracy: 0.8000
+Epoch [20/20], Loss: 0.2542, Validation Accuracy: 0.7500
+trying to get de_gpt-3.5-turbo
+dataset/processed_multitude/test_data/de_gpt-3.5-turbo.json
+trying to get de_gpt-4
+dataset/processed_multitude/test_data/de_gpt-4.json
+{'de-gpt-3.5-turbo': 0.8055555555555556, 'de-gpt-4': 0.8565759637188208}
+layer_num = 5
+trying to get de_train
+dataset/processed_multitude/train_valid_data/de_train.json
+trying to get de_val
+dataset/processed_multitude/train_valid_data/de_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.7065, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.5934, Validation Accuracy: 0.7000
+Epoch [3/20], Loss: 0.6367, Validation Accuracy: 0.7000
+Epoch [4/20], Loss: 0.5297, Validation Accuracy: 0.7000
+Epoch [5/20], Loss: 0.4709, Validation Accuracy: 0.7500
+Epoch [6/20], Loss: 0.5554, Validation Accuracy: 0.7500
+Epoch [7/20], Loss: 0.4790, Validation Accuracy: 0.8000
+Epoch [8/20], Loss: 0.4685, Validation Accuracy: 0.8000
+Epoch [9/20], Loss: 0.4855, Validation Accuracy: 0.8000
+Epoch [10/20], Loss: 0.4221, Validation Accuracy: 0.8500
+Epoch [11/20], Loss: 0.3551, Validation Accuracy: 0.8500
+Epoch [12/20], Loss: 0.3363, Validation Accuracy: 0.8500
+Epoch [13/20], Loss: 0.4096, Validation Accuracy: 0.8000
+Epoch [14/20], Loss: 0.3494, Validation Accuracy: 0.7500
+Epoch [15/20], Loss: 0.2798, Validation Accuracy: 0.8000
+Epoch [16/20], Loss: 0.2751, Validation Accuracy: 0.7500
+Epoch [17/20], Loss: 0.2999, Validation Accuracy: 0.7500
+Epoch [18/20], Loss: 0.1781, Validation Accuracy: 0.8000
+Epoch [19/20], Loss: 0.2062, Validation Accuracy: 0.8000
+Epoch [20/20], Loss: 0.1612, Validation Accuracy: 0.8000
+trying to get de_gpt-3.5-turbo
+dataset/processed_multitude/test_data/de_gpt-3.5-turbo.json
+trying to get de_gpt-4
+dataset/processed_multitude/test_data/de_gpt-4.json
+{'de-gpt-3.5-turbo': 0.8441043083900226, 'de-gpt-4': 0.903061224489796}
+layer_num = 6
+trying to get de_train
+dataset/processed_multitude/train_valid_data/de_train.json
+trying to get de_val
+dataset/processed_multitude/train_valid_data/de_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.7031, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.6459, Validation Accuracy: 0.7000
+Epoch [3/20], Loss: 0.5840, Validation Accuracy: 0.7000
+Epoch [4/20], Loss: 0.5150, Validation Accuracy: 0.7000
+Epoch [5/20], Loss: 0.5716, Validation Accuracy: 0.7500
+Epoch [6/20], Loss: 0.5123, Validation Accuracy: 0.8000
+Epoch [7/20], Loss: 0.4818, Validation Accuracy: 0.8000
+Epoch [8/20], Loss: 0.4153, Validation Accuracy: 0.8000
+Epoch [9/20], Loss: 0.4048, Validation Accuracy: 0.8000
+Epoch [10/20], Loss: 0.4340, Validation Accuracy: 0.8000
+Epoch [11/20], Loss: 0.4299, Validation Accuracy: 0.8000
+Epoch [12/20], Loss: 0.3390, Validation Accuracy: 0.7500
+Epoch [13/20], Loss: 0.3106, Validation Accuracy: 0.8000
+Epoch [14/20], Loss: 0.3022, Validation Accuracy: 0.7500
+Epoch [15/20], Loss: 0.2916, Validation Accuracy: 0.7500
+Epoch [16/20], Loss: 0.2868, Validation Accuracy: 0.8000
+Epoch [17/20], Loss: 0.2218, Validation Accuracy: 0.8500
+Epoch [18/20], Loss: 0.2341, Validation Accuracy: 0.8500
+Epoch [19/20], Loss: 0.2408, Validation Accuracy: 0.8000
+Epoch [20/20], Loss: 0.1551, Validation Accuracy: 0.8000
+trying to get de_gpt-3.5-turbo
+dataset/processed_multitude/test_data/de_gpt-3.5-turbo.json
+trying to get de_gpt-4
+dataset/processed_multitude/test_data/de_gpt-4.json
+{'de-gpt-3.5-turbo': 0.8956916099773242, 'de-gpt-4': 0.9280045351473922}
+layer_num = 7
+trying to get de_train
+dataset/processed_multitude/train_valid_data/de_train.json
+trying to get de_val
+dataset/processed_multitude/train_valid_data/de_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.6777, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.6240, Validation Accuracy: 0.7000
+Epoch [3/20], Loss: 0.6173, Validation Accuracy: 0.7500
+Epoch [4/20], Loss: 0.5557, Validation Accuracy: 0.7500
+Epoch [5/20], Loss: 0.4884, Validation Accuracy: 0.8500
+Epoch [6/20], Loss: 0.4712, Validation Accuracy: 0.7500
+Epoch [7/20], Loss: 0.3503, Validation Accuracy: 0.8000
+Epoch [8/20], Loss: 0.3746, Validation Accuracy: 0.8500
+Epoch [9/20], Loss: 0.3590, Validation Accuracy: 0.8000
+Epoch [10/20], Loss: 0.2324, Validation Accuracy: 0.8500
+Epoch [11/20], Loss: 0.2391, Validation Accuracy: 0.8000
+Epoch [12/20], Loss: 0.1801, Validation Accuracy: 0.8500
+Epoch [13/20], Loss: 0.1526, Validation Accuracy: 0.9000
+Epoch [14/20], Loss: 0.2004, Validation Accuracy: 0.9000
+Epoch [15/20], Loss: 0.1410, Validation Accuracy: 0.9000
+Epoch [16/20], Loss: 0.1530, Validation Accuracy: 0.8500
+Epoch [17/20], Loss: 0.2095, Validation Accuracy: 0.8500
+Epoch [18/20], Loss: 0.1940, Validation Accuracy: 0.9000
+Epoch [19/20], Loss: 0.0817, Validation Accuracy: 0.9000
+Epoch [20/20], Loss: 0.0615, Validation Accuracy: 0.8500
+trying to get de_gpt-3.5-turbo
+dataset/processed_multitude/test_data/de_gpt-3.5-turbo.json
+trying to get de_gpt-4
+dataset/processed_multitude/test_data/de_gpt-4.json
+{'de-gpt-3.5-turbo': 0.9002267573696145, 'de-gpt-4': 0.937641723356009}
+layer_num = 8
+trying to get de_train
+dataset/processed_multitude/train_valid_data/de_train.json
+trying to get de_val
+dataset/processed_multitude/train_valid_data/de_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.7747, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.6364, Validation Accuracy: 0.6500
+Epoch [3/20], Loss: 0.5987, Validation Accuracy: 0.6500
+Epoch [4/20], Loss: 0.5553, Validation Accuracy: 0.8000
+Epoch [5/20], Loss: 0.5513, Validation Accuracy: 0.8500
+Epoch [6/20], Loss: 0.4689, Validation Accuracy: 0.8000
+Epoch [7/20], Loss: 0.4167, Validation Accuracy: 0.8500
+Epoch [8/20], Loss: 0.4333, Validation Accuracy: 0.8000
+Epoch [9/20], Loss: 0.3965, Validation Accuracy: 0.8500
+Epoch [10/20], Loss: 0.3571, Validation Accuracy: 0.8000
+Epoch [11/20], Loss: 0.3125, Validation Accuracy: 0.8500
+Epoch [12/20], Loss: 0.2792, Validation Accuracy: 0.9000
+Epoch [13/20], Loss: 0.3052, Validation Accuracy: 0.9000
+Epoch [14/20], Loss: 0.3518, Validation Accuracy: 0.9000
+Epoch [15/20], Loss: 0.2365, Validation Accuracy: 0.8000
+Epoch [16/20], Loss: 0.2073, Validation Accuracy: 0.8500
+Epoch [17/20], Loss: 0.1816, Validation Accuracy: 0.8500
+Epoch [18/20], Loss: 0.2022, Validation Accuracy: 0.9000
+Epoch [19/20], Loss: 0.1737, Validation Accuracy: 0.9000
+Epoch [20/20], Loss: 0.1596, Validation Accuracy: 0.9000
+trying to get de_gpt-3.5-turbo
+dataset/processed_multitude/test_data/de_gpt-3.5-turbo.json
+trying to get de_gpt-4
+dataset/processed_multitude/test_data/de_gpt-4.json
+{'de-gpt-3.5-turbo': 0.9155328798185942, 'de-gpt-4': 0.9427437641723356}
+layer_num = 9
+trying to get de_train
+dataset/processed_multitude/train_valid_data/de_train.json
+trying to get de_val
+dataset/processed_multitude/train_valid_data/de_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.6372, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.8402, Validation Accuracy: 0.6000
+Epoch [3/20], Loss: 0.5980, Validation Accuracy: 0.5500
+Epoch [4/20], Loss: 0.6581, Validation Accuracy: 0.5500
+Epoch [5/20], Loss: 0.6779, Validation Accuracy: 0.4000
+Epoch [6/20], Loss: 0.6009, Validation Accuracy: 0.4000
+Epoch [7/20], Loss: 0.6777, Validation Accuracy: 0.6500
+Epoch [8/20], Loss: 0.6613, Validation Accuracy: 0.4000
+Epoch [9/20], Loss: 0.5294, Validation Accuracy: 0.6500
+Epoch [10/20], Loss: 0.6549, Validation Accuracy: 0.7000
+Epoch [11/20], Loss: 0.6687, Validation Accuracy: 0.7000
+Epoch [12/20], Loss: 0.6867, Validation Accuracy: 0.4000
+Epoch [13/20], Loss: 0.4275, Validation Accuracy: 0.6500
+Epoch [14/20], Loss: 0.5988, Validation Accuracy: 0.7000
+Epoch [15/20], Loss: 0.6452, Validation Accuracy: 0.7000
+Epoch [16/20], Loss: 0.6963, Validation Accuracy: 0.7500
+Epoch [17/20], Loss: 0.5730, Validation Accuracy: 0.7000
+Epoch [18/20], Loss: 0.5238, Validation Accuracy: 0.7000
+Epoch [19/20], Loss: 0.5000, Validation Accuracy: 0.7500
+Epoch [20/20], Loss: 0.5370, Validation Accuracy: 0.7000
+trying to get de_gpt-3.5-turbo
+dataset/processed_multitude/test_data/de_gpt-3.5-turbo.json
+trying to get de_gpt-4
+dataset/processed_multitude/test_data/de_gpt-4.json
+{'de-gpt-3.5-turbo': 0.7284580498866213, 'de-gpt-4': 0.7142857142857143}
+layer_num = 10
+trying to get de_train
+dataset/processed_multitude/train_valid_data/de_train.json
+trying to get de_val
+dataset/processed_multitude/train_valid_data/de_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.6738, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.8482, Validation Accuracy: 0.6000
+Epoch [3/20], Loss: 0.6954, Validation Accuracy: 0.6000
+Epoch [4/20], Loss: 0.7512, Validation Accuracy: 0.4000
+Epoch [5/20], Loss: 0.5865, Validation Accuracy: 0.6500
+Epoch [6/20], Loss: 0.6871, Validation Accuracy: 0.6500
+Epoch [7/20], Loss: 0.6186, Validation Accuracy: 0.5500
+Epoch [8/20], Loss: 0.5613, Validation Accuracy: 0.8000
+Epoch [9/20], Loss: 0.5748, Validation Accuracy: 0.7500
+Epoch [10/20], Loss: 0.5251, Validation Accuracy: 0.6500
+Epoch [11/20], Loss: 0.5808, Validation Accuracy: 0.5500
+Epoch [12/20], Loss: 0.4791, Validation Accuracy: 0.6500
+Epoch [13/20], Loss: 0.6194, Validation Accuracy: 0.5500
+Epoch [14/20], Loss: 0.5480, Validation Accuracy: 0.6500
+Epoch [15/20], Loss: 0.7774, Validation Accuracy: 0.5500
+Epoch [16/20], Loss: 0.4863, Validation Accuracy: 0.7500
+Epoch [17/20], Loss: 0.5916, Validation Accuracy: 0.7500
+Epoch [18/20], Loss: 0.2954, Validation Accuracy: 0.7500
+Epoch [19/20], Loss: 0.5021, Validation Accuracy: 0.8000
+Epoch [20/20], Loss: 0.5024, Validation Accuracy: 0.8000
+trying to get de_gpt-3.5-turbo
+dataset/processed_multitude/test_data/de_gpt-3.5-turbo.json
+trying to get de_gpt-4
+dataset/processed_multitude/test_data/de_gpt-4.json
+{'de-gpt-3.5-turbo': 0.8316326530612245, 'de-gpt-4': 0.778344671201814}
+layer_num = 11
+trying to get de_train
+dataset/processed_multitude/train_valid_data/de_train.json
+trying to get de_val
+dataset/processed_multitude/train_valid_data/de_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.8842, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.6454, Validation Accuracy: 0.6000
+Epoch [3/20], Loss: 0.5619, Validation Accuracy: 0.4000
+Epoch [4/20], Loss: 0.7183, Validation Accuracy: 0.6000
+Epoch [5/20], Loss: 0.8658, Validation Accuracy: 0.7500
+Epoch [6/20], Loss: 0.7056, Validation Accuracy: 0.7500
+Epoch [7/20], Loss: 0.6227, Validation Accuracy: 0.4000
+Epoch [8/20], Loss: 0.5051, Validation Accuracy: 0.8000
+Epoch [9/20], Loss: 0.7282, Validation Accuracy: 0.7000
+Epoch [10/20], Loss: 0.5986, Validation Accuracy: 0.7000
+Epoch [11/20], Loss: 0.8472, Validation Accuracy: 0.8000
+Epoch [12/20], Loss: 0.4918, Validation Accuracy: 0.7500
+Epoch [13/20], Loss: 0.4731, Validation Accuracy: 0.7500
+Epoch [14/20], Loss: 0.5017, Validation Accuracy: 0.8000
+Epoch [15/20], Loss: 0.5223, Validation Accuracy: 0.8000
+Epoch [16/20], Loss: 0.6043, Validation Accuracy: 0.7500
+Epoch [17/20], Loss: 0.5793, Validation Accuracy: 0.7500
+Epoch [18/20], Loss: 0.4524, Validation Accuracy: 0.7500
+Epoch [19/20], Loss: 0.3761, Validation Accuracy: 0.7500
+Epoch [20/20], Loss: 0.3638, Validation Accuracy: 0.7500
+trying to get de_gpt-3.5-turbo
+dataset/processed_multitude/test_data/de_gpt-3.5-turbo.json
+trying to get de_gpt-4
+dataset/processed_multitude/test_data/de_gpt-4.json
+{'de-gpt-3.5-turbo': 0.86281179138322, 'de-gpt-4': 0.8333333333333333}
+layer_num = 12
+trying to get de_train
+dataset/processed_multitude/train_valid_data/de_train.json
+trying to get de_val
+dataset/processed_multitude/train_valid_data/de_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.6688, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.8055, Validation Accuracy: 0.4000
+Epoch [3/20], Loss: 0.6399, Validation Accuracy: 0.4000
+Epoch [4/20], Loss: 0.5950, Validation Accuracy: 0.4000
+Epoch [5/20], Loss: 0.5315, Validation Accuracy: 0.7000
+Epoch [6/20], Loss: 0.5088, Validation Accuracy: 0.4000
+Epoch [7/20], Loss: 0.6142, Validation Accuracy: 0.5500
+Epoch [8/20], Loss: 0.5690, Validation Accuracy: 0.5000
+Epoch [9/20], Loss: 0.7411, Validation Accuracy: 0.6500
+Epoch [10/20], Loss: 0.5655, Validation Accuracy: 0.8000
+Epoch [11/20], Loss: 0.4369, Validation Accuracy: 0.7000
+Epoch [12/20], Loss: 0.5389, Validation Accuracy: 0.8000
+Epoch [13/20], Loss: 0.5527, Validation Accuracy: 0.7500
+Epoch [14/20], Loss: 0.4845, Validation Accuracy: 0.8000
+Epoch [15/20], Loss: 0.5004, Validation Accuracy: 0.7000
+Epoch [16/20], Loss: 0.5333, Validation Accuracy: 0.8000
+Epoch [17/20], Loss: 0.3988, Validation Accuracy: 0.7000
+Epoch [18/20], Loss: 0.3720, Validation Accuracy: 0.8000
+Epoch [19/20], Loss: 0.3859, Validation Accuracy: 0.8000
+Epoch [20/20], Loss: 0.2174, Validation Accuracy: 0.7500
+trying to get de_gpt-3.5-turbo
+dataset/processed_multitude/test_data/de_gpt-3.5-turbo.json
+trying to get de_gpt-4
+dataset/processed_multitude/test_data/de_gpt-4.json
+{'de-gpt-3.5-turbo': 0.8849206349206349, 'de-gpt-4': 0.8554421768707483}
+layer_num = 13
+trying to get de_train
+dataset/processed_multitude/train_valid_data/de_train.json
+trying to get de_val
+dataset/processed_multitude/train_valid_data/de_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.9592, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.6621, Validation Accuracy: 0.6000
+Epoch [3/20], Loss: 1.0409, Validation Accuracy: 0.4000
+Epoch [4/20], Loss: 0.5681, Validation Accuracy: 0.7000
+Epoch [5/20], Loss: 0.7314, Validation Accuracy: 0.4000
+Epoch [6/20], Loss: 0.6051, Validation Accuracy: 0.7000
+Epoch [7/20], Loss: 0.5300, Validation Accuracy: 0.7000
+Epoch [8/20], Loss: 0.5313, Validation Accuracy: 0.7500
+Epoch [9/20], Loss: 0.6377, Validation Accuracy: 0.7000
+Epoch [10/20], Loss: 0.5235, Validation Accuracy: 0.8000
+Epoch [11/20], Loss: 0.4921, Validation Accuracy: 0.7500
+Epoch [12/20], Loss: 0.4805, Validation Accuracy: 0.8000
+Epoch [13/20], Loss: 0.6079, Validation Accuracy: 0.8000
+Epoch [14/20], Loss: 0.3969, Validation Accuracy: 0.7000
+Epoch [15/20], Loss: 0.4196, Validation Accuracy: 0.7500
+Epoch [16/20], Loss: 0.5021, Validation Accuracy: 0.8000
+Epoch [17/20], Loss: 0.4337, Validation Accuracy: 0.7500
+Epoch [18/20], Loss: 0.4444, Validation Accuracy: 0.7500
+Epoch [19/20], Loss: 0.5251, Validation Accuracy: 0.8000
+Epoch [20/20], Loss: 0.3408, Validation Accuracy: 0.7500
+trying to get de_gpt-3.5-turbo
+dataset/processed_multitude/test_data/de_gpt-3.5-turbo.json
+trying to get de_gpt-4
+dataset/processed_multitude/test_data/de_gpt-4.json
+{'de-gpt-3.5-turbo': 0.8645124716553287, 'de-gpt-4': 0.8401360544217686}
+layer_num = 14
+trying to get de_train
+dataset/processed_multitude/train_valid_data/de_train.json
+trying to get de_val
+dataset/processed_multitude/train_valid_data/de_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.7098, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.6472, Validation Accuracy: 0.4000
+Epoch [3/20], Loss: 0.7843, Validation Accuracy: 0.7000
+Epoch [4/20], Loss: 0.6532, Validation Accuracy: 0.4000
+Epoch [5/20], Loss: 0.6015, Validation Accuracy: 0.8000
+Epoch [6/20], Loss: 0.6732, Validation Accuracy: 0.6000
+Epoch [7/20], Loss: 0.7174, Validation Accuracy: 0.7500
+Epoch [8/20], Loss: 0.6919, Validation Accuracy: 0.8000
+Epoch [9/20], Loss: 0.6293, Validation Accuracy: 0.8000
+Epoch [10/20], Loss: 0.5359, Validation Accuracy: 0.7000
+Epoch [11/20], Loss: 0.4823, Validation Accuracy: 0.8000
+Epoch [12/20], Loss: 0.3990, Validation Accuracy: 0.8000
+Epoch [13/20], Loss: 0.6837, Validation Accuracy: 0.8000
+Epoch [14/20], Loss: 0.4612, Validation Accuracy: 0.7500
+Epoch [15/20], Loss: 0.5168, Validation Accuracy: 0.8000
+Epoch [16/20], Loss: 0.4272, Validation Accuracy: 0.8000
+Epoch [17/20], Loss: 0.4707, Validation Accuracy: 0.7500
+Epoch [18/20], Loss: 0.2810, Validation Accuracy: 0.7500
+Epoch [19/20], Loss: 0.2404, Validation Accuracy: 0.8000
+Epoch [20/20], Loss: 0.2766, Validation Accuracy: 0.8000
+trying to get de_gpt-3.5-turbo
+dataset/processed_multitude/test_data/de_gpt-3.5-turbo.json
+trying to get de_gpt-4
+dataset/processed_multitude/test_data/de_gpt-4.json
+{'de-gpt-3.5-turbo': 0.8656462585034013, 'de-gpt-4': 0.8373015873015873}
+layer_num = 15
+trying to get de_train
+dataset/processed_multitude/train_valid_data/de_train.json
+trying to get de_val
+dataset/processed_multitude/train_valid_data/de_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.6651, Validation Accuracy: 0.6000
+Epoch [2/20], Loss: 0.6686, Validation Accuracy: 0.4000
+Epoch [3/20], Loss: 0.6417, Validation Accuracy: 0.6000
+Epoch [4/20], Loss: 0.6189, Validation Accuracy: 0.7000
+Epoch [5/20], Loss: 0.7491, Validation Accuracy: 0.6000
+Epoch [6/20], Loss: 0.5894, Validation Accuracy: 0.4000
+Epoch [7/20], Loss: 0.5140, Validation Accuracy: 0.6000
+Epoch [8/20], Loss: 0.6849, Validation Accuracy: 0.4000
+Epoch [9/20], Loss: 0.7292, Validation Accuracy: 0.7000
+Epoch [10/20], Loss: 0.6829, Validation Accuracy: 0.4000
+Epoch [11/20], Loss: 0.5490, Validation Accuracy: 0.7000
+Epoch [12/20], Loss: 0.5799, Validation Accuracy: 0.7000
+Epoch [13/20], Loss: 0.4336, Validation Accuracy: 0.7000
+Epoch [14/20], Loss: 0.4824, Validation Accuracy: 0.8000
+Epoch [15/20], Loss: 0.5716, Validation Accuracy: 0.7000
+Epoch [16/20], Loss: 0.4190, Validation Accuracy: 0.7500
+Epoch [17/20], Loss: 0.3246, Validation Accuracy: 0.7000
+Epoch [18/20], Loss: 0.3053, Validation Accuracy: 0.7500
+Epoch [19/20], Loss: 0.4233, Validation Accuracy: 0.8000
+Epoch [20/20], Loss: 0.6834, Validation Accuracy: 0.8000
+trying to get de_gpt-3.5-turbo
+dataset/processed_multitude/test_data/de_gpt-3.5-turbo.json
+trying to get de_gpt-4
+dataset/processed_multitude/test_data/de_gpt-4.json
+{'de-gpt-3.5-turbo': 0.8645124716553289, 'de-gpt-4': 0.8293650793650794}
+layer_num = 16
+trying to get de_train
+dataset/processed_multitude/train_valid_data/de_train.json
+trying to get de_val
+dataset/processed_multitude/train_valid_data/de_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.6177, Validation Accuracy: 0.4500
+Epoch [2/20], Loss: 0.8365, Validation Accuracy: 0.4000
+Epoch [3/20], Loss: 0.7401, Validation Accuracy: 0.4000
+Epoch [4/20], Loss: 0.6757, Validation Accuracy: 0.6500
+Epoch [5/20], Loss: 0.6776, Validation Accuracy: 0.4000
+Epoch [6/20], Loss: 0.6489, Validation Accuracy: 0.7000
+Epoch [7/20], Loss: 0.6854, Validation Accuracy: 0.4000
+Epoch [8/20], Loss: 0.7013, Validation Accuracy: 0.7500
+Epoch [9/20], Loss: 0.6478, Validation Accuracy: 0.4000
+Epoch [10/20], Loss: 0.5950, Validation Accuracy: 0.7500
+Epoch [11/20], Loss: 0.6034, Validation Accuracy: 0.6500
+Epoch [12/20], Loss: 0.4665, Validation Accuracy: 0.7500
+Epoch [13/20], Loss: 0.6487, Validation Accuracy: 0.7500
+Epoch [14/20], Loss: 0.5768, Validation Accuracy: 0.7000
+Epoch [15/20], Loss: 0.4190, Validation Accuracy: 0.7500
+Epoch [16/20], Loss: 0.4781, Validation Accuracy: 0.7500
+Epoch [17/20], Loss: 0.4878, Validation Accuracy: 0.8000
+Epoch [18/20], Loss: 0.4818, Validation Accuracy: 0.7500
+Epoch [19/20], Loss: 0.5350, Validation Accuracy: 0.7500
+Epoch [20/20], Loss: 0.3229, Validation Accuracy: 0.8000
+trying to get de_gpt-3.5-turbo
+dataset/processed_multitude/test_data/de_gpt-3.5-turbo.json
+trying to get de_gpt-4
+dataset/processed_multitude/test_data/de_gpt-4.json
+{'de-gpt-3.5-turbo': 0.8514739229024942, 'de-gpt-4': 0.8140589569160998}
+layer_num = 17
+trying to get de_train
+dataset/processed_multitude/train_valid_data/de_train.json
+trying to get de_val
+dataset/processed_multitude/train_valid_data/de_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.6625, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 1.0113, Validation Accuracy: 0.6000
+Epoch [3/20], Loss: 0.5719, Validation Accuracy: 0.4000
+Epoch [4/20], Loss: 0.5732, Validation Accuracy: 0.6000
+Epoch [5/20], Loss: 0.6568, Validation Accuracy: 0.4000
+Epoch [6/20], Loss: 0.5742, Validation Accuracy: 0.4000
+Epoch [7/20], Loss: 0.5853, Validation Accuracy: 0.4000
+Epoch [8/20], Loss: 0.8224, Validation Accuracy: 0.5500
+Epoch [9/20], Loss: 0.6357, Validation Accuracy: 0.4000
+Epoch [10/20], Loss: 0.6240, Validation Accuracy: 0.6500
+Epoch [11/20], Loss: 0.6140, Validation Accuracy: 0.4000
+Epoch [12/20], Loss: 0.6363, Validation Accuracy: 0.7500
+Epoch [13/20], Loss: 0.6133, Validation Accuracy: 0.7500
+Epoch [14/20], Loss: 0.4564, Validation Accuracy: 0.7500
+Epoch [15/20], Loss: 0.6172, Validation Accuracy: 0.7000
+Epoch [16/20], Loss: 0.4549, Validation Accuracy: 0.7000
+Epoch [17/20], Loss: 0.4964, Validation Accuracy: 0.8000
+Epoch [18/20], Loss: 0.4605, Validation Accuracy: 0.7500
+Epoch [19/20], Loss: 0.4478, Validation Accuracy: 0.7500
+Epoch [20/20], Loss: 0.3396, Validation Accuracy: 0.7000
+trying to get de_gpt-3.5-turbo
+dataset/processed_multitude/test_data/de_gpt-3.5-turbo.json
+trying to get de_gpt-4
+dataset/processed_multitude/test_data/de_gpt-4.json
+{'de-gpt-3.5-turbo': 0.8435374149659864, 'de-gpt-4': 0.8066893424036281}
+layer_num = 18
+trying to get de_train
+dataset/processed_multitude/train_valid_data/de_train.json
+trying to get de_val
+dataset/processed_multitude/train_valid_data/de_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.6741, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.6659, Validation Accuracy: 0.6500
+Epoch [3/20], Loss: 0.6766, Validation Accuracy: 0.4000
+Epoch [4/20], Loss: 0.6625, Validation Accuracy: 0.6000
+Epoch [5/20], Loss: 0.6083, Validation Accuracy: 0.7000
+Epoch [6/20], Loss: 0.7048, Validation Accuracy: 0.4000
+Epoch [7/20], Loss: 0.6148, Validation Accuracy: 0.6500
+Epoch [8/20], Loss: 0.7448, Validation Accuracy: 0.4000
+Epoch [9/20], Loss: 0.6697, Validation Accuracy: 0.7500
+Epoch [10/20], Loss: 0.5371, Validation Accuracy: 0.7500
+Epoch [11/20], Loss: 0.6274, Validation Accuracy: 0.7500
+Epoch [12/20], Loss: 0.6764, Validation Accuracy: 0.7000
+Epoch [13/20], Loss: 0.5202, Validation Accuracy: 0.8000
+Epoch [14/20], Loss: 0.5042, Validation Accuracy: 0.7000
+Epoch [15/20], Loss: 0.3531, Validation Accuracy: 0.7500
+Epoch [16/20], Loss: 0.5179, Validation Accuracy: 0.8000
+Epoch [17/20], Loss: 0.4056, Validation Accuracy: 0.8000
+Epoch [18/20], Loss: 0.2626, Validation Accuracy: 0.8000
+Epoch [19/20], Loss: 0.4592, Validation Accuracy: 0.8000
+Epoch [20/20], Loss: 0.4858, Validation Accuracy: 0.8000
+trying to get de_gpt-3.5-turbo
+dataset/processed_multitude/test_data/de_gpt-3.5-turbo.json
+trying to get de_gpt-4
+dataset/processed_multitude/test_data/de_gpt-4.json
+{'de-gpt-3.5-turbo': 0.8775510204081632, 'de-gpt-4': 0.8475056689342404}
+layer_num = 19
+trying to get de_train
+dataset/processed_multitude/train_valid_data/de_train.json
+trying to get de_val
+dataset/processed_multitude/train_valid_data/de_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.8190, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.7830, Validation Accuracy: 0.6000
+Epoch [3/20], Loss: 0.8388, Validation Accuracy: 0.5500
+Epoch [4/20], Loss: 0.6675, Validation Accuracy: 0.4000
+Epoch [5/20], Loss: 0.6785, Validation Accuracy: 0.4000
+Epoch [6/20], Loss: 0.6263, Validation Accuracy: 0.4500
+Epoch [7/20], Loss: 0.6555, Validation Accuracy: 0.8000
+Epoch [8/20], Loss: 0.8435, Validation Accuracy: 0.6000
+Epoch [9/20], Loss: 0.5575, Validation Accuracy: 0.6500
+Epoch [10/20], Loss: 0.5201, Validation Accuracy: 0.6500
+Epoch [11/20], Loss: 0.5932, Validation Accuracy: 0.6500
+Epoch [12/20], Loss: 0.5472, Validation Accuracy: 0.7500
+Epoch [13/20], Loss: 0.5789, Validation Accuracy: 0.6500
+Epoch [14/20], Loss: 0.4960, Validation Accuracy: 0.7000
+Epoch [15/20], Loss: 0.5325, Validation Accuracy: 0.7000
+Epoch [16/20], Loss: 0.4997, Validation Accuracy: 0.7500
+Epoch [17/20], Loss: 0.4515, Validation Accuracy: 0.7500
+Epoch [18/20], Loss: 0.4199, Validation Accuracy: 0.8000
+Epoch [19/20], Loss: 0.3596, Validation Accuracy: 0.8000
+Epoch [20/20], Loss: 0.3713, Validation Accuracy: 0.8000
+trying to get de_gpt-3.5-turbo
+dataset/processed_multitude/test_data/de_gpt-3.5-turbo.json
+trying to get de_gpt-4
+dataset/processed_multitude/test_data/de_gpt-4.json
+{'de-gpt-3.5-turbo': 0.9087301587301587, 'de-gpt-4': 0.8900226757369615}
+layer_num = 20
+trying to get de_train
+dataset/processed_multitude/train_valid_data/de_train.json
+trying to get de_val
+dataset/processed_multitude/train_valid_data/de_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.5886, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.5588, Validation Accuracy: 0.6000
+Epoch [3/20], Loss: 0.6108, Validation Accuracy: 0.4000
+Epoch [4/20], Loss: 0.5489, Validation Accuracy: 0.6000
+Epoch [5/20], Loss: 0.8805, Validation Accuracy: 0.4000
+Epoch [6/20], Loss: 0.5477, Validation Accuracy: 0.6500
+Epoch [7/20], Loss: 0.6149, Validation Accuracy: 0.5500
+Epoch [8/20], Loss: 0.5225, Validation Accuracy: 0.6000
+Epoch [9/20], Loss: 0.6661, Validation Accuracy: 0.8000
+Epoch [10/20], Loss: 0.7266, Validation Accuracy: 0.7500
+Epoch [11/20], Loss: 0.6108, Validation Accuracy: 0.7000
+Epoch [12/20], Loss: 0.5597, Validation Accuracy: 0.8000
+Epoch [13/20], Loss: 0.5072, Validation Accuracy: 0.8000
+Epoch [14/20], Loss: 0.5565, Validation Accuracy: 0.8000
+Epoch [15/20], Loss: 0.3774, Validation Accuracy: 0.5500
+Epoch [16/20], Loss: 0.3258, Validation Accuracy: 0.7000
+Epoch [17/20], Loss: 0.3852, Validation Accuracy: 0.8000
+Epoch [18/20], Loss: 0.3332, Validation Accuracy: 0.8000
+Epoch [19/20], Loss: 0.3563, Validation Accuracy: 0.8000
+Epoch [20/20], Loss: 0.2584, Validation Accuracy: 0.8000
+trying to get de_gpt-3.5-turbo
+dataset/processed_multitude/test_data/de_gpt-3.5-turbo.json
+trying to get de_gpt-4
+dataset/processed_multitude/test_data/de_gpt-4.json
+{'de-gpt-3.5-turbo': 0.9591836734693878, 'de-gpt-4': 0.947845804988662}
+layer_num = 21
+trying to get de_train
+dataset/processed_multitude/train_valid_data/de_train.json
+trying to get de_val
+dataset/processed_multitude/train_valid_data/de_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.8496, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.6408, Validation Accuracy: 0.6000
+Epoch [3/20], Loss: 0.6336, Validation Accuracy: 0.7500
+Epoch [4/20], Loss: 0.6176, Validation Accuracy: 0.6500
+Epoch [5/20], Loss: 0.6294, Validation Accuracy: 0.5000
+Epoch [6/20], Loss: 0.6841, Validation Accuracy: 0.5500
+Epoch [7/20], Loss: 0.5157, Validation Accuracy: 0.5000
+Epoch [8/20], Loss: 0.6142, Validation Accuracy: 0.8000
+Epoch [9/20], Loss: 0.8822, Validation Accuracy: 0.4500
+Epoch [10/20], Loss: 0.6025, Validation Accuracy: 0.7500
+Epoch [11/20], Loss: 0.5440, Validation Accuracy: 0.7000
+Epoch [12/20], Loss: 0.4850, Validation Accuracy: 0.8000
+Epoch [13/20], Loss: 0.5373, Validation Accuracy: 0.8000
+Epoch [14/20], Loss: 0.4479, Validation Accuracy: 0.8000
+Epoch [15/20], Loss: 0.2964, Validation Accuracy: 0.7000
+Epoch [16/20], Loss: 0.2669, Validation Accuracy: 0.8000
+Epoch [17/20], Loss: 0.3481, Validation Accuracy: 0.8000
+Epoch [18/20], Loss: 0.4186, Validation Accuracy: 0.8000
+Epoch [19/20], Loss: 0.3069, Validation Accuracy: 0.8000
+Epoch [20/20], Loss: 0.3536, Validation Accuracy: 0.8000
+trying to get de_gpt-3.5-turbo
+dataset/processed_multitude/test_data/de_gpt-3.5-turbo.json
+trying to get de_gpt-4
+dataset/processed_multitude/test_data/de_gpt-4.json
+{'de-gpt-3.5-turbo': 0.9563492063492064, 'de-gpt-4': 0.9433106575963718}
+layer_num = 22
+trying to get de_train
+dataset/processed_multitude/train_valid_data/de_train.json
+trying to get de_val
+dataset/processed_multitude/train_valid_data/de_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.6736, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.7086, Validation Accuracy: 0.6000
+Epoch [3/20], Loss: 0.8016, Validation Accuracy: 0.7000
+Epoch [4/20], Loss: 0.5740, Validation Accuracy: 0.6000
+Epoch [5/20], Loss: 0.5088, Validation Accuracy: 0.6500
+Epoch [6/20], Loss: 0.4315, Validation Accuracy: 0.7500
+Epoch [7/20], Loss: 0.6370, Validation Accuracy: 0.8000
+Epoch [8/20], Loss: 0.6168, Validation Accuracy: 0.7000
+Epoch [9/20], Loss: 0.6268, Validation Accuracy: 0.7500
+Epoch [10/20], Loss: 0.5686, Validation Accuracy: 0.7500
+Epoch [11/20], Loss: 0.5164, Validation Accuracy: 0.7500
+Epoch [12/20], Loss: 0.4960, Validation Accuracy: 0.7500
+Epoch [13/20], Loss: 0.4443, Validation Accuracy: 0.8000
+Epoch [14/20], Loss: 0.2598, Validation Accuracy: 0.8000
+Epoch [15/20], Loss: 0.2491, Validation Accuracy: 0.8000
+Epoch [16/20], Loss: 0.2075, Validation Accuracy: 0.8000
+Epoch [17/20], Loss: 0.3805, Validation Accuracy: 0.8000
+Epoch [18/20], Loss: 0.2239, Validation Accuracy: 0.8000
+Epoch [19/20], Loss: 0.1032, Validation Accuracy: 0.7500
+Epoch [20/20], Loss: 0.2165, Validation Accuracy: 0.8000
+trying to get de_gpt-3.5-turbo
+dataset/processed_multitude/test_data/de_gpt-3.5-turbo.json
+trying to get de_gpt-4
+dataset/processed_multitude/test_data/de_gpt-4.json
+{'de-gpt-3.5-turbo': 0.9251700680272108, 'de-gpt-4': 0.927437641723356}
+layer_num = 23
+trying to get de_train
+dataset/processed_multitude/train_valid_data/de_train.json
+trying to get de_val
+dataset/processed_multitude/train_valid_data/de_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.6938, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.6987, Validation Accuracy: 0.9000
+Epoch [3/20], Loss: 0.5187, Validation Accuracy: 0.8500
+Epoch [4/20], Loss: 0.7749, Validation Accuracy: 0.8000
+Epoch [5/20], Loss: 0.5317, Validation Accuracy: 0.8500
+Epoch [6/20], Loss: 0.5477, Validation Accuracy: 0.7000
+Epoch [7/20], Loss: 0.4732, Validation Accuracy: 0.8500
+Epoch [8/20], Loss: 0.4856, Validation Accuracy: 0.7500
+Epoch [9/20], Loss: 0.5501, Validation Accuracy: 0.8000
+Epoch [10/20], Loss: 0.3378, Validation Accuracy: 0.8000
+Epoch [11/20], Loss: 0.2373, Validation Accuracy: 0.7500
+Epoch [12/20], Loss: 0.2093, Validation Accuracy: 0.8000
+Epoch [13/20], Loss: 0.2793, Validation Accuracy: 0.7500
+Epoch [14/20], Loss: 0.2173, Validation Accuracy: 0.8000
+Epoch [15/20], Loss: 0.1454, Validation Accuracy: 0.8000
+Epoch [16/20], Loss: 0.2840, Validation Accuracy: 0.7500
+Epoch [17/20], Loss: 0.2016, Validation Accuracy: 0.8000
+Epoch [18/20], Loss: 0.1560, Validation Accuracy: 0.8000
+Epoch [19/20], Loss: 0.1633, Validation Accuracy: 0.7000
+Epoch [20/20], Loss: 0.1339, Validation Accuracy: 0.8000
+trying to get de_gpt-3.5-turbo
+dataset/processed_multitude/test_data/de_gpt-3.5-turbo.json
+trying to get de_gpt-4
+dataset/processed_multitude/test_data/de_gpt-4.json
+{'de-gpt-3.5-turbo': 0.9257369614512472, 'de-gpt-4': 0.9308390022675738}
+layer_num = 24
+trying to get de_train
+dataset/processed_multitude/train_valid_data/de_train.json
+trying to get de_val
+dataset/processed_multitude/train_valid_data/de_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.7018, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.7182, Validation Accuracy: 0.6500
+Epoch [3/20], Loss: 0.6479, Validation Accuracy: 0.4000
+Epoch [4/20], Loss: 0.5886, Validation Accuracy: 0.8000
+Epoch [5/20], Loss: 0.6287, Validation Accuracy: 0.7000
+Epoch [6/20], Loss: 0.6338, Validation Accuracy: 0.7500
+Epoch [7/20], Loss: 0.5363, Validation Accuracy: 0.8000
+Epoch [8/20], Loss: 0.4900, Validation Accuracy: 0.8000
+Epoch [9/20], Loss: 0.4263, Validation Accuracy: 0.7500
+Epoch [10/20], Loss: 0.3759, Validation Accuracy: 0.8000
+Epoch [11/20], Loss: 0.3990, Validation Accuracy: 0.7500
+Epoch [12/20], Loss: 0.2988, Validation Accuracy: 0.8500
+Epoch [13/20], Loss: 0.2465, Validation Accuracy: 0.8000
+Epoch [14/20], Loss: 0.1460, Validation Accuracy: 0.8000
+Epoch [15/20], Loss: 0.3349, Validation Accuracy: 0.8000
+Epoch [16/20], Loss: 0.1375, Validation Accuracy: 0.7000
+Epoch [17/20], Loss: 0.1446, Validation Accuracy: 0.7500
+Epoch [18/20], Loss: 0.0979, Validation Accuracy: 0.8000
+Epoch [19/20], Loss: 0.0636, Validation Accuracy: 0.7500
+Epoch [20/20], Loss: 0.0826, Validation Accuracy: 0.8000
+trying to get de_gpt-3.5-turbo
+dataset/processed_multitude/test_data/de_gpt-3.5-turbo.json
+trying to get de_gpt-4
+dataset/processed_multitude/test_data/de_gpt-4.json
+{'de-gpt-3.5-turbo': 0.9257369614512472, 'de-gpt-4': 0.9291383219954649}
+layer_num = 25
+trying to get de_train
+dataset/processed_multitude/train_valid_data/de_train.json
+trying to get de_val
+dataset/processed_multitude/train_valid_data/de_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.5716, Validation Accuracy: 0.5500
+Epoch [2/20], Loss: 0.7049, Validation Accuracy: 0.4000
+Epoch [3/20], Loss: 0.7216, Validation Accuracy: 0.7500
+Epoch [4/20], Loss: 0.7380, Validation Accuracy: 0.4500
+Epoch [5/20], Loss: 0.5421, Validation Accuracy: 0.7000
+Epoch [6/20], Loss: 0.7358, Validation Accuracy: 0.7000
+Epoch [7/20], Loss: 0.5369, Validation Accuracy: 0.7500
+Epoch [8/20], Loss: 0.5614, Validation Accuracy: 0.7000
+Epoch [9/20], Loss: 0.3439, Validation Accuracy: 0.8500
+Epoch [10/20], Loss: 0.4969, Validation Accuracy: 0.7500
+Epoch [11/20], Loss: 0.3050, Validation Accuracy: 0.7500
+Epoch [12/20], Loss: 0.2735, Validation Accuracy: 0.8000
+Epoch [13/20], Loss: 0.1580, Validation Accuracy: 0.8000
+Epoch [14/20], Loss: 0.2045, Validation Accuracy: 0.8500
+Epoch [15/20], Loss: 0.1111, Validation Accuracy: 0.8000
+Epoch [16/20], Loss: 0.1547, Validation Accuracy: 0.8000
+Epoch [17/20], Loss: 0.0754, Validation Accuracy: 0.8000
+Epoch [18/20], Loss: 0.0857, Validation Accuracy: 0.7500
+Epoch [19/20], Loss: 0.0592, Validation Accuracy: 0.8000
+Epoch [20/20], Loss: 0.1081, Validation Accuracy: 0.8500
+trying to get de_gpt-3.5-turbo
+dataset/processed_multitude/test_data/de_gpt-3.5-turbo.json
+trying to get de_gpt-4
+dataset/processed_multitude/test_data/de_gpt-4.json
+{'de-gpt-3.5-turbo': 0.9365079365079365, 'de-gpt-4': 0.9404761904761905}
+layer_num = 26
+trying to get de_train
+dataset/processed_multitude/train_valid_data/de_train.json
+trying to get de_val
+dataset/processed_multitude/train_valid_data/de_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.7879, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.8982, Validation Accuracy: 0.8000
+Epoch [3/20], Loss: 0.6034, Validation Accuracy: 0.6500
+Epoch [4/20], Loss: 0.5319, Validation Accuracy: 0.8500
+Epoch [5/20], Loss: 0.4151, Validation Accuracy: 0.7500
+Epoch [6/20], Loss: 0.4849, Validation Accuracy: 0.8500
+Epoch [7/20], Loss: 0.4848, Validation Accuracy: 0.8500
+Epoch [8/20], Loss: 0.3370, Validation Accuracy: 0.8500
+Epoch [9/20], Loss: 0.3789, Validation Accuracy: 0.7500
+Epoch [10/20], Loss: 0.2604, Validation Accuracy: 0.8500
+Epoch [11/20], Loss: 0.1693, Validation Accuracy: 0.8000
+Epoch [12/20], Loss: 0.2552, Validation Accuracy: 0.8500
+Epoch [13/20], Loss: 0.1244, Validation Accuracy: 0.8500
+Epoch [14/20], Loss: 0.1306, Validation Accuracy: 0.8000
+Epoch [15/20], Loss: 0.1105, Validation Accuracy: 0.8500
+Epoch [16/20], Loss: 0.0546, Validation Accuracy: 0.8500
+Epoch [17/20], Loss: 0.0643, Validation Accuracy: 0.8500
+Epoch [18/20], Loss: 0.1397, Validation Accuracy: 0.8000
+Epoch [19/20], Loss: 0.0716, Validation Accuracy: 0.8500
+Epoch [20/20], Loss: 0.0274, Validation Accuracy: 0.8500
+trying to get de_gpt-3.5-turbo
+dataset/processed_multitude/test_data/de_gpt-3.5-turbo.json
+trying to get de_gpt-4
+dataset/processed_multitude/test_data/de_gpt-4.json
+{'de-gpt-3.5-turbo': 0.9189342403628118, 'de-gpt-4': 0.9274376417233561}
+layer_num = 27
+trying to get de_train
+dataset/processed_multitude/train_valid_data/de_train.json
+trying to get de_val
+dataset/processed_multitude/train_valid_data/de_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.6911, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.7868, Validation Accuracy: 0.5000
+Epoch [3/20], Loss: 0.5790, Validation Accuracy: 0.8000
+Epoch [4/20], Loss: 0.6902, Validation Accuracy: 0.7000
+Epoch [5/20], Loss: 0.5166, Validation Accuracy: 0.7000
+Epoch [6/20], Loss: 0.3771, Validation Accuracy: 0.6500
+Epoch [7/20], Loss: 0.5795, Validation Accuracy: 0.7500
+Epoch [8/20], Loss: 0.4729, Validation Accuracy: 0.7500
+Epoch [9/20], Loss: 0.2923, Validation Accuracy: 0.8000
+Epoch [10/20], Loss: 0.3341, Validation Accuracy: 0.8000
+Epoch [11/20], Loss: 0.2948, Validation Accuracy: 0.8000
+Epoch [12/20], Loss: 0.2625, Validation Accuracy: 0.8500
+Epoch [13/20], Loss: 0.1951, Validation Accuracy: 0.8500
+Epoch [14/20], Loss: 0.0640, Validation Accuracy: 0.8500
+Epoch [15/20], Loss: 0.0639, Validation Accuracy: 0.8500
+Epoch [16/20], Loss: 0.0747, Validation Accuracy: 0.8500
+Epoch [17/20], Loss: 0.1358, Validation Accuracy: 0.8000
+Epoch [18/20], Loss: 0.0401, Validation Accuracy: 0.8000
+Epoch [19/20], Loss: 0.0647, Validation Accuracy: 0.8000
+Epoch [20/20], Loss: 0.0495, Validation Accuracy: 0.8000
+trying to get de_gpt-3.5-turbo
+dataset/processed_multitude/test_data/de_gpt-3.5-turbo.json
+trying to get de_gpt-4
+dataset/processed_multitude/test_data/de_gpt-4.json
+{'de-gpt-3.5-turbo': 0.9070294784580499, 'de-gpt-4': 0.9217687074829931}
+layer_num = 28
+trying to get de_train
+dataset/processed_multitude/train_valid_data/de_train.json
+trying to get de_val
+dataset/processed_multitude/train_valid_data/de_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.9897, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.7669, Validation Accuracy: 0.6000
+Epoch [3/20], Loss: 0.5433, Validation Accuracy: 0.4000
+Epoch [4/20], Loss: 0.5478, Validation Accuracy: 0.7500
+Epoch [5/20], Loss: 0.4817, Validation Accuracy: 0.7500
+Epoch [6/20], Loss: 0.3716, Validation Accuracy: 0.7000
+Epoch [7/20], Loss: 0.4307, Validation Accuracy: 0.8000
+Epoch [8/20], Loss: 0.3368, Validation Accuracy: 0.8500
+Epoch [9/20], Loss: 0.3113, Validation Accuracy: 0.8000
+Epoch [10/20], Loss: 0.1985, Validation Accuracy: 0.7500
+Epoch [11/20], Loss: 0.2695, Validation Accuracy: 0.8000
+Epoch [12/20], Loss: 0.2187, Validation Accuracy: 0.8000
+Epoch [13/20], Loss: 0.2155, Validation Accuracy: 0.8500
+Epoch [14/20], Loss: 0.1769, Validation Accuracy: 0.8500
+Epoch [15/20], Loss: 0.0492, Validation Accuracy: 0.8500
+Epoch [16/20], Loss: 0.1326, Validation Accuracy: 0.8500
+Epoch [17/20], Loss: 0.0520, Validation Accuracy: 0.8500
+Epoch [18/20], Loss: 0.0952, Validation Accuracy: 0.8500
+Epoch [19/20], Loss: 0.0545, Validation Accuracy: 0.8500
+Epoch [20/20], Loss: 0.0410, Validation Accuracy: 0.8500
+trying to get de_gpt-3.5-turbo
+dataset/processed_multitude/test_data/de_gpt-3.5-turbo.json
+trying to get de_gpt-4
+dataset/processed_multitude/test_data/de_gpt-4.json
+{'de-gpt-3.5-turbo': 0.9075963718820861, 'de-gpt-4': 0.9297052154195011}
+layer_num = 29
+trying to get de_train
+dataset/processed_multitude/train_valid_data/de_train.json
+trying to get de_val
+dataset/processed_multitude/train_valid_data/de_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.6174, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.6279, Validation Accuracy: 0.6000
+Epoch [3/20], Loss: 0.6469, Validation Accuracy: 0.8500
+Epoch [4/20], Loss: 0.4965, Validation Accuracy: 0.6500
+Epoch [5/20], Loss: 0.3594, Validation Accuracy: 0.7500
+Epoch [6/20], Loss: 0.3942, Validation Accuracy: 0.8500
+Epoch [7/20], Loss: 0.2909, Validation Accuracy: 0.8000
+Epoch [8/20], Loss: 0.2019, Validation Accuracy: 0.8500
+Epoch [9/20], Loss: 0.1123, Validation Accuracy: 0.8500
+Epoch [10/20], Loss: 0.1421, Validation Accuracy: 0.7000
+Epoch [11/20], Loss: 0.1782, Validation Accuracy: 0.8000
+Epoch [12/20], Loss: 0.0674, Validation Accuracy: 0.8500
+Epoch [13/20], Loss: 0.1600, Validation Accuracy: 0.8500
+Epoch [14/20], Loss: 0.0741, Validation Accuracy: 0.8500
+Epoch [15/20], Loss: 0.0252, Validation Accuracy: 0.8500
+Epoch [16/20], Loss: 0.0110, Validation Accuracy: 0.8000
+Epoch [17/20], Loss: 0.0098, Validation Accuracy: 0.8500
+Epoch [18/20], Loss: 0.0340, Validation Accuracy: 0.8500
+Epoch [19/20], Loss: 0.0384, Validation Accuracy: 0.8500
+Epoch [20/20], Loss: 0.0114, Validation Accuracy: 0.8000
+trying to get de_gpt-3.5-turbo
+dataset/processed_multitude/test_data/de_gpt-3.5-turbo.json
+trying to get de_gpt-4
+dataset/processed_multitude/test_data/de_gpt-4.json
+{'de-gpt-3.5-turbo': 0.9121315192743764, 'de-gpt-4': 0.9172335600907029}
+layer_num = 30
+trying to get de_train
+dataset/processed_multitude/train_valid_data/de_train.json
+trying to get de_val
+dataset/processed_multitude/train_valid_data/de_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.6439, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.6258, Validation Accuracy: 0.7500
+Epoch [3/20], Loss: 0.5124, Validation Accuracy: 0.8000
+Epoch [4/20], Loss: 0.4361, Validation Accuracy: 0.5500
+Epoch [5/20], Loss: 0.3265, Validation Accuracy: 0.8000
+Epoch [6/20], Loss: 0.2198, Validation Accuracy: 0.8500
+Epoch [7/20], Loss: 0.1909, Validation Accuracy: 0.7500
+Epoch [8/20], Loss: 0.2073, Validation Accuracy: 0.8500
+Epoch [9/20], Loss: 0.2325, Validation Accuracy: 0.8500
+Epoch [10/20], Loss: 0.0442, Validation Accuracy: 0.8500
+Epoch [11/20], Loss: 0.0678, Validation Accuracy: 0.8000
+Epoch [12/20], Loss: 0.0310, Validation Accuracy: 0.7500
+Epoch [13/20], Loss: 0.0182, Validation Accuracy: 0.8500
+Epoch [14/20], Loss: 0.0309, Validation Accuracy: 0.8000
+Epoch [15/20], Loss: 0.0312, Validation Accuracy: 0.8000
+Epoch [16/20], Loss: 0.0111, Validation Accuracy: 0.8000
+Epoch [17/20], Loss: 0.0271, Validation Accuracy: 0.8000
+Epoch [18/20], Loss: 0.0185, Validation Accuracy: 0.8000
+Epoch [19/20], Loss: 0.0076, Validation Accuracy: 0.7500
+Epoch [20/20], Loss: 0.0165, Validation Accuracy: 0.8000
+trying to get de_gpt-3.5-turbo
+dataset/processed_multitude/test_data/de_gpt-3.5-turbo.json
+trying to get de_gpt-4
+dataset/processed_multitude/test_data/de_gpt-4.json
+{'de-gpt-3.5-turbo': 0.8826530612244898, 'de-gpt-4': 0.9002267573696144}
+layer_num = 31
+trying to get de_train
+dataset/processed_multitude/train_valid_data/de_train.json
+trying to get de_val
+dataset/processed_multitude/train_valid_data/de_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.6888, Validation Accuracy: 0.4000
+Epoch [2/20], Loss: 0.5383, Validation Accuracy: 0.7500
+Epoch [3/20], Loss: 0.6196, Validation Accuracy: 0.7500
+Epoch [4/20], Loss: 0.3551, Validation Accuracy: 0.6000
+Epoch [5/20], Loss: 0.2990, Validation Accuracy: 0.7500
+Epoch [6/20], Loss: 0.3107, Validation Accuracy: 0.7000
+Epoch [7/20], Loss: 0.1964, Validation Accuracy: 0.8000
+Epoch [8/20], Loss: 0.1357, Validation Accuracy: 0.7500
+Epoch [9/20], Loss: 0.0602, Validation Accuracy: 0.8000
+Epoch [10/20], Loss: 0.0676, Validation Accuracy: 0.7500
+Epoch [11/20], Loss: 0.0287, Validation Accuracy: 0.8500
+Epoch [12/20], Loss: 0.0483, Validation Accuracy: 0.8500
+Epoch [13/20], Loss: 0.0374, Validation Accuracy: 0.7500
+Epoch [14/20], Loss: 0.0116, Validation Accuracy: 0.7500
+Epoch [15/20], Loss: 0.0171, Validation Accuracy: 0.6500
+Epoch [16/20], Loss: 0.0128, Validation Accuracy: 0.8000
+Epoch [17/20], Loss: 0.0204, Validation Accuracy: 0.8000
+Epoch [18/20], Loss: 0.0112, Validation Accuracy: 0.7000
+Epoch [19/20], Loss: 0.0073, Validation Accuracy: 0.8000
+Epoch [20/20], Loss: 0.0057, Validation Accuracy: 0.8000
+trying to get de_gpt-3.5-turbo
+dataset/processed_multitude/test_data/de_gpt-3.5-turbo.json
+trying to get de_gpt-4
+dataset/processed_multitude/test_data/de_gpt-4.json
+{'de-gpt-3.5-turbo': 0.8429705215419501, 'de-gpt-4': 0.8747165532879818}
+layer_num = 32
+trying to get de_train
+dataset/processed_multitude/train_valid_data/de_train.json
+trying to get de_val
+dataset/processed_multitude/train_valid_data/de_val.json
+the device being used is cuda
+there are 150 train data and 20 validation data.
+Epoch [1/20], Loss: 0.8350, Validation Accuracy: 0.6500
+Epoch [2/20], Loss: 0.5673, Validation Accuracy: 0.7000
+Epoch [3/20], Loss: 0.3666, Validation Accuracy: 0.7000
+Epoch [4/20], Loss: 0.2892, Validation Accuracy: 0.7000
+Epoch [5/20], Loss: 0.1745, Validation Accuracy: 0.7500
+Epoch [6/20], Loss: 0.1172, Validation Accuracy: 0.7000
+Epoch [7/20], Loss: 0.1414, Validation Accuracy: 0.7000
+Epoch [8/20], Loss: 0.0380, Validation Accuracy: 0.7000
+Epoch [9/20], Loss: 0.0516, Validation Accuracy: 0.7500
+Epoch [10/20], Loss: 0.0417, Validation Accuracy: 0.7500
+Epoch [11/20], Loss: 0.0232, Validation Accuracy: 0.8000
+Epoch [12/20], Loss: 0.0805, Validation Accuracy: 0.7500
+Epoch [13/20], Loss: 0.0321, Validation Accuracy: 0.7500
+Epoch [14/20], Loss: 0.0313, Validation Accuracy: 0.7500
+Epoch [15/20], Loss: 0.0195, Validation Accuracy: 0.7500
+Epoch [16/20], Loss: 0.0135, Validation Accuracy: 0.8000
+Epoch [17/20], Loss: 0.0156, Validation Accuracy: 0.8000
+Epoch [18/20], Loss: 0.0161, Validation Accuracy: 0.7500
+Epoch [19/20], Loss: 0.0057, Validation Accuracy: 0.8000
+Epoch [20/20], Loss: 0.0064, Validation Accuracy: 0.7500
+trying to get de_gpt-3.5-turbo
+dataset/processed_multitude/test_data/de_gpt-3.5-turbo.json
+trying to get de_gpt-4
+dataset/processed_multitude/test_data/de_gpt-4.json
+{'de-gpt-3.5-turbo': 0.8078231292517006, 'de-gpt-4': 0.8503401360544218}
+
+
+
+max_kl:
+{'de-gpt-3.5-turbo': 0.826530612244898, 'de-gpt-4': 0.8611111111111112}
+
+
+
+layer_selection:
+train data
+[30 30 30 30 30 29 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30 30 27 29 30 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30 30 30 30 30 29 30 30 30 30 30 30 30 30 29
+ 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30  9 30 30 30 30 30 30
+ 30 30 30 30 30 30]
+eval data
+[30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30  8 30 30  8 29 30 30 30 29 30 30 30 30 30 30 29 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30]
+gpt 3.5
+[30 30 30 30 30 30 30 30 30 30 30 30 30 30  8 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 29 30  8 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30 30 30]
+gpt 4
+[30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 29 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 29
+ 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30
+ 30  8 30 30 30 30 30 30 30 30 30 30]
