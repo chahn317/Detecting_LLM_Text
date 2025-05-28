@@ -37,7 +37,8 @@ pip install -r requirements.txt
 ├── src/
 │   ├── process_multitude_data.py # Preprocessing script for multilingual input
 |   └── process_counseling_data.py # Preprocessing script for counseling input
-├── main.ipynb                    # Main notebook for English-only experiments
+├── base.py                        # Main python file for English-only experiments
+├── multilingual.py                # python file for multilingual experiments
 ├── main_other_data.ipynb         # Notebook for multilingual and additional datasets
 ├── process_text_length.ipynb     # Helper notebook for analyzing token lengths
 └── figures/                      # Stores plots such as AUROC vs. layer
@@ -47,9 +48,23 @@ pip install -r requirements.txt
 
 ### Base (English-only)
 
-To reproduce the English-only experiment across all layers, run the steps in:
+To reproduce the English-only experiment across all layers, run the following command
 
-- `main.ipynb`
+```bash
+python base.py --layer_num -1 --datasets pub pub writing xsum
+```
+
+#### Explanation of Arguments
+
+- `--layer_num`: Specifies which layer's embeddings to use for training and evaluation.
+  - `0–32`: Use embeddings from that specific layer.
+  - `-1`: Use the layer with the maximum KL divergence (automatically selected per example).
+  - `-2`: Run the experiment across all layers (0–32) and evaluate each one.
+
+- `--datasets`: Specifies the test datasets to evaluate the classifier on. Each dataset corresponds to a different domain or type of text:
+  - `pub`: Public domain or general web content
+  - `writing`: Formal or academic writing samples
+  - `xsum`: News articles and summaries from the XSum dataset
 
 ### Multilingual Extension
 
@@ -61,25 +76,34 @@ To run multilingual evaluation with KL-based layer selection:
 python src/process_multitude_data.py
 ```
 
-2. Run classification and evaluation by modifying parameters (e.g., language, file paths) in:
+2. Run the following command: 
 
-- `main_other_data.ipynb`
+```bash
+python python multilingual.py --layer_num -1 --epochs 10 --dropout 0.4 --lr 0.0003 --language 'cs'
+```
+#### Explanation of Arguments
 
-> Note: We are currently working on converting these notebooks into fully scripted pipelines to simplify reproducibility.
+- `--layer_num`: Specifies which layer's embeddings to use for training and evaluation.
+  - `0–32`: Use embeddings from that specific layer.
+  - `-1`: Use the layer with the maximum KL divergence (automatically selected per example).
+  - `-2`: Run the experiment across all layers (0–32) and evaluate each one.
 
-## Supported Languages
+- `--epochs`: Number of epochs for classifier training.
+- `--dropout`: Dropout probability for the classifier model.
+- `--lr`: Learning rate for the optimizer.
+- `--language`: Target language code for the experiment. Supported language codes are:
+  - English (en)
+  - Arabic (ar)
+  - Catalan (ca)
+  - Czech (cs)
+  - German (de)
+  - Dutch (nl)
+  - Portuguese (pt)
+  - Russian (ru)
+  - Ukrainian (uk)
+  - Chinese (zh)
+  - Spanish (es)
 
-- English (en)
-- Arabic (ar)
-- Catalan (ca)
-- Czech (cs)
-- German (de)
-- Dutch (nl)
-- Portuguese (pt)
-- Russian (ru)
-- Ukrainian (uk)
-- Chinese (zh)
-- Spanish (es)
 
 ## Results & Visualization
 
