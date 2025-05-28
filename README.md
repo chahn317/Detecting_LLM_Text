@@ -46,6 +46,42 @@ pip install -r requirements.txt
 
 ## Running the Experiments
 
+### Baselines
+
+To run the baseline methods RADAR and FastDetectGPT, first set up the environments for each of the methods. The requirements files can be found in each of their respective directories.
+```
+─ fast-detect-gpt
+   └── requirements.txt            # Requirements file
+─ radar
+   └── env
+      ├── radar_core.yaml         # YAML file for conda environment
+      └── radar_requirements.txt  # Requirements file
+```
+
+Then, run the following script to save the evaluation results to the `results` directory.
+```bash
+./scripts/baselines.sh
+```
+
+Alternatively, run the Python scripts for RADAR and FastDetectGPT respectively. An example usage is as such
+```bash
+python radar/RADAR.py \
+  --dataset-path "dataset/processed_data/test_data/pub_gpt4.json" \
+  --results-path "results/radar_multitude.json" \
+  --cache-dir "/scratch/text-fluoroscopy/.cache"
+
+python fast-detect-gpt/src/replication.py \
+  --dataset-path "dataset/processed_data/test_data/pub_gpt4.json" \
+  --results-path "results/fast-detect-gpt.json" \
+  --cache-dir "/scratch/text-fluoroscopy/.cache"
+```
+
+#### Explanation of Arguments
+
+- `--dataset-path`: Specifies the path to the data to evaluate.
+- `--results-path`: Specifies the path to the file to save the results in.
+- `--cache-dir`: Specifies the path to the cache for the models.
+
 ### Base (English-only)
 
 To reproduce the English-only experiment across all layers, run the following command
