@@ -27,6 +27,16 @@ os.makedirs(f"{output_dir}/labels", exist_ok=True)
 os.makedirs(f"{output_dir}/test_data", exist_ok=True)
 os.makedirs(f"{output_dir}/train_valid_data", exist_ok=True)
 
+# Get a general language training set
+human_df = data[data['result'] == 0].sample(n=TRAIN_SIZE // 2)
+llm_df = data[data['result'] == 1].sample(n=TRAIN_SIZE // 2)
+train_df = pd.concat([human_df, llm_df]).sample(frac=1, random_state=SEED).reset_index(drop=True)
+train_data = train_df[["text", "result"]].to_dict(orient="records") 
+train_labels = torch.tensor(train_df["result"].astype(int).tolist())
+torch.save(train_labels, f"{output_dir}/labels/all_train.pt")
+with open(f"{output_dir}/train_valid_data/all_train.json", 'w', encoding='utf-8') as output_file:
+    json.dump(train_data, output_file, ensure_ascii=False, indent=4)
+
 # Combine all their data and re-split it
 # Group by language
 grouped_by_language = data.groupby('language')
