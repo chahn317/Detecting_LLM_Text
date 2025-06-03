@@ -87,7 +87,7 @@ python fast-detect-gpt/src/replication.py \
 To reproduce the English-only experiment across all layers, run the following command
 
 ```bash
-python base.py --layer_num -1 --datasets pub pub writing xsum
+python base.py --layer_num -1 --datasets pub writing xsum
 ```
 
 #### Explanation of Arguments
@@ -101,6 +101,10 @@ python base.py --layer_num -1 --datasets pub pub writing xsum
   - `pub`: Public domain or general web content
   - `writing`: Formal or academic writing samples
   - `xsum`: News articles and summaries from the XSum dataset
+
+### Text Length + Cross-Domain Extension
+
+For our text length/cross-domain extensions, run the code in `text_length.ipynb` and `cross_domain.ipynb`, respectively.
 
 ### Multilingual Extension
 
